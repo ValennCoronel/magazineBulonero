@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /condiciones-de-uso/
+Disallow: /api/www.metricspot.com
+Disallow: /*.js$
+Disallow: /*.css$
+Sitemap: http://bulonero.com/sitemap.xml
+disallow: http://bulonero.com/emagazine/206.php

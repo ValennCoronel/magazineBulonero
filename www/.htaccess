@@ -1,0 +1,35 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(www\.bulonero\.com)(:80)? [NC]
+RewriteRule ^(.*) http://bulonero.com/$1 [R=301,L]
+
+RewriteEngine On
+RewriteCond %{REQUEST_URI} "!/.well-known/acme-challenge/"
+RewriteCond %{HTTPS} !=on
+RewriteRule ^.*$ https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
+
+redirect 301 /expo.html  https://bulonero.com/guia-empresas.html
+redirect 301 /guia-emp.html https://bulonero.com/guia-empresas.html
+redirect 301 /empresa.html https://bulonero.com/guia-empresas.html
+redirect 301 /e-magazine.html https://bulonero.com/revista.html
+redirect 301 /emagazine/210.php https://bulonero.com/revista.html
+redirect 301 /emagazine/209.php https://bulonero.com/revista.html
+redirect 301 /novedades.html http://noti.bulonero.com
+redirect 301 /emagazine/212.php https://bulonero.com/revista.html
+redirect 301 /emagazine/213.php https://bulonero.com/revista.html
+redirect 301 /emagazine/214.php https://bulonero.com/revista.html
+redirect 301 /magazine-digital.html https://bulonero.com/revista.html
+
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault "access plus 10 days"
+ExpiresByType text/css "access plus 2 week"
+ExpiresByType text/plain "access plus 2 week"
+ExpiresByType image/gif "access plus 1 week"
+ExpiresByType image/png "access plus 1 week"
+ExpiresByType image/jpeg "access plus 1 week"
+ExpiresByType image/x-icon "access plus 3 months"
+ExpiresByType application/x-javascript "access plus 1 month"
+ExpiresByType application/javascript "access plus 6 week"
+ExpiresByType text/javascript "access plus 2 week"
+ExpiresByType application/x-icon "access plus 3 months"
+</IfModule>

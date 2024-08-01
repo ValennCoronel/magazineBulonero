@@ -27,7 +27,8 @@
     <link rel="icon" href="m-bulonero.ico" type="image/x-icon">
 
     <!-- Custom JS -->
-    <script src="scripts.js"></script>
+    <script src="js/scripts.js"></script>
+    <script src="js/filter.js"></script>
 
     <title>Guía Empresa -Magazine Bulonero</title>
     <meta name="description" content="Guia de empresas de Magazine Bulonero. Fabricas de bulones, tornillos, tuercas, arandelas, maquinas y herramientas, tratamientos termicos, Resortes y a fines del Rubro.">
@@ -150,69 +151,70 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                    <!--boton Informacion -->
         <form class="d-flex">
             <a class="btn btn-danger d-none d-lg-inline-block mb-3 mb-md-0 ml-md-3" href="contacto.html">Contacto</a>
-          </form></div></div>  
+         </form></div></div>  
         </nav>
 
        <form class="d-flex menu_ge">
             <a class="menu_ge1 mb-3 mb-md-0 ml-md-3 btn btn-danger d-lg-inline-block" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling">ver + Categorías</a>
+            <p id="selected-category" class="text-uppercase text-white-50 h6 ms-4 mt-3"></p>
         </form>
 
 <div class="offcanvas offcanvas-start" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
   <div class="offcanvas-header">
-    <h5 class="offcanvas-title" id="offcanvasScrollingLabel">MAGAZINE BULONERO</h5>
+    <h5 class="offcanvas-title=" id="offcanvasScrollingLabel">MAGAZINE BULONERO</h5>
     <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
   </div>
   <div class="offcanvas-body">
-    <a href="guia-empresas.html"><h4 class ="offcanvas-active">Todos</h4></a>
-       <a href="abrasivos.html"><h4 class ="offcanvas-body1">Abrasivos</h4></a>
-       <a href="abrazaderas.html"><h4 class ="offcanvas-body1">Abrazaderas</h4></a>
-       <a href="acero-inox.html"><h4 class ="offcanvas-body1">Acero Inoxidable</h4></a>
-       <a href="adhesivos.html"><h4 class ="offcanvas-body1">Adhesivos</h4></a>
-       <a href="arandelas.html"><h4 class ="offcanvas-body1">Arandelas</h4></a>
-       <a href="bulones.html"><h4 class ="offcanvas-body1">Bulones</h4></a>
-       <a href="cablesyaceros.html"><h4 class ="offcanvas-body1">Cables y Aceros</h4></a>
-       <a href="cepillo.html"><h4 class ="offcanvas-body1">Cepillos</h4></a>
-       <a href="chavetas.html"><h4 class ="offcanvas-body1">Chavetas</h4></a>
-       <a href="clavos.html"><h4 class ="offcanvas-body1">Clavos</h4></a>
-       <a href="clips.html"><h4 class ="offcanvas-body1">Clips</h4></a>
-       <a href="disco-corte.html"><h4 class ="offcanvas-body1">Disco Corte</h4></a>
-       <a href="esparragos.html"><h4 class ="offcanvas-body1">Espárragos</h4></a>
-       <a href="fijaciones.html"><h4 class ="offcanvas-body1">Fijaciones</h4></a>
-       <a href="ganchos.html"><h4 class ="offcanvas-body1">Ganchos</h4></a>
-       <a href="herrajes.html"><h4 class ="offcanvas-body1">Herrajes</h4></a>
-       <a href="herramental.html"><h4 class ="offcanvas-body1">Herramental</h4></a>
-       <a href="herr-electricas.html"><h4 class ="offcanvas-body1">Herr. Eléctricas</h4></a>
-       <a href="herr-manuales.html"><h4 class ="offcanvas-body1">Herr. Manuales</h4></a>
-       <a href="herr-medicion.html"><h4 class ="offcanvas-body1">Herr. Medición</h4></a>
-       <a href="insertos.html"><h4 class ="offcanvas-body1">Insertos</h4></a>
-       <a href="lubricacion.html"><h4 class ="offcanvas-body1">Lubricación</h4></a>
-       <a href="machos-roscar.html"><h4 class ="offcanvas-body1">Machos de Roscar</h4></a>
-       <a href="maquinaria.html"><h4 class ="offcanvas-body1">Maquinaria</h4></a>
-       <a href="may-ferreteria.html"><h4 class ="offcanvas-body1">Mayorista Ferreteria</h4></a>
-       <a href="mechas.html"><h4 class ="offcanvas-body1">Mechas</h4></a>
-       <a href="ojalillos.html"><h4 class ="offcanvas-body1">Ojalillos</h4></a>
-       <a href="piezas-espe.html"><h4 class ="offcanvas-body1">Piezas Especiales</h4></a>
-       <a href="pintureria.html"><h4 class ="offcanvas-body1">Pinturería</h4></a>
-       <a href="remaches.html"><h4 class ="offcanvas-body1">Remaches</h4></a>
-       <a href="resortes.html"><h4 class ="offcanvas-body1">Resortes</h4></a>
-       <a href="seg-industrial.html"><h4 class ="offcanvas-body1">Seg. Industrial</h4></a>
-       <a href="software.html"><h4 class ="offcanvas-body1">Software</h4></a>
-       <a href="soldadura.html"><h4 class ="offcanvas-body1">Soldadura</h4></a>
-       <a href="tarugos.html"><h4 class ="offcanvas-body1">Tarugos</h4></a>
-       <a href="tirafondos.html"><h4 class ="offcanvas-body1">Tirafondos</h4></a>
-       <a href="tornillos.html"><h4 class ="offcanvas-body1">Tornillos</h4></a>
-       <a href="t-allen.html"><h4 class ="offcanvas-body1">Tornillos Allen</h4></a>
-       <a href="trat-termico.html"><h4 class ="offcanvas-body1">Tratamiento Térmico</h4></a>
-       <a href="tuercas.html"><h4 class ="offcanvas-body1">Tuercas</h4></a>
-       <a href="var-roscadas.html"><h4 class ="offcanvas-body1">Varillas Roscadas</h4></a>
+    <a href="#" data-filter="all"><h4 class ="offcanvas-active">Todos</h4></a>
+       <a href="#" data-filter="abrasivos"><h4 class ="offcanvas-body1">Abrasivos</h4></a>
+       <a href="#" data-filter="abrazaderas"><h4 class ="offcanvas-body1">Abrazaderas</h4></a>
+       <a href="#" data-filter="acero-inoxidable"><h4 class ="offcanvas-body1">Acero Inoxidable</h4></a>
+       <a href="#" data-filter="adhesivos"><h4 class ="offcanvas-body1">Adhesivos</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Arandelas</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Bulones</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Cables y Aceros</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Cepillos</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Chavetas</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Clavos</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Clips</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Disco Corte</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Espárragos</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Fijaciones</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Ganchos</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Herrajes</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Herramental</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Herr. Eléctricas</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Herr. Manuales</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Herr. Medición</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Insertos</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Lubricación</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Machos de Roscar</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Maquinaria</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Mayorista Ferreteria</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Mechas</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Ojalillos</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Piezas Especiales</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Pinturería</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Remaches</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Resortes</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Seg. Industrial</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Software</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Soldadura</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Tarugos</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Tirafondos</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Tornillos</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Tornillos Allen</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Tratamiento Térmico</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Tuercas</h4></a>
+       <a href="#" data-filter=""><h4 class ="offcanvas-body1">Varillas Roscadas</h4></a>
       </div>
   </div>
 </div>
 </div>
 
-<!-- inicio anunciante mas chico --> 
+<!------------------------------------------------- INICIO ANUNCIANTES L  ----------------------------------------> 
 <div class="container">
-  <div class="row text-center">
+  <div class="row text-center product-grid">
 
     <div class="col-lg-3 col-md-4 grid-item1">
       <div class="grid-container1">
@@ -440,7 +442,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
-<div class="col-lg-3 col-md-4 grid-item1">
+<div class="col-lg-3 col-md-4 grid-item1" data-category="abrasivos">
       <div class="grid-container1">
         <img src="imagenes/anunciantes/ekron.jpg" alt="Ekrön Logo">
         <p class="titulo_ge">ekrön</p>
@@ -529,7 +531,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
-        <div class="col-lg-3 col-md-4 grid-item1">
+        <div class="col-lg-3 col-md-4 grid-item1" data-category="abrasivos">
       <div class="grid-container1">
         <img src="imagenes/anunciantes/aliafor.jpg" alt="Aliafor Logo">
         <p class="titulo_ge">Aliafor</p>
@@ -663,7 +665,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
-       <div class="col-lg-3 col-md-4 grid-item1">
+       <div class="col-lg-3 col-md-4 grid-item1" data-category="abrasivos">
       <div class="grid-container1">
         <img src="imagenes/anunciantes/abrasivos-cormet-logo.jpg" alt="Cormet Abrasivos Logo">
         <p class="titulo_ge">Cormet Abrasivos</p>
@@ -683,7 +685,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
 
 
-          <div class="col-lg-3 col-md-4 grid-item1">
+          <div class="col-lg-3 col-md-4 grid-item1" data-category="abrasivos">
       <div class="grid-container1">
         <img src="imagenes/anunciantes/dellavalle.gif" alt="Della Valle & CIA Logo">
         <p class="titulo_ge">Della Valle & CIA</p>
@@ -721,7 +723,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
-    <div class="col-lg-3 col-md-4 grid-item1">
+    <div class="col-lg-3 col-md-4 grid-item1" data-category="abrasivos">
       <div class="grid-container1">
         <img src="imagenes/anunciantes/ddo.jpg" alt="Distribuidora Del Oeste Logo">
         <p class="titulo_ge">Dist. Del Oeste</p>
@@ -738,7 +740,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
-      <div class="col-lg-3 col-md-4 grid-item1">
+      <div class="col-lg-3 col-md-4 grid-item1" data-category="abrasivos">
       <div class="grid-container1">
         <img src="imagenes/anunciantes/eefe.gif" alt="Eefe Fijaciones Logo">
         <p class="titulo_ge">EEFE Fijaciones</p>
@@ -758,7 +760,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
 
       
-     <div class="col-lg-3 col-md-4 grid-item1">
+     <div class="col-lg-3 col-md-4 grid-item1" data-category="abrasivos">
       <div class="grid-container1">
         <img src="imagenes/anunciantes/elTaladro.jpg" alt="El Taladro Logo">
         <p class="titulo_ge">El Taladro</p>
@@ -878,7 +880,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>  --> 
 
-                <div class="col-lg-3 col-md-4 grid-item1">
+                <div class="col-lg-3 col-md-4 grid-item1" data-category="abrasivos">
       <div class="grid-container1">
         <img src="imagenes/anunciantes/lijas hunter.jpg" alt="Logo Hunter Lijas Arg.">
         <p class="titulo_ge">Lijas Hunter</p>
@@ -917,8 +919,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
-      <!-- 1 columna anunciante mas chico -->     
-              <div class="col-lg-3 col-md-4 grid-item1">
+              <div class="col-lg-3 col-md-4 grid-item1" data-category="abrasivos">
       <div class="grid-container1">
         <img src="imagenes/anunciantes/kalydon.jpg" alt="Logo kalydon Tools">
         <p class="titulo_ge">KALYDON TOOLS</p>
@@ -1130,7 +1131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <a href="https://bulonero.com/magazinebulonero/southwind.html" class="btn6 titulo_ge1">Ver+</a></div>
       </div>
 
-    <div class="col-lg-3 col-md-4 grid-item1">
+    <div class="col-lg-3 col-md-4 grid-item1" data-category="abrasivos">
       <div class="grid-container1">
         <img src="imagenes/anunciantes/stayer.jpg" alt="Logo Stayer">
         <p class="titulo_ge">Stayer Argentina</p>
@@ -1227,7 +1228,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
-                <div class="col-lg-3 col-md-4 grid-item1">
+                <div class="col-lg-3 col-md-4 grid-item1" data-category="abrasivos">
       <div class="grid-container1">
         <img src="imagenes/anunciantes/wacker.jpg" alt="Logo Wacker Herramientas">
         <p class="titulo_ge">Wacker Herramientas</p>
@@ -1253,6 +1254,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="container">
   <div class="row text-center">
 
+<!------------------------------------------------- INICIO ANUNCIANTES M  ---------------------------------------->   
 <div class="col-lg-3 col-md-4 grid-item2">
       <div class="grid-container2">
         <img src="imagenes/anunciantes/arlimet.gif" alt="Logo Arlimetal">
@@ -1304,7 +1306,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
- <div class="col-lg-3 col-md-4 grid-item2">
+ <div class="col-lg-3 col-md-4 grid-item2" data-category="abrasivos">
       <div class="grid-container2">
         <img src="imagenes/anunciantes/bulmar.gif" alt="Logo Bulmar">
         <p class="titulo_ge">Bulmar S.R.L</p>
@@ -1321,7 +1323,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
-      <div class="col-lg-3 col-md-4 grid-item2">
+      <div class="col-lg-3 col-md-4 grid-item2" data-category="abrasivos">
       <div class="grid-container2">
         <img src="imagenes/anunciantes/casa_leon.jpg" alt="Logo Casa Leon">
         <p class="titulo_ge">Casa Leon</p>
@@ -1372,7 +1374,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
- <div class="col-lg-3 col-md-4 grid-item2">
+ <div class="col-lg-3 col-md-4 grid-item2" data-category="abrasivos">
       <div class="grid-container2">
         <img src="imagenes/anunciantes/crimaral.jpg" alt="Logo Crimaral">
         <p class="titulo_ge">Crimaral</p>
@@ -1440,9 +1442,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
- <div class="col-lg-3 col-md-4 grid-item2">
+ <div class="col-lg-3 col-md-4 grid-item2" data-category="abrasivos">
       <div class="grid-container2">
-        <img src="imagenes/anunciantes/eslabones.jpg" alt="Logo Eslabones">
+        <img src="imagenes/anunciantes/eslabones.jpg"  alt="Logo Eslabones">
         <p class="titulo_ge">Eslabones</p>
           <div class="social-icons text-center">
           <a href="https://wa.me/5492235635212/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital" target="_blank"><i class="bi bi-whatsapp"></i></a>
@@ -1457,7 +1459,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
-      <div class="col-lg-3 col-md-4 grid-item2">
+      <div class="col-lg-3 col-md-4 grid-item2" data-category="abrasivos">
       <div class="grid-container2">
         <img src="imagenes/anunciantes/fema.jpg" alt="Logo Fema CBA">
         <p class="titulo_ge">Fema</p>
@@ -1806,12 +1808,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 <div class="fin-mediapag"></div>
 
-  <!-- Inicio Guia Empresas chico -->      
+    <!------------------------------------------------- INICIO ANUNCIANTES S  ---------------------------------------->       
   
 <div class="row row-cols-xl-5 row-cols-lg-3 row-cols-md-2 py-3 p025 px-xl-5">
-
-
-        <div class="col">
+        <div class="col grid-item3" data-category="abrasivos">
     <div class="">
       <img src="imagenes/anunciantes/abul.gif" class="card-img-top mx-auto mt-2" alt="Abul Logo">
       <div class="card-body">
@@ -1826,7 +1826,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/aranpres.jpg" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -1842,7 +1842,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/bemar.gif" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -1858,7 +1858,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/bergara-arandelas.jpg" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -1874,7 +1874,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/bulonerav.gif" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -1890,7 +1890,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/carel-logo.jpg" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -1906,7 +1906,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/estampalex.gif" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -1922,7 +1922,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/fam.gif" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -1938,7 +1938,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-  <div class="col">
+  <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/florida.jpg" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -1954,7 +1954,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </div>
 
-   <div class="col">
+   <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/galvanoplastia_strano.jpg" class="card-img-top mx-auto mt-2" alt=" Logo Galvanoplastía Strano">
       <div class="card-body">
@@ -1969,7 +1969,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/iba.gif" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -1985,7 +1985,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
- <div class="col">
+ <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/kramers.gif" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -2001,7 +2001,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/luque.jpg" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -2017,7 +2017,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/maxifer.gif" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -2033,7 +2033,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/mannielo-logo.jpg" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -2049,7 +2049,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/mettesei.jpg" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -2064,7 +2064,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/ravatnali.gif" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -2079,7 +2079,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/regan.gif" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -2094,7 +2094,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/lrosa.gif" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -2110,7 +2110,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/serenelli.gif" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -2126,7 +2126,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-<div class="col">
+<div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/sitrap.jpg" class="card-img-top mx-auto mt-2" alt="Sitrap Logo">
       <div class="card-body">
@@ -2142,7 +2142,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/trusoni.gif" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">
@@ -2158,7 +2158,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
-      <div class="col">
+      <div class="col grid-item3" data-category="">
     <div class="">
       <img src="imagenes/anunciantes/valfrang.jpg" class="card-img-top mx-auto mt-2" alt=" Logo">
       <div class="card-body">

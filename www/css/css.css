@@ -100,35 +100,6 @@ a {
 }
 
 
-    .grid-container1 {
-      position: relative;
-      overflow: hidden;
-      margin-bottom: 20px;
-      border: 1px dotted darkgrey;
-
-    }
-
-    .grid-item1 {
-      transition: transform 0.3s ease-in-out;
-    }
-
-    .grid-item1:hover {
-      transform: scale(1.05);
-    }
-
-
-    .grid-container2 {
-      position: relative;
-      overflow: hidden;
-      margin-bottom: 20px;
-      margin-top: 20px;
-      border: 1px dotted darkgrey;
-
-    }
-
-    .grid-item2 {
-      transition: transform 0.3s ease-in-out;
-    }
 
 .rrsslink {
 	text-decoration: none !important;
@@ -972,6 +943,75 @@ ul {
     
 }
 
+/* -------------------------- FILTROS GUIA EMPRESAS ---------------------------- */
+
+/* GENERAL */
+nav a.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.product-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+/* EMPRESAS L */
+.grid-container1 {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+    border: 1px dotted darkgrey;
+  }
+
+  .grid-item1 {
+	flex-basis: calc(25% - 10px); /* Adjust for 4-column layout */
+	display: none; /* Oculta los productos incialmente */
+  }
+
+  .grid-item1.show {
+    display: block; /* Show products with 'show' class */
+}
+
+  .grid-item1:hover {
+	transform: scale(1.05);
+  }
+
+/* EMPRESAS M */
+  .grid-container2 {
+	position: relative;
+	overflow: hidden;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	border: 1px dotted darkgrey;
+
+  }
+
+  .grid-item2 {
+	flex-basis: calc(25% - 10px); /* Adjust for 4-column layout */
+	display: none; /* Oculta los productos incialmente */
+  }
+
+  .grid-item2.show {
+    display: block; /* Muestra los productos con la clase 'show' */
+}
+
+.grid-item2:hover {
+	transform: scale(1.05);
+  }
+
+  /* EMPRESAS S */
+
+  .grid-item3 {
+    flex-basis: 1 0 calc(20% - 10px); /* Ajusta para el layout de 5 columnas */
+    display: none; /* Oculta los productos inicialmente */
+}
+
+.grid-item3.show {
+    display: block; /* Muestra los productos con la clase 'show' */
+}
 
 
 /* Muestra el botón solo en pantallas menores a 767px */
@@ -1024,6 +1064,4 @@ ul {
 
 		}
 
-
-
-
+	}

@@ -964,54 +964,54 @@ nav a.active {
     overflow: hidden;
     margin-bottom: 20px;
     border: 1px dotted darkgrey;
-  }
+}
 
-  .grid-item1 {
-	flex-basis: calc(25% - 10px); /* Adjust for 4-column layout */
-	display: none; /* Oculta los productos incialmente */
-  }
+.grid-item1 {
+    flex-basis: calc(25% - 10px); /* Adjust for 4-column layout */
+    display: none; /* Oculta los productos incialmente */
+}
 
-  .grid-item1.show {
+.grid-item1.show {
     display: block; /* Show products with 'show' class */
 }
 
-  .grid-item1:hover {
-	transform: scale(1.05);
-  }
+.grid-item1:hover {
+    transform: scale(1.05);
+}
 
 /* EMPRESAS M */
-  .grid-container2 {
-	position: relative;
-	overflow: hidden;
-	margin-bottom: 20px;
-	margin-top: 20px;
-	border: 1px dotted darkgrey;
+.grid-container2 {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 1px dotted darkgrey;
+}
 
-  }
+.grid-item2 {
+    flex-basis: calc(25% - 10px); /* Adjust for 4-column layout */
+    display: none; /* Oculta los productos incialmente */
+}
 
-  .grid-item2 {
-	flex-basis: calc(25% - 10px); /* Adjust for 4-column layout */
-	display: none; /* Oculta los productos incialmente */
-  }
-
-  .grid-item2.show {
+.grid-item2.show {
     display: block; /* Muestra los productos con la clase 'show' */
 }
 
 .grid-item2:hover {
-	transform: scale(1.05);
-  }
+    transform: scale(1.05);
+}
 
-  /* EMPRESAS S */
+/* EMPRESAS S */
 
-  .grid-item3 {
-    flex-basis: 1 0 calc(20% - 10px); /* Ajusta para el layout de 5 columnas */
+.grid-item3 {
+    flex-basis: calc(20% - 10px); /* Ajusta para el layout de 5 columnas */
     display: none; /* Oculta los productos inicialmente */
 }
 
 .grid-item3.show {
     display: block; /* Muestra los productos con la clase 'show' */
 }
+
 
 
 /* Muestra el botón solo en pantallas menores a 767px */

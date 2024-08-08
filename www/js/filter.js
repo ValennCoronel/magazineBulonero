@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const categoryName = this.textContent.trim();
 
             // Actualiza la URL sin recargar la página usando replaceState para evitar problemas con Live Server
-            const newUrl = selectedCategory === 'all' ? '/www/guia-empresas.html' : `/www/guia-empresas.html?category=${selectedCategory}`;
+            const newUrl = selectedCategory === 'all' ? '/guia-empresas.html' : `/guia-empresas.html?category=${selectedCategory}`;
             history.replaceState({category: selectedCategory}, '', newUrl);
 
             // Filtra los productos

@@ -54,8 +54,11 @@ document.addEventListener('DOMContentLoaded', function() {
             const selectedCategory = this.getAttribute('data-filter');
             const categoryName = this.textContent.trim();
 
+            // Obtener la URL base actual
+            const baseUrl = window.location.origin + window.location.pathname;
+
             // Actualiza la URL sin recargar la página usando replaceState para evitar problemas con Live Server
-            const newUrl = selectedCategory === 'all' ? '/guia-empresas.html' : `/guia-empresas.html?category=${selectedCategory}`;
+            const newUrl = selectedCategory === 'all' ? baseUrl : `${baseUrl}?category=${selectedCategory}`;
             history.replaceState({category: selectedCategory}, '', newUrl);
 
             // Filtra los productos

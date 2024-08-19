@@ -1,0 +1,35 @@
+{
+    "anunciantes": {
+      "autoperforantestel": {
+        "titulo": "Autoperforantes TEL",
+        "telefono": "(011) 4240-6664",
+        "logo": "../imagenes/anunciantes/tel.gif",
+        "parrafo":"<p>Ha sido la primera empresa Argentina en desarrollar tornillos autoperforantes que permiten, por la facilidad de su aplicación, minimizar tiempos y costos en la vinculación de materiales, garantizando alta resistencia a los agentes corrosivos y robustez estructural en las más diversas aplicaciones.</p><p>La calidad de sus productos, la innovación, el servicio y la asistencia técnica, constituyen la base de un crecimiento sostenido durante más de dos décadas y del liderazgo alcanzado en los mercados de la construcción y de las autopartes.</p><p>La certificación de sus procesos industriales conforme a las Normativas <strong>ISO 9001, ISO/TS 16949 e ISO 14001</strong>, constituye un claro ejemplo del compromiso de <strong>TEL</strong> con la Calidad, la Mejora Continua, Protección del Medio Ambiente,y la Satisfacción plena de las expectativas de sus Clientes.</p><p>A partir de la recepción de la materia prima integramos todas las operaciones. Así aseguramos el estricto cumplimiento de las especificaciones y las normas de fabricación, cumpliendo en cada etapa los controles de calidad y el resguardo de la información para asegurar la trazabilidad de cada partida.</p><p>También realizamos el fraccionado el embalado y la logística de distribución. Para ello contamos con equipamientos automaticos de fraccionamiento embalado y paletizado. Un sistema de gestión de almacenes informático y una moderna flota de vehículos permiten disminuir los tiempos de entrega y optimizar los costos.</p><p>Mediante la certificación <strong>ISO 14001-2004/2009</strong> aseguramos durante todo el proceso el cuidado del medio ambiente y la seguridad de nuestro equipo de trabajo y colaboradores.<a href='https://autoperforantestel.com/empresa' target='_blank' class='text-decoration-none'> Ver más</a></p>",
+        "catalogo":"",
+        "revista":{
+          "tapa1":"../emagazine/250/files/page/2.jpg",
+          "tapa2":"../emagazine/250/files/page/3.jpg",
+          "tapa3":"../emagazine/237/files/page/2.jpg",
+          "tapa4":"../emagazine/237/files/page/3.jpg",
+          "tapa5":"../emagazine/231/files/mobile/2.jpg",
+          "tapa6":"../emagazine/231/files/mobile/3.jpg"
+        },
+        "social": {
+          "email": "info@autoperforantestel.com",
+          "mailto": "mailto:info@autoperforantestel.com?subject=Contacto Magazine Bulonero",
+          "web": "http://www.autoperforantestel.com/",
+          "webtxt": "www.autoperforantestel.com",
+          "facebook": "https://www.facebook.com/TelAutoperforantes",
+          "facebookName": "@TelAutoperforantes",
+          "linkedin": "https://www.linkedin.com/company/autoperforantes-tel",
+          "linkedinName": "autoperforantes-tel",
+          "whatsapp": "https://wa.me/5491166312334/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+          "instagram": "https://www.instagram.com/TelAutoperforantes",
+          "instagramName": "www.autoperforantestel.com",
+          "youtube": "https://www.youtube.com/channel/UCxXXXXXX",
+          "youtubeName": "Autoperforantes Tel"
+        }
+      }
+    }
+  }
+  

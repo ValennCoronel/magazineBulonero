@@ -2,6 +2,7 @@
 body {text-decoration: none !important;
 	text-shadow: none;
 	background-color: #333333 !important;
+  padding: 50px;
 
 }
 
@@ -146,38 +147,27 @@ h6 {
 
 
 
-h3 .pie-pagina .grupo-1 {
-	width: 100%;
-	background-color: #333;
-	 width: 100%;
- max-width: 1200px;
- margin: auto;
- display: grid;
- grid-template-columns: repeat(3, 1fr);
- grid-gap: 50px;
- padding: 45px 0px;
-
-}
-
-
 
 footer {
 	border-top: 3px solid red;
 }
 
-
 .pie-pagina .grupo-1 {
 	width: 100%;
 	background-color: #333;
-
- margin: auto;
- display: grid;
- grid-template-columns: repeat(3, 1fr);
- grid-gap: 50px;
- padding: 45px 0px;
-
+ max-width: 1366px;
+ padding: 1.5rem 0px;
+ margin: 0 auto;
+ text-align: center;
 }
 
+.pie-pagina .grupo-1 .box iframe{
+	width: 100%;
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 
 .pie-pagina .grupo-1 .box figure {
 	width: 100%;
@@ -234,6 +224,7 @@ footer {
 
 .pie-pagina .grupo-2 {
 	background-color: #282828;
+  width: 100%;
 	padding: 15px 10px;
 	text-align: center;
 	color: #fff;
@@ -255,6 +246,7 @@ footer {
 	border-bottom: 2px solid grey;
 
 }
+
 
 * {
     box-sizing: border-box;
@@ -456,14 +448,9 @@ footer {
 @media screen and (max-width: 800px) {
 
 	.pie-pagina .grupo-1 {
-	width: 90%;
-	background-color: #333;
-	width: 100%;
- 	grid-template-columns: repeat(1, 1fr);
- 	grid-gap: 30px;
- 	padding: 35px 0px;
- 	margin-left: 10px;
-}
+    background-color: #333;
+    width: 100%;
+     }
 
 	.banmov {
 		width: 50%; 

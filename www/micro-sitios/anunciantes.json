@@ -17,7 +17,7 @@
         "social": {
           "email": "info@autoperforantestel.com",
           "mailto": "mailto:info@autoperforantestel.com?subject=Contacto Magazine Bulonero",
-          "web": "http://www.autoperforantestel.com/",
+          "web": "https://www.autoperforantestel.com/",
           "webtxt": "www.autoperforantestel.com",
           "facebook": "https://www.facebook.com/TelAutoperforantes",
           "facebookName": "@TelAutoperforantes",
@@ -25,9 +25,29 @@
           "linkedinName": "autoperforantes-tel",
           "whatsapp": "https://wa.me/5491166312334/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
           "instagram": "https://www.instagram.com/TelAutoperforantes",
-          "instagramName": "www.autoperforantestel.com",
+          "instagramName": "@TelAutoperforantes",
           "youtube": "https://www.youtube.com/channel/UCxXXXXXX",
           "youtubeName": "Autoperforantes Tel"
+        }
+      },
+
+      "perfecto": {
+        "titulo": "Abrazaderas Perfecto",
+        "telefono": "(011) 4627-9231",
+        "logo": "../imagenes/anunciantes/perfecto.gif",
+        "parrafo":"<p>Fundada hace más de cincuenta años, ha dedicado siempre todo su esfuerzo a la fabricación de Abrazaderas. Con la llegada a nuestro país de la Industria Automotriz ha sabido ganarse la confianza de las mismas, continuando nuestros avances en mercados como los de reposición automotriz y ferretera, industria naval, alimenticia y agrícolas. <br> Características que nos permiten ser el más importante especialista de Abrazaderas en el mercado local. <br> Nuestra planta cuenta con maquinarias y herramientas de última tecnología europea, lo cual le otorga al producto un altísimo grado de confiabilidad. Así mismo cada modelo de abrazadera sufre un complejo proceso antes de su salida al mercado, simulando las condiciones de utilización más adversas. En consecuencia nos hemos equipado con los medio técnicos necesarios, que comprenden un importante desarrollo informático, como así también, con bancos de ensayo altamente especializado y con la capacitación de todo nuestro personal en todos los temas relativos a la calidad y mejora continua. Eso nos ha dado él más alto reconocimiento reflejado en las calificaciones de nuestro sistema de calidad, y como consecuencia, hemos obtenido la certificación por décimo año consecutivo de la norma ISO 9001, siendo en su rubro la primera fábrica de abrazaderas en Argentina en alcanzar dichos galardón. <br> En lo que respecta al mercado internacional, nuestro producto se va insertando con gran aceptación y reconocimiento en los diferentes países, nuestros departamentos de Aseguramiento de Calidad y Técnico – Desarrollo está disponible para resolver cualquier inquietud, dificultad o requerimiento en lo que su materia respecta, nuestros departamentos de ventas están en continuo contacto para asesorarlo sobre todos nuestros productos. <br> Sobre la base de las exigencias actuales y la experiencia que los años otorgo a la a la empresa, nos desarrollamos y avanzamos tecnológicamente FABRICANDO UNA ABRAZADERAS PARA CADA NESESIDAD.</p>",
+        "catalogo":"",
+        "revista":{
+          "tapa1":"../emagazine/250/files/page/32.jpg",
+          "tapa2":"../emagazine/247/files/page/48.jpg"
+        },
+        "social": {
+          "email": "perfecto@abrazaderas",
+          "mailto": "mailto:perfecto@abrazaderas.net?subject=Contacto Magazine Bulonero",
+          "web": "https://abrazaderas.net/",
+          "webtxt": "abrazaderas.net",
+          "instagram": "https://www.instagram.com/abrazaderas.perfecto/",
+          "instagramName": "abrazaderas.perfecto"
         }
       }
     }

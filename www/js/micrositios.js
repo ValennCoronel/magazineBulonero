@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const id = new URLSearchParams(window.location.search).get("id");
   if (id) {
     // Si el ID está presente, carga el JSON
-    fetch("../micro-sitios/anunciantes.json") // Ajusta la ruta según sea necesario
+    fetch("../micro-sitios/anunciantes.json?v=1.0") // Ajusta la ruta según sea necesario
       .then((response) => response.json())
       .then((data) => {
         console.log("Datos del JSON:", data); // Depuración

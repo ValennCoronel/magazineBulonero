@@ -2,7 +2,7 @@
 body {text-decoration: none !important;
 	text-shadow: none;
 	background-color: #333333 !important;
-
+	padding-top: 0;
 }
 
 header{
@@ -948,10 +948,6 @@ nav a.active {
 }
 
 .product-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    gap: 10px;
 }
 
 /* EMPRESAS L */
@@ -963,7 +959,7 @@ nav a.active {
 }
 
 .grid-item1 {
-    flex-basis: calc(25% - 10px); /* Adjust for 4-column layout */
+    
     display: none; /* Oculta los productos incialmente */
 }
 
@@ -985,7 +981,6 @@ nav a.active {
 }
 
 .grid-item2 {
-    flex-basis: calc(25% - 10px); /* Adjust for 4-column layout */
     display: none; /* Oculta los productos incialmente */
 }
 
@@ -1000,7 +995,6 @@ nav a.active {
 /* EMPRESAS S */
 
 .grid-item3 {
-    flex-basis: calc(20% - 10px); /* Ajusta para el layout de 5 columnas */
     display: none; /* Oculta los productos inicialmente */
 }
 

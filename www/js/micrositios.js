@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
           //Revista
           // Bucle para recorrer las tapas de la revista
-          for (let i = 1; i <= 6; i++) {
+          for (let i = 1; i <= 12; i++) {
           let tapaKey = `tapa${i}`;
           let tapaUrl = anunciante.revista[tapaKey];
 
@@ -77,6 +77,15 @@ document.addEventListener("DOMContentLoaded", () => {
           }else{
             document.querySelector(".datos-email").style.display = 'none';
           }
+
+        //Whatsapp
+        if(anunciante.social.email != null && anunciante.social.email.trim() !== ""){
+          document.querySelector(".datos-whatsapp a").href = anunciante.social.whatsapp;
+          document.querySelector(".datos-whatsapp a").textContent = anunciante.social.whatsappName;
+        }else{
+          document.querySelector(".datos-whatsapp").style.display = 'none';
+        }
+
 
         //Facebook
         if(anunciante.social.facebook != null && anunciante.social.facebook.trim() !== ""){

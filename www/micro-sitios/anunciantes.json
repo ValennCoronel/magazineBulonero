@@ -170,6 +170,44 @@
           "whatsappName": "+5491131941442"
         }
       },
+      "eslabones": {
+        "titulo": "Eslabones SA",
+        "telefono": "+54 9 223 423 7947",
+        "logo": "../imagenes/anunciantes/eslabones.gif",
+        "parrafo":"<p><strong>Eslabones</strong> es un <strong>mayorista de ferreterías</strong> dedicado a ofrecer una amplia gama de productos de <strong>alta calidad</strong> a precios competitivos. Nos especializamos en la <strong>distribución</strong> de herramientas, herrajes, y artículos de ferretería, asegurando un <strong>abastecimiento constante</strong> y confiable para nuestros clientes. Con un enfoque en el <strong>servicio al cliente</strong> y el <strong>apoyo comercial</strong>, <strong>Eslabones</strong> es el socio ideal para las ferreterías que buscan productos duraderos y soluciones efectivas.</p>",
+        "catalogo":"",
+        "revista":{
+        },
+        "social": {
+          "email": "info@eslabones.com.ar",
+          "mailto": "mailto:info@eslabones.com.ar?subject=Contacto Magazine Bulonero",
+          "web": "https://eslabones.com.ar/",
+          "webtxt": "eslabones.com.ar",
+          "instagram": "",
+          "instagramName": "",
+          "whatsapp": "https://wa.me/5492236833458/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+          "whatsappName": "+5492236833458"
+        }
+      },
+      "trusoni": {
+        "titulo": "Trusoni",
+        "telefono": "(011) 4757-9555",
+        "logo": "../imagenes/anunciantes/trusoni.gif",
+        "parrafo":"<p><strong>Luistrusoni SRL</strong> es una empresa líder en la <strong>venta de tornillos</strong>, ofreciendo una amplia variedad de productos de alta calidad para satisfacer las necesidades de sus clientes. Nos especializamos en proporcionar soluciones precisas y duraderas para <strong>industria</strong>, <strong>construcción</strong> y otros sectores. En <strong>Luistrusoni SRL</strong>, nos comprometemos a ofrecer un servicio excepcional y asesoramiento experto para ayudarle a encontrar el tornillo adecuado para su proyecto.</p>",
+        "catalogo":"",
+        "revista":{
+        },
+        "social": {
+          "email": "info@trusoni.com.ar",
+          "mailto": "mailto:info@trusoni.com.ar?subject=Contacto Magazine Bulonero",
+          "web": "",
+          "webtxt": "",
+          "instagram": "https://www.instagram.com/luistrusonisrl/",
+          "instagramName": "@luistrusonisrl",
+          "whatsapp": "https://wa.me/5491161307136/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+          "whatsappName": "+5491161307136"
+        }
+      },
       "wacker_herramientas": {
         "titulo": "Wacker Herramientas",
         "telefono": "(011) 4757-9555",

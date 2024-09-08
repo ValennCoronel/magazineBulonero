@@ -139,6 +139,372 @@
           "facebookName": "@isadar-buldar"
         }
       },
+      "rerar": {
+        "titulo": "www.rerar.com.ar",
+        "telefono": "(011) 4759-0979",
+        "logo": "../imagenes/anunciantes/rerar.jpg",
+        "parrafo": "",
+        "catalogo": "",
+        "revista": {
+            "tapa1": "../emagazine/250/files/page/12.jpg",
+            "tapa2": "../emagazine/250/files/page/13.jpg",
+            "tapa3": "../emagazine/249/files/page/12.jpg",
+            "tapa4": "../emagazine/249/files/page/13.jpg",
+            "tapa5": "../emagazine/245/files/page/33.jpg",
+            "tapa6": "../emagazine/244/files/page/1.jpg",
+            "tapa7": "../emagazine/244/files/page/19.jpg",
+            "tapa8": "../emagazine/242/files/page/33.jpg",
+            "tapa9": "../emagazine/241/files/page/33.jpg",
+            "tapa10": "../emagazine/240/files/page/37.jpg",
+            "tapa11": "../emagazine/239/files/page/83.jpg",
+            "tapa12": "../emagazine/237/files/page/1.jpg",
+            "tapa13": "../emagazine/237/files/page/17.jpg",
+            "tapa14": "../emagazine/236/files/mobile/19.jpg",
+            "tapa15": "../emagazine/234/files/mobile/35.jpg",
+            "tapa16": "../emagazine/233/files/mobile/20.jpg",
+            "tapa17": "../emagazine/232/files/mobile/20.jpg"
+        },
+        "social": {
+            "email": "ventas@rerar.com.ar?subject=Contacto Magazine Bulonero\" email me>ventas@rerar.com.ar</a></h3>",
+            "mailto": "mailto:ventas@rerar.com.ar?subject=Contacto Magazine Bulonero\" email me>ventas@rerar.com.ar</a></h3>",
+            "web": "https://www.instagram.com/rerar.argentina/",
+            "webtxt": "@rerar",
+            "instagram": "https://www.instagram.com/rerar.argentina/",
+            "instagramName": "@rerar",
+            "facebook": "",
+            "facebookName": ""
+        }
+    },
+    "carlos_filas": {
+      "titulo": "www.carlosfilas.com.ar",
+      "telefono": "",
+      "logo": "../imagenes/anunciantes/cfilas.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+          "tapa1": "../emagazine/233/files/mobile/9.jpg"
+      },
+      "social": {
+          "email": "ventas@carlosfilas.com.ar?subject=Contacto Magazine Bulonero\" email me>ventas@carlosfilas.com.ar</a></h3>",
+          "mailto": "mailto:ventas@carlosfilas.com.ar?subject=Contacto Magazine Bulonero\" email me>ventas@carlosfilas.com.ar</a></h3>",
+          "web": "https://www.carlosfilas.com.ar/datosutiles.htm",
+          "webtxt": "www.carlosfilas.com.ar",
+          "instagram": "",
+          "instagramName": "",
+          "facebook": "",
+          "facebookName": ""
+      }
+  },
+  "bulonera-camba": {
+        "titulo": "www.buloneracamba.com.ar",
+        "telefono": "",
+        "logo": "../imagenes/anunciantes/bcamba.gif",
+        "parrafo": "",
+        "catalogo": "",
+        "revista": {
+            "tapa1": "../emagazine/235/files/mobile/67.jpg",
+            "tapa2": "../emagazine/234/files/mobile/61.jpg",
+            "tapa3": "../emagazine/233/files/mobile/53.jpg"
+        },
+        "social": {
+            "email": "ventas@buloneracamba.com.ar?subject=Contacto Magazine Bulonero\" email me>ventas@buloneracamba.com.ar</a></h3>",
+            "mailto": "mailto:ventas@buloneracamba.com.ar?subject=Contacto Magazine Bulonero\" email me>ventas@buloneracamba.com.ar</a></h3>",
+            "web": "https://www.facebook.com/buloneracamba",
+            "webtxt": "@buloneracamba",
+            "instagram": "https://www.instagram.com/buloneracamba",
+            "instagramName": "@buloneracamba",
+            "facebook": "https://www.facebook.com/buloneracamba",
+            "facebookName": "@buloneracamba"
+        }
+    },
+    "argenrap": {
+        "titulo": "Argenrap",
+        "telefono": "(011) 4652-5898",
+        "logo": "../imagenes/anunciantes/argenrap.gif",
+        "parrafo": "",
+        "catalogo": "",
+        "revista": {
+            "tapa1": "../emagazine/240/files/page/69.jpg",
+            "tapa2": "../emagazine/237/files/page/76.jpg",
+            "tapa3": "../emagazine/234/files/mobile/71.jpg"
+        },
+        "social": {
+            "email": "info@argenrap.com?subject=Contacto Magazine Bulonero\" email me>info@argenrap.com</a></p>",
+            "mailto": "mailto:info@argenrap.com?subject=Contacto Magazine Bulonero\" email me>info@argenrap.com</a></p>",
+            "web": "https://www.facebook.com/argenrap.arg",
+            "webtxt": "Argenrap.arg",
+            "instagram": "https://www.instagram.com/argenrap.remaches/",
+            "instagramName": "Argenrap.remaches",
+            "facebook": "https://www.facebook.com/argenrap.arg",
+            "facebookName": "Argenrap.arg"
+        }
+    },
+    "cat-powertools": {
+        "titulo": "www.kalydon.com.ar",
+        "telefono": "(011) 4256-6243",
+        "logo": "../imagenes/anunciantes/cat.jpg",
+        "parrafo": "",
+        "catalogo": "",
+        "revista": {
+            "tapa1": "../emagazine/250/files/page/14.jpg",
+            "tapa2": "../emagazine/246/files/page/15.jpg",
+            "tapa3": "../emagazine/243/files/page/51.jpg",
+            "tapa4": "../emagazine/242/files/page/13.jpg",
+            "tapa5": "../emagazine/240/files/page/19.jpg",
+            "tapa6": "../emagazine/238/files/page/57.jpg",
+            "tapa7": "../emagazine/236/files/mobile/17.jpg",
+            "tapa8": "../emagazine/234/files/mobile/13.jpg",
+            "tapa9": "../emagazine/233/files/mobile/1.jpg"
+        },
+        "social": {
+            "email": "kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero\" email me>kalydontools@yahoo.com.ar<</a></h3>",
+            "mailto": "mailto:kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero\" email me>kalydontools@yahoo.com.ar<</a></h3>",
+            "web": "https://www.kalydon.com.ar/marca/cat/",
+            "webtxt": "www.kalydon.com.ar",
+            "instagram": "https://www.instagram.com/catpowertools.arg/",
+            "instagramName": "@catpowertools.arg",
+            "facebook": "https://www.facebook.com/catpowertools.arg",
+            "facebookName": "@catpowertools.arg"
+        }
+    },
+    "raptor-tornillos": {
+        "titulo": "Raptor",
+        "telefono": "(011) 4652-5898",
+        "logo": "../imagenes/anunciantes/raptor.jpg",
+        "parrafo": "",
+        "catalogo": "",
+        "revista": {
+            "tapa1": "../emagazine/237/files/page/76.jpg",
+            "tapa2": "../emagazine/236/files/mobile/61.jpg",
+            "tapa3": "../emagazine/234/files/mobile/73.jpg"
+        },
+        "social": {
+            "email": "info@selflex.com.ar?subject=Contacto Magazine Bulonero\" title=\"Contacto Raptor\" email me>info@selflex.com.ar</a> </p>",
+            "mailto": "mailto:info@selflex.com.ar?subject=Contacto Magazine Bulonero\" title=\"Contacto Raptor\" email me>info@selflex.com.ar</a> </p>",
+            "web": "",
+            "webtxt": "",
+            "instagram": "",
+            "instagramName": "",
+            "facebook": "",
+            "facebookName": ""
+        }
+    },
+    "rubi": {
+      "titulo": "www.kalydon.com.ar",
+      "telefono": "(011) 4600-5124",
+      "logo": "../imagenes/anunciantes/rubi.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+          "tapa1": "../emagazine/250/files/page/45.jpg",
+          "tapa2": "../emagazine/240/files/page/45.jpg",
+          "tapa3": "../emagazine/237/files/page/15.jpg",
+          "tapa4": "../emagazine/234/files/mobile/21.jpg"
+      },
+      "social": {
+          "email": "kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero\" email me>kalydontools@yahoo.com.ar</a></h3>",
+          "mailto": "mailto:kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero\" email me>kalydontools@yahoo.com.ar</a></h3>",
+          "web": "https://www.kalydon.com.ar/marca/rubi-2/",
+          "webtxt": "www.kalydon.com.ar",
+          "instagram": "https://www.instagram.com/rubidemo.arg/",
+          "instagramName": "@rubidemo.arg",
+          "facebook": "https://www.facebook.com/TelAutoperforantes",
+          "facebookName": "@rubidemo.arg"
+      }
+  },
+  "bulmetal": {
+        "titulo": "www.bmbulmetal.com.ar",
+        "telefono": "(011) 4641-6499",
+        "logo": "../imagenes/anunciantes/bulmetal.jpg",
+        "parrafo": "",
+        "catalogo": "",
+        "revista": {
+            "tapa1": "../emagazine/240/files/page/38.jpg",
+            "tapa2": "../emagazine/240/files/page/39.jpg",
+            "tapa3": "../emagazine/238/files/page/28.jpg",
+            "tapa4": "../emagazine/238/files/page/29.jpg",
+            "tapa5": "../emagazine/233/files/mobile/29.jpg",
+            "tapa6": "../emagazine/232/files/mobile/36.jpg",
+            "tapa7": "../emagazine/232/files/mobile/37.jpg"
+        },
+        "social": {
+            "email": "info@bmbulmetal.com.ar?subject=Contacto Magazine Bulonero\" email me>info@bmbulmetal.com.ar</a></h3>",
+            "mailto": "mailto:info@bmbulmetal.com.ar?subject=Contacto Magazine Bulonero\" email me>info@bmbulmetal.com.ar</a></h3>",
+            "web": "https://www.bmbulmetal.com.ar/",
+            "webtxt": "www.bmbulmetal.com.ar",
+            "instagram": "https://www.instagram.com/bmbulmetal/",
+            "instagramName": "@bm bulmetal",
+            "facebook": "https://www.facebook.com/bmbulmetal",
+            "facebookName": "@bm bulmetal"
+        }
+    },
+    "ekron": {
+        "titulo": "www.ekron.com.ar",
+        "telefono": "(011) 4641-6499",
+        "logo": "../imagenes/anunciantes/ekron.jpg",
+        "parrafo": "",
+        "catalogo": "",
+        "revista": {
+            "tapa1": "../emagazine/240/files/page/43.jpg",
+            "tapa2": "../emagazine/235/files/mobile/17.jpg"
+        },
+        "social": {
+            "email": "ventas2@joldensa.com?subject=Contacto Magazine Bulonero\" email me>ventas2@joldensa.com</a></h3>",
+            "mailto": "mailto:ventas2@joldensa.com?subject=Contacto Magazine Bulonero\" email me>ventas2@joldensa.com</a></h3>",
+            "web": "",
+            "webtxt": "",
+            "instagram": "",
+            "instagramName": "",
+            "facebook": "",
+            "facebookName": ""
+        }
+    },
+    "lacatus": {
+        "titulo": "Lacatus",
+        "telefono": "",
+        "logo": "../imagenes/anunciantes/lacatus.jpg",
+        "parrafo": "",
+        "catalogo": "",
+        "revista": {
+            "tapa1": "../emagazine/242/files/page/32.jpg"
+        },
+        "social": {
+            "email": "ventas2@joldensa.com?subject=Contacto Magazine Bulonero\" class=\"small\" href=\"\" email me>ventas2@joldensa.com</a></p>",
+            "mailto": "mailto:ventas2@joldensa.com?subject=Contacto Magazine Bulonero\" class=\"small\" href=\"\" email me>ventas2@joldensa.com</a></p>",
+            "web": "",
+            "webtxt": "",
+            "instagram": "",
+            "instagramName": "",
+            "facebook": "",
+            "facebookName": ""
+        }
+    },
+    "aceros_borroni": {
+      "titulo": "Aceros Borroni",
+      "telefono": "(011) 4452-1045",
+      "logo": "../imagenes/anunciantes/aborroni.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {},
+      "social": {
+          "email": "info@acerosborroni.com",
+          "mailto": "mailto:info@acerosborroni.com?subject=Contacto Magazine Bulonero",
+          "web": "",
+          "webtxt": "",
+          "instagram": "",
+          "instagramName": "",
+          "facebook": "",
+          "facebookName": ""
+      }
+  },
+  "aliafor": {
+        "titulo": "Aliafor",
+        "telefono": "(011) 2152-0500",
+        "logo": "../imagenes/anunciantes/aliafor.jpg",
+        "parrafo": "",
+        "catalogo": "",
+        "revista": {
+            "tapa1": "../emagazine/241/files/page/14.jpg",
+            "tapa2": "../emagazine/237/files/page/43.jpg",
+            "tapa3": "../emagazine/236/files/mobile/45.jpg"
+        },
+        "social": {
+            "email": "info@aliafor.com?subject=Contacto Magazine Bulonero\" email me>info@aliafor.com</a></p>",
+            "mailto": "mailto:info@aliafor.com?subject=Contacto Magazine Bulonero\" email me>info@aliafor.com</a></p>",
+            "web": "https://www.aliaforweb.com.ar",
+            "webtxt": "www.aliafor.com.ar",
+            "instagram": "https://www.instagram.com/aliafor.online/",
+            "instagramName": "aliafor.online",
+            "facebook": "https://www.facebook.com/aliafors.a/",
+            "facebookName": "aliafors.a"
+        }
+    },
+    "bym_arandelas": {
+        "titulo": "bymarandelas.com.ar",
+        "telefono": "",
+        "logo": "../imagenes/anunciantes/bym-arandelas.jpg",
+        "parrafo": "",
+        "catalogo": "",
+        "revista": {
+            "tapa1": "../emagazine/250/files/page/37.jpg",
+            "tapa2": "../emagazine/245/files/page/34.jpg"
+        },
+        "social": {
+            "email": "veloarandelas@gmail.com?subject=Contacto Magazine Bulonero\" email me>veloarandelas@gmail.com</a></h3>",
+            "mailto": "mailto:veloarandelas@gmail.com?subject=Contacto Magazine Bulonero\" email me>veloarandelas@gmail.com</a></h3>",
+            "web": "https://www.tornilloalvear.com",
+            "webtxt": "bymarandelas.com.ar",
+            "instagram": "https://www.instagram.com/bymarandelas/",
+            "instagramName": "@bymarandelas",
+            "facebook": "https://www.facebook.com/bymarandelas",
+            "facebookName": "@bymarandelas"
+        }
+    },
+    "bollhoff": {
+      "titulo": "Bollhöff S.A",
+      "telefono": "(011) 4600-5124",
+      "logo": "../imagenes/anunciantes/bollhoff.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+          "tapa1": "../emagazine/240/files/page/57.jpg",
+          "tapa2": "../emagazine/231/files/mobile/51.jpg",
+          "tapa3": "../emagazine/235/files/mobile/51.jpg",
+          "tapa4": "../emagazine/234/files/mobile/20.jpg",
+          "tapa5": "../emagazine/233/files/mobile/45.jpg",
+          "tapa6": "../emagazine/230/files/mobile/67.jpg"
+      },
+      "social": {
+          "email": "ventas@boellhoff.com?subject=Contacto Magazine Bulonero\" email me>ventas@boellhoff.com</a></p>",
+          "mailto": "mailto:ventas@boellhoff.com?subject=Contacto Magazine Bulonero\" email me>ventas@boellhoff.com</a></p>",
+          "web": "https://www.boellhoff.com/ar-es/index.php",
+          "webtxt": "www.boellhoff.com",
+          "instagram": "",
+          "instagramName": "",
+          "facebook": "",
+          "facebookName": ""
+      }
+  },
+  "casermeiro": {
+        "titulo": "Casermeiro",
+        "telefono": "",
+        "logo": "../imagenes/anunciantes/caserm.gif",
+        "parrafo": "",
+        "catalogo": "",
+        "revista": {
+            "tapa1": "../emagazine/248/files/page/46.jpg"
+        },
+        "social": {
+            "email": "consultas@e-casermeiro.net?subject=Contacto Magazine Bulonero\" title=\"Contacto Casermeiro\" email me>consultas@e-casermeiro.net</a></p>",
+            "mailto": "mailto:consultas@e-casermeiro.net?subject=Contacto Magazine Bulonero\" title=\"Contacto Casermeiro\" email me>consultas@e-casermeiro.net</a></p>",
+            "web": "https://www.facebook.com/tornilloscaser",
+            "webtxt": "tornilloscaser",
+            "instagram": "https://www.instagram.com/tornillos_caser/",
+            "instagramName": "tornillos_caser",
+            "facebook": "https://www.facebook.com/tornilloscaser",
+            "facebookName": "tornilloscaser"
+        }
+    },
+    "cat-tor": {
+        "titulo": "Cat-Tor",
+        "telefono": "(011) 4734-7971",
+        "logo": "../imagenes/anunciantes/cattor-logo.jpg",
+        "parrafo": "",
+        "catalogo": "",
+        "revista": {
+            "tapa1": "../emagazine/247/files/page/27.jpg"
+        },
+        "social": {
+            "email": "cattorarg@hotmail.com?subject=Contacto Magazine Bulonero\" email me>cattorarg@hotmail.com</a></p>",
+            "mailto": "mailto:cattorarg@hotmail.com?subject=Contacto Magazine Bulonero\" email me>cattorarg@hotmail.com</a></p>",
+            "web": "",
+            "webtxt": "",
+            "instagram": "",
+            "instagramName": "",
+            "facebook": "",
+            "facebookName": ""
+        }
+    },
       "vialro_tornillos": {
         "titulo": "Vialro",
         "telefono": "(011) 4208-8603 / 4228-6506",

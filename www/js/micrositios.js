@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
           }
 
         //Whatsapp
-        if(anunciante.social.email != null && anunciante.social.email.trim() !== ""){
+        if(anunciante.social.whatsapp != null && anunciante.social.whatsapp.trim() !== ""){
           document.querySelector(".datos-whatsapp a").href = anunciante.social.whatsapp;
           document.querySelector(".datos-whatsapp a").textContent = anunciante.social.whatsappName;
         }else{

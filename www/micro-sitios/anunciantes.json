@@ -1,179 +1,179 @@
 {
-    "anunciantes": {
-      "autoperforantestel": {
-        "titulo": "Autoperforantes TEL",
-        "telefono": "(011) 4240-6664",
-        "logo": "../imagenes/anunciantes/tel.gif",
-        "parrafo":"<p>Ha sido la primera empresa Argentina en desarrollar tornillos autoperforantes que permiten, por la facilidad de su aplicación, minimizar tiempos y costos en la vinculación de materiales, garantizando alta resistencia a los agentes corrosivos y robustez estructural en las más diversas aplicaciones.</p><p>La calidad de sus productos, la innovación, el servicio y la asistencia técnica, constituyen la base de un crecimiento sostenido durante más de dos décadas y del liderazgo alcanzado en los mercados de la construcción y de las autopartes.</p><p>La certificación de sus procesos industriales conforme a las Normativas <strong>ISO 9001, ISO/TS 16949 e ISO 14001</strong>, constituye un claro ejemplo del compromiso de <strong>TEL</strong> con la Calidad, la Mejora Continua, Protección del Medio Ambiente,y la Satisfacción plena de las expectativas de sus Clientes.</p><p>A partir de la recepción de la materia prima integramos todas las operaciones. Así aseguramos el estricto cumplimiento de las especificaciones y las normas de fabricación, cumpliendo en cada etapa los controles de calidad y el resguardo de la información para asegurar la trazabilidad de cada partida.</p><p>También realizamos el fraccionado el embalado y la logística de distribución. Para ello contamos con equipamientos automaticos de fraccionamiento embalado y paletizado. Un sistema de gestión de almacenes informático y una moderna flota de vehículos permiten disminuir los tiempos de entrega y optimizar los costos.</p><p>Mediante la certificación <strong>ISO 14001-2004/2009</strong> aseguramos durante todo el proceso el cuidado del medio ambiente y la seguridad de nuestro equipo de trabajo y colaboradores.<a href='https://autoperforantestel.com/empresa' target='_blank' class='text-decoration-none'> Ver más</a></p>",
-        "catalogo":"",
-        "revista":{
-          "tapa1":"../emagazine/250/files/page/2.jpg",
-          "tapa2":"../emagazine/250/files/page/3.jpg",
-          "tapa3":"../emagazine/237/files/page/2.jpg",
-          "tapa4":"../emagazine/237/files/page/3.jpg",
-          "tapa5":"../emagazine/231/files/mobile/2.jpg",
-          "tapa6":"../emagazine/231/files/mobile/3.jpg"
-        },
-        "social": {
-          "email": "info@autoperforantestel.com",
-          "mailto": "mailto:info@autoperforantestel.com?subject=Contacto Magazine Bulonero",
-          "web": "https://www.autoperforantestel.com/",
-          "webtxt": "www.autoperforantestel.com",
-          "facebook": "https://www.facebook.com/TelAutoperforantes",
-          "facebookName": "@TelAutoperforantes",
-          "linkedin": "https://www.linkedin.com/company/autoperforantes-tel",
-          "linkedinName": "autoperforantes-tel",
-          "whatsapp": "https://wa.me/5491166312334/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-          "whatsappName": "1166312334",
-          "instagram": "https://www.instagram.com/TelAutoperforantes",
-          "instagramName": "@TelAutoperforantes",
-          "youtube": "https://www.youtube.com/channel/UCxXXXXXX",
-          "youtubeName": "Autoperforantes Tel"
-        }
+  "anunciantes": {
+    "autoperforantestel": {
+      "titulo": "Autoperforantes TEL",
+      "telefono": "(011) 4240-6664",
+      "logo": "../imagenes/anunciantes/tel.gif",
+      "parrafo": "<p>Ha sido la primera empresa Argentina en desarrollar tornillos autoperforantes que permiten, por la facilidad de su aplicación, minimizar tiempos y costos en la vinculación de materiales, garantizando alta resistencia a los agentes corrosivos y robustez estructural en las más diversas aplicaciones.</p><p>La calidad de sus productos, la innovación, el servicio y la asistencia técnica, constituyen la base de un crecimiento sostenido durante más de dos décadas y del liderazgo alcanzado en los mercados de la construcción y de las autopartes.</p><p>La certificación de sus procesos industriales conforme a las Normativas <strong>ISO 9001, ISO/TS 16949 e ISO 14001</strong>, constituye un claro ejemplo del compromiso de <strong>TEL</strong> con la Calidad, la Mejora Continua, Protección del Medio Ambiente,y la Satisfacción plena de las expectativas de sus Clientes.</p><p>A partir de la recepción de la materia prima integramos todas las operaciones. Así aseguramos el estricto cumplimiento de las especificaciones y las normas de fabricación, cumpliendo en cada etapa los controles de calidad y el resguardo de la información para asegurar la trazabilidad de cada partida.</p><p>También realizamos el fraccionado el embalado y la logística de distribución. Para ello contamos con equipamientos automaticos de fraccionamiento embalado y paletizado. Un sistema de gestión de almacenes informático y una moderna flota de vehículos permiten disminuir los tiempos de entrega y optimizar los costos.</p><p>Mediante la certificación <strong>ISO 14001-2004/2009</strong> aseguramos durante todo el proceso el cuidado del medio ambiente y la seguridad de nuestro equipo de trabajo y colaboradores.<a href='https://autoperforantestel.com/empresa' target='_blank' class='text-decoration-none'> Ver más</a></p>",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/250/files/page/2.jpg",
+        "tapa2": "../emagazine/250/files/page/3.jpg",
+        "tapa3": "../emagazine/237/files/page/2.jpg",
+        "tapa4": "../emagazine/237/files/page/3.jpg",
+        "tapa5": "../emagazine/231/files/mobile/2.jpg",
+        "tapa6": "../emagazine/231/files/mobile/3.jpg"
       },
+      "social": {
+        "email": "info@autoperforantestel.com",
+        "mailto": "mailto:info@autoperforantestel.com?subject=Contacto Magazine Bulonero",
+        "web": "https://www.autoperforantestel.com/",
+        "webtxt": "www.autoperforantestel.com",
+        "facebook": "https://www.facebook.com/TelAutoperforantes",
+        "facebookName": "@TelAutoperforantes",
+        "linkedin": "https://www.linkedin.com/company/autoperforantes-tel",
+        "linkedinName": "autoperforantes-tel",
+        "whatsapp": "https://wa.me/5491166312334/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1166312334",
+        "instagram": "https://www.instagram.com/TelAutoperforantes",
+        "instagramName": "@TelAutoperforantes",
+        "youtube": "https://www.youtube.com/channel/UCxXXXXXX",
+        "youtubeName": "Autoperforantes Tel"
+      }
+    },
 
-      "perfecto": {
-        "titulo": "Abrazaderas Perfecto",
-        "telefono": "(011) 4627-9231",
-        "logo": "../imagenes/anunciantes/perfecto.gif",
-        "parrafo":"<p>Fundada hace más de cincuenta años, ha dedicado siempre todo su esfuerzo a la fabricación de Abrazaderas. Con la llegada a nuestro país de la Industria Automotriz ha sabido ganarse la confianza de las mismas, continuando nuestros avances en mercados como los de reposición automotriz y ferretera, industria naval, alimenticia y agrícolas. <br> Características que nos permiten ser el más importante especialista de Abrazaderas en el mercado local. <br> Nuestra planta cuenta con maquinarias y herramientas de última tecnología europea, lo cual le otorga al producto un altísimo grado de confiabilidad. Así mismo cada modelo de abrazadera sufre un complejo proceso antes de su salida al mercado, simulando las condiciones de utilización más adversas. En consecuencia nos hemos equipado con los medio técnicos necesarios, que comprenden un importante desarrollo informático, como así también, con bancos de ensayo altamente especializado y con la capacitación de todo nuestro personal en todos los temas relativos a la calidad y mejora continua. Eso nos ha dado él más alto reconocimiento reflejado en las calificaciones de nuestro sistema de calidad, y como consecuencia, hemos obtenido la certificación por décimo año consecutivo de la norma ISO 9001, siendo en su rubro la primera fábrica de abrazaderas en Argentina en alcanzar dichos galardón. <br> En lo que respecta al mercado internacional, nuestro producto se va insertando con gran aceptación y reconocimiento en los diferentes países, nuestros departamentos de Aseguramiento de Calidad y Técnico – Desarrollo está disponible para resolver cualquier inquietud, dificultad o requerimiento en lo que su materia respecta, nuestros departamentos de ventas están en continuo contacto para asesorarlo sobre todos nuestros productos. <br> Sobre la base de las exigencias actuales y la experiencia que los años otorgo a la a la empresa, nos desarrollamos y avanzamos tecnológicamente FABRICANDO UNA ABRAZADERAS PARA CADA NESESIDAD.</p>",
-        "catalogo":"",
-        "revista":{
-          "tapa1":"../emagazine/250/files/page/32.jpg",
-          "tapa2":"../emagazine/247/files/page/48.jpg"
-        },
-        "social": {
-          "email": "perfecto@abrazaderas",
-          "mailto": "mailto:perfecto@abrazaderas.net?subject=Contacto Magazine Bulonero",
-          "web": "https://abrazaderas.net/",
-          "webtxt": "abrazaderas.net",
-          "instagram": "https://www.instagram.com/abrazaderas.perfecto/",
-          "instagramName": "abrazaderas.perfecto"
-        }
+    "perfecto": {
+      "titulo": "Abrazaderas Perfecto",
+      "telefono": "(011) 4627-9231",
+      "logo": "../imagenes/anunciantes/perfecto.gif",
+      "parrafo": "<p>Fundada hace más de cincuenta años, ha dedicado siempre todo su esfuerzo a la fabricación de Abrazaderas. Con la llegada a nuestro país de la Industria Automotriz ha sabido ganarse la confianza de las mismas, continuando nuestros avances en mercados como los de reposición automotriz y ferretera, industria naval, alimenticia y agrícolas. <br> Características que nos permiten ser el más importante especialista de Abrazaderas en el mercado local. <br> Nuestra planta cuenta con maquinarias y herramientas de última tecnología europea, lo cual le otorga al producto un altísimo grado de confiabilidad. Así mismo cada modelo de abrazadera sufre un complejo proceso antes de su salida al mercado, simulando las condiciones de utilización más adversas. En consecuencia nos hemos equipado con los medio técnicos necesarios, que comprenden un importante desarrollo informático, como así también, con bancos de ensayo altamente especializado y con la capacitación de todo nuestro personal en todos los temas relativos a la calidad y mejora continua. Eso nos ha dado él más alto reconocimiento reflejado en las calificaciones de nuestro sistema de calidad, y como consecuencia, hemos obtenido la certificación por décimo año consecutivo de la norma ISO 9001, siendo en su rubro la primera fábrica de abrazaderas en Argentina en alcanzar dichos galardón. <br> En lo que respecta al mercado internacional, nuestro producto se va insertando con gran aceptación y reconocimiento en los diferentes países, nuestros departamentos de Aseguramiento de Calidad y Técnico – Desarrollo está disponible para resolver cualquier inquietud, dificultad o requerimiento en lo que su materia respecta, nuestros departamentos de ventas están en continuo contacto para asesorarlo sobre todos nuestros productos. <br> Sobre la base de las exigencias actuales y la experiencia que los años otorgo a la a la empresa, nos desarrollamos y avanzamos tecnológicamente FABRICANDO UNA ABRAZADERAS PARA CADA NESESIDAD.</p>",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/250/files/page/32.jpg",
+        "tapa2": "../emagazine/247/files/page/48.jpg"
       },
-      
-      "bulones_kc": {
-        "titulo": "Bulones KC",
-        "telefono": "(011) 4919-3232",
-        "logo": "../imagenes/anunciantes/buloneskc.gif",
-        "parrafo":"<p> Es una empresa del Grupo Industraias KC con más de 50 años de experiencia en el rubro, comprometida con la calidad de los productos y servicios que brinda. Los inicios de INDUSTRIAS KC, se remontan al año 1969 cuando Carlos Kase con sus primeras herramientas monta un taller en Morón, Buenos aires. Ese fue el comienzo de una larga trayectoria que nos lleva después de 50 años a posicionarnos en un lugar de renombre.</p> <p>La vocación firme de satisfacer a los clientes desarrollando piezas a medida y la responsabilidad de hacer bien las cosas son las claves de nuestro crecimiento. Pilares para hoy contar con una planta en la Ciudad de Buenos Aires, de 2.000 m2, y un centro de distribución integrado de 1.000m2. Nuestra compañía es la conjunción del esfuerzo, el trabajo cotidiano y la sencillez de un grupo humano liderados por su fundador, y su Hijo, Carlos O. Kase. Con estos valores como guía, ofreciendo productos y servicios de calidad.</p>   <p>Brindamos asesoramiento personalizado a nuestros clientes con el más alto profesionalismo. Nuestro departamento de desarrollo e ingeniería, busca brindar soluciones integrales con ideas renovadas. La implementación de un nuevo software de gestión integrador, nos permite coordinar eficientemente la producción con nuestros niveles de stock para poder lograr una respuesta inmediata a las demandas del mercado.</p> </p>",
-        "catalogo":"../emagazine/cat/AUTOPERFORANTES_KC.pdf",
-        "revista":{
-          "tapa1":"../emagazine/250/files/page/1.jpg",
-          "tapa2":"../emagazine/250/files/page/18.jpg",
-          "tapa3":"../emagazine/250/files/page/19.jpg",
-          "tapa4":"../emagazine/250/files/page/88.jpg",
-          "tapa5":"../emagazine/242/files/page/1.jpg",
-          "tapa6":"../emagazine/240/files/page/17.jpg",
-          "tapa7":"../emagazine/235/files/mobile/1.jpg",
-          "tapa8":"../emagazine/230/files/mobile/78.jpg",
-          "tapa9":"../emagazine/230/files/mobile/16.jpg",
-          "tapa10":"../emagazine/230/files/mobile/17.jpg"
-        },
-        "social": {
-          "email": "ventas@buloneskc.com.ar",
-          "mailto": "mailto:ventas@buloneskc.com.ar?subject=Contacto Magazine Bulonero",
-          "web": "https://www.buloneskc.com.ar",
-          "webtxt": "www.buloneskc.com.ar",
-          "instagram": "https://www.instagram.com/bulones.kc/",
-          "instagramName": "@bulones.kc",
-          "whatsapp": "https://wa.me/5491166312334/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-          "whatsappName": "11 6631-2334"
-        }
-      },
+      "social": {
+        "email": "perfecto@abrazaderas",
+        "mailto": "mailto:perfecto@abrazaderas.net?subject=Contacto Magazine Bulonero",
+        "web": "https://abrazaderas.net/",
+        "webtxt": "abrazaderas.net",
+        "instagram": "https://www.instagram.com/abrazaderas.perfecto/",
+        "instagramName": "abrazaderas.perfecto"
+      }
+    },
 
-      "tornillo_alvear": {
-        "titulo": "Tornillo   Alvear",
-        "telefono": "341 336-1312",
-        "logo": "../imagenes/anunciantes/talvear.gif",
-        "parrafo":"<p> <p><strong>Tornillo Alvear</strong> es una empresa dedicada a la fabricación de tornillos autoperforantes, referente y destacada en el mercado gracias a cuatro pilares fundamentales:</p> <li> VARIEDAD de productos: Con más de 400 artículos y en constante desarrollo de nuevos productos. </li> <li> CALIDAD certificada: La calidad de los procesos productivos están certificados bajo el sistema de gestión de calidad de la norma ISO 9001-2015, garantizando la fiabilidad y durabilidad de cada tornillo autoperforante. </li> <li> FABRICACIÓN Nacional: Todos los procesos de fabricación, se realizan íntegramente en Argentina, contribuyendo así al desarrollo industrial Nacional, la creación de empleo y el desarrollo local. </li> <li>  STOCK permanente: La empresa garantiza sistemas eficientes de gestión de stock, lo cual permite una disponibilidad permanente de sus productos, permitiendo a los clientes confiar en que encontrarán lo que necesitan, cuando lo necesiten  </li> </p>",
-        "catalogo":"https://www.tornilloalvear.com/productos",
-        "revista":{
-          "tapa1":"../emagazine/250/files/page/6.jpg",
-          "tapa2":"../emagazine/250/files/page/7.jpg",
-          "tapa3":"../emagazine/249/files/page/6.jpg",
-          "tapa4":"../emagazine/249/files/page/7.png",
-          "tapa5":"../emagazine/246/files/page/1.jpg"
-        },
-        "social": {
-          "email": "consultas@tornilloalvear.com",
-          "mailto": "mailto:consultas@tornilloalvear.com?subject=Contacto Magazine Bulonero",
-          "web": "https://www.tornilloalvear.com",
-          "webtxt": "www.tornilloalvear.com",
-          "instagram": "https://www.instagram.com/tornilloalvear.argentina",
-          "instagramName": "@tornilloalvear.argentina",
-          "whatsapp": "https://wa.me/5493413361312/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-          "whatsappName": "341 336-1312",
-          "facebook": "https://www.facebook.com/tornilloalvear.argentina",
-          "facebookName": "@tornilloalvear.argentina"
-        }
+    "bulones_kc": {
+      "titulo": "Bulones KC",
+      "telefono": "(011) 4919-3232",
+      "logo": "../imagenes/anunciantes/buloneskc.gif",
+      "parrafo": "<p> Es una empresa del Grupo Industraias KC con más de 50 años de experiencia en el rubro, comprometida con la calidad de los productos y servicios que brinda. Los inicios de INDUSTRIAS KC, se remontan al año 1969 cuando Carlos Kase con sus primeras herramientas monta un taller en Morón, Buenos aires. Ese fue el comienzo de una larga trayectoria que nos lleva después de 50 años a posicionarnos en un lugar de renombre.</p> <p>La vocación firme de satisfacer a los clientes desarrollando piezas a medida y la responsabilidad de hacer bien las cosas son las claves de nuestro crecimiento. Pilares para hoy contar con una planta en la Ciudad de Buenos Aires, de 2.000 m2, y un centro de distribución integrado de 1.000m2. Nuestra compañía es la conjunción del esfuerzo, el trabajo cotidiano y la sencillez de un grupo humano liderados por su fundador, y su Hijo, Carlos O. Kase. Con estos valores como guía, ofreciendo productos y servicios de calidad.</p>   <p>Brindamos asesoramiento personalizado a nuestros clientes con el más alto profesionalismo. Nuestro departamento de desarrollo e ingeniería, busca brindar soluciones integrales con ideas renovadas. La implementación de un nuevo software de gestión integrador, nos permite coordinar eficientemente la producción con nuestros niveles de stock para poder lograr una respuesta inmediata a las demandas del mercado.</p> </p>",
+      "catalogo": "../emagazine/cat/AUTOPERFORANTES_KC.pdf",
+      "revista": {
+        "tapa1": "../emagazine/250/files/page/1.jpg",
+        "tapa2": "../emagazine/250/files/page/18.jpg",
+        "tapa3": "../emagazine/250/files/page/19.jpg",
+        "tapa4": "../emagazine/250/files/page/88.jpg",
+        "tapa5": "../emagazine/242/files/page/1.jpg",
+        "tapa6": "../emagazine/240/files/page/17.jpg",
+        "tapa7": "../emagazine/235/files/mobile/1.jpg",
+        "tapa8": "../emagazine/230/files/mobile/78.jpg",
+        "tapa9": "../emagazine/230/files/mobile/16.jpg",
+        "tapa10": "../emagazine/230/files/mobile/17.jpg"
       },
-      "isadar_buldar": {
-        "titulo": "ISA-DAR/BUL-DAR",
-        "telefono": "(011) 4218-3062",
-        "logo": "../imagenes/anunciantes/isadar-buldar.jpg",
-        "parrafo":"<p>Nace en el año 2002, fundada por el Sr. Darío Godoy y la Señora Isabel Domínguez. De sus nombres se desprende el nombre de la empresa. Una empresa familiar, como marca la historia de la metalúrgica en nuestro país que comienza con el sueño de un hombre, en este caso de una pareja, al que años más tarde se van sumando sus hijos. Se los nota agradecidos de sus clientes y proveedores y orgullos de sus logros, a base de compromiso y trabajo. Y sobre todo, a pesar de las dificultades que siempre acarrea la economía argentina, por ser una empresa de producción nacional que genera trabajo en nuestro querido país.</p> <p>Somos la fábrica de tirafondos más importante de Argentina. Nos destacamos por tener un producto de excelencia. El control de calidad, desde la materia prima Sipar Gerdau, garantía absoluta, pasando por los procesos de fabricación y hasta los tratamientos térmicos, es fundamental para que no se parta la cabeza ni se doblen. Confiar en el producto es algo muy valioso para el usuario. <br> Nuestros productos se comercializan en todo el país. No tenemos vendedores. Es venta directa, ya que nuestros clientes nos conocen desde hace varios años y confían en nuestros productos y nuestro servicio.</p>",
-        "catalogo":"../emagazine/cat/buldar-isadar_catalogo.pdf",
-        "revista":{
-          "tapa1":"../emagazine/251/files/page/1.jpg",
-          "tapa2":"../emagazine/243/files/page/1.jpg",
-          "tapa3":"../emagazine/240/files/page/10.jpg",
-          "tapa4":"../emagazine/240/files/page/11.jpg",
-          "tapa5":"../emagazine/236/files/mobile/1.jpg",
-          "tapa6":"../emagazine/236/files/mobile/12.jpg",
-          "tapa7":"../emagazine/236/files/mobile/13.jpg",
-          "tapa8":"../emagazine/231/files/mobile/1.jpg",
-          "tapa9":"../emagazine/231/files/mobile/11.jpg",
-          "tapa10":"../emagazine/230/files/mobile/30.jpg"
-        },
-        "social": {
-          "email": "tirafondos_isadar@hotmail.com",
-          "mailto": "mailto:tirafondos_isadar@hotmail.com?subject=Contacto Magazine Bulonero",
-          "web": "https://isadar.com.ar",
-          "webtxt": "www.isadar.com.ar",
-          "instagram": "ttps://www.instagram.com/isadar_buldar/",
-          "instagramName": "@isadar-buldar",
-          "whatsapp": "https://wa.me/5491167309386/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-          "whatsappName": "11 6730-9386",
-          "facebook": "https://www.facebook.com/Isa-Dar-Bul-Dar-101995828982730",
-          "facebookName": "@isadar-buldar"
-        }
+      "social": {
+        "email": "ventas@buloneskc.com.ar",
+        "mailto": "mailto:ventas@buloneskc.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.buloneskc.com.ar",
+        "webtxt": "www.buloneskc.com.ar",
+        "instagram": "https://www.instagram.com/bulones.kc/",
+        "instagramName": "@bulones.kc",
+        "whatsapp": "https://wa.me/5491166312334/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "11 6631-2334"
+      }
+    },
+
+    "tornillo_alvear": {
+      "titulo": "Tornillo   Alvear",
+      "telefono": "341 336-1312",
+      "logo": "../imagenes/anunciantes/talvear.gif",
+      "parrafo": "<p> <p><strong>Tornillo Alvear</strong> es una empresa dedicada a la fabricación de tornillos autoperforantes, referente y destacada en el mercado gracias a cuatro pilares fundamentales:</p> <li> VARIEDAD de productos: Con más de 400 artículos y en constante desarrollo de nuevos productos. </li> <li> CALIDAD certificada: La calidad de los procesos productivos están certificados bajo el sistema de gestión de calidad de la norma ISO 9001-2015, garantizando la fiabilidad y durabilidad de cada tornillo autoperforante. </li> <li> FABRICACIÓN Nacional: Todos los procesos de fabricación, se realizan íntegramente en Argentina, contribuyendo así al desarrollo industrial Nacional, la creación de empleo y el desarrollo local. </li> <li>  STOCK permanente: La empresa garantiza sistemas eficientes de gestión de stock, lo cual permite una disponibilidad permanente de sus productos, permitiendo a los clientes confiar en que encontrarán lo que necesitan, cuando lo necesiten  </li> </p>",
+      "catalogo": "https://www.tornilloalvear.com/productos",
+      "revista": {
+        "tapa1": "../emagazine/250/files/page/6.jpg",
+        "tapa2": "../emagazine/250/files/page/7.jpg",
+        "tapa3": "../emagazine/249/files/page/6.jpg",
+        "tapa4": "../emagazine/249/files/page/7.png",
+        "tapa5": "../emagazine/246/files/page/1.jpg"
       },
-      "rerar": {
-        "titulo": "www.rerar.com.ar",
-        "telefono": "(011) 4759-0979",
-        "logo": "../imagenes/anunciantes/rerar.jpg",
-        "parrafo": "",
-        "catalogo": "",
-        "revista": {
-            "tapa1": "../emagazine/250/files/page/12.jpg",
-            "tapa2": "../emagazine/250/files/page/13.jpg",
-            "tapa3": "../emagazine/249/files/page/12.jpg",
-            "tapa4": "../emagazine/249/files/page/13.jpg",
-            "tapa5": "../emagazine/245/files/page/33.jpg",
-            "tapa6": "../emagazine/244/files/page/1.jpg",
-            "tapa7": "../emagazine/244/files/page/19.jpg",
-            "tapa8": "../emagazine/242/files/page/33.jpg",
-            "tapa9": "../emagazine/241/files/page/33.jpg",
-            "tapa10": "../emagazine/240/files/page/37.jpg",
-            "tapa11": "../emagazine/239/files/page/83.jpg",
-            "tapa12": "../emagazine/237/files/page/1.jpg",
-            "tapa13": "../emagazine/237/files/page/17.jpg",
-            "tapa14": "../emagazine/236/files/mobile/19.jpg",
-            "tapa15": "../emagazine/234/files/mobile/35.jpg",
-            "tapa16": "../emagazine/233/files/mobile/20.jpg",
-            "tapa17": "../emagazine/232/files/mobile/20.jpg"
-        },
-        "social": {
-            "email": "ventas@rerar.com.ar?subject=Contacto Magazine Bulonero\" email me>ventas@rerar.com.ar</a></h3>",
-            "mailto": "mailto:ventas@rerar.com.ar?subject=Contacto Magazine Bulonero\" email me>ventas@rerar.com.ar</a></h3>",
-            "web": "https://www.instagram.com/rerar.argentina/",
-            "webtxt": "@rerar",
-            "instagram": "https://www.instagram.com/rerar.argentina/",
-            "instagramName": "@rerar",
-            "facebook": "",
-            "facebookName": ""
-        }
+      "social": {
+        "email": "consultas@tornilloalvear.com",
+        "mailto": "mailto:consultas@tornilloalvear.com?subject=Contacto Magazine Bulonero",
+        "web": "https://www.tornilloalvear.com",
+        "webtxt": "www.tornilloalvear.com",
+        "instagram": "https://www.instagram.com/tornilloalvear.argentina",
+        "instagramName": "@tornilloalvear.argentina",
+        "whatsapp": "https://wa.me/5493413361312/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "341 336-1312",
+        "facebook": "https://www.facebook.com/tornilloalvear.argentina",
+        "facebookName": "@tornilloalvear.argentina"
+      }
+    },
+    "isadar_buldar": {
+      "titulo": "ISA-DAR/BUL-DAR",
+      "telefono": "(011) 4218-3062",
+      "logo": "../imagenes/anunciantes/isadar-buldar.jpg",
+      "parrafo": "<p>Nace en el año 2002, fundada por el Sr. Darío Godoy y la Señora Isabel Domínguez. De sus nombres se desprende el nombre de la empresa. Una empresa familiar, como marca la historia de la metalúrgica en nuestro país que comienza con el sueño de un hombre, en este caso de una pareja, al que años más tarde se van sumando sus hijos. Se los nota agradecidos de sus clientes y proveedores y orgullos de sus logros, a base de compromiso y trabajo. Y sobre todo, a pesar de las dificultades que siempre acarrea la economía argentina, por ser una empresa de producción nacional que genera trabajo en nuestro querido país.</p> <p>Somos la fábrica de tirafondos más importante de Argentina. Nos destacamos por tener un producto de excelencia. El control de calidad, desde la materia prima Sipar Gerdau, garantía absoluta, pasando por los procesos de fabricación y hasta los tratamientos térmicos, es fundamental para que no se parta la cabeza ni se doblen. Confiar en el producto es algo muy valioso para el usuario. <br> Nuestros productos se comercializan en todo el país. No tenemos vendedores. Es venta directa, ya que nuestros clientes nos conocen desde hace varios años y confían en nuestros productos y nuestro servicio.</p>",
+      "catalogo": "../emagazine/cat/buldar-isadar_catalogo.pdf",
+      "revista": {
+        "tapa1": "../emagazine/251/files/page/1.jpg",
+        "tapa2": "../emagazine/243/files/page/1.jpg",
+        "tapa3": "../emagazine/240/files/page/10.jpg",
+        "tapa4": "../emagazine/240/files/page/11.jpg",
+        "tapa5": "../emagazine/236/files/mobile/1.jpg",
+        "tapa6": "../emagazine/236/files/mobile/12.jpg",
+        "tapa7": "../emagazine/236/files/mobile/13.jpg",
+        "tapa8": "../emagazine/231/files/mobile/1.jpg",
+        "tapa9": "../emagazine/231/files/mobile/11.jpg",
+        "tapa10": "../emagazine/230/files/mobile/30.jpg"
+      },
+      "social": {
+        "email": "tirafondos_isadar@hotmail.com",
+        "mailto": "mailto:tirafondos_isadar@hotmail.com?subject=Contacto Magazine Bulonero",
+        "web": "https://isadar.com.ar",
+        "webtxt": "www.isadar.com.ar",
+        "instagram": "ttps://www.instagram.com/isadar_buldar/",
+        "instagramName": "@isadar-buldar",
+        "whatsapp": "https://wa.me/5491167309386/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "11 6730-9386",
+        "facebook": "https://www.facebook.com/Isa-Dar-Bul-Dar-101995828982730",
+        "facebookName": "@isadar-buldar"
+      }
+    },
+    "rerar": {
+      "titulo": "www.rerar.com.ar",
+      "telefono": "(011) 4759-0979",
+      "logo": "../imagenes/anunciantes/rerar.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/250/files/page/12.jpg",
+        "tapa2": "../emagazine/250/files/page/13.jpg",
+        "tapa3": "../emagazine/249/files/page/12.jpg",
+        "tapa4": "../emagazine/249/files/page/13.jpg",
+        "tapa5": "../emagazine/245/files/page/33.jpg",
+        "tapa6": "../emagazine/244/files/page/1.jpg",
+        "tapa7": "../emagazine/244/files/page/19.jpg",
+        "tapa8": "../emagazine/242/files/page/33.jpg",
+        "tapa9": "../emagazine/241/files/page/33.jpg",
+        "tapa10": "../emagazine/240/files/page/37.jpg",
+        "tapa11": "../emagazine/239/files/page/83.jpg",
+        "tapa12": "../emagazine/237/files/page/1.jpg",
+        "tapa13": "../emagazine/237/files/page/17.jpg",
+        "tapa14": "../emagazine/236/files/mobile/19.jpg",
+        "tapa15": "../emagazine/234/files/mobile/35.jpg",
+        "tapa16": "../emagazine/233/files/mobile/20.jpg",
+        "tapa17": "../emagazine/232/files/mobile/20.jpg"
+      },
+      "social": {
+        "email": "ventas@rerar.com.ar",
+        "mailto": "mailto:ventas@rerar.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "http://www.rerar.com.ar/",
+        "webtxt": "rerar",
+        "instagram": "https://www.instagram.com/rerar.argentina/",
+        "instagramName": "@rerar",
+        "facebook": "",
+        "facebookName": ""
+      }
     },
     "carlos_filas": {
       "titulo": "www.carlosfilas.com.ar",
@@ -182,202 +182,206 @@
       "parrafo": "",
       "catalogo": "",
       "revista": {
-          "tapa1": "../emagazine/233/files/mobile/9.jpg"
+        "tapa1": "../emagazine/233/files/mobile/9.jpg"
       },
       "social": {
-          "email": "ventas@carlosfilas.com.ar?subject=Contacto Magazine Bulonero\" email me>ventas@carlosfilas.com.ar</a></h3>",
-          "mailto": "mailto:ventas@carlosfilas.com.ar?subject=Contacto Magazine Bulonero\" email me>ventas@carlosfilas.com.ar</a></h3>",
-          "web": "https://www.carlosfilas.com.ar/datosutiles.htm",
-          "webtxt": "www.carlosfilas.com.ar",
-          "instagram": "",
-          "instagramName": "",
-          "facebook": "",
-          "facebookName": ""
+        "email": "ventas@carlosfilas.com.ar",
+        "mailto": "mailto:ventas@carlosfilas.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.carlosfilas.com.ar",
+        "webtxt": "www.carlosfilas.com.ar",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
       }
-  },
-  "bulonera-camba": {
-        "titulo": "www.buloneracamba.com.ar",
-        "telefono": "",
-        "logo": "../imagenes/anunciantes/bcamba.gif",
-        "parrafo": "",
-        "catalogo": "",
-        "revista": {
-            "tapa1": "../emagazine/235/files/mobile/67.jpg",
-            "tapa2": "../emagazine/234/files/mobile/61.jpg",
-            "tapa3": "../emagazine/233/files/mobile/53.jpg"
-        },
-        "social": {
-            "email": "ventas@buloneracamba.com.ar?subject=Contacto Magazine Bulonero\" email me>ventas@buloneracamba.com.ar</a></h3>",
-            "mailto": "mailto:ventas@buloneracamba.com.ar?subject=Contacto Magazine Bulonero\" email me>ventas@buloneracamba.com.ar</a></h3>",
-            "web": "https://www.facebook.com/buloneracamba",
-            "webtxt": "@buloneracamba",
-            "instagram": "https://www.instagram.com/buloneracamba",
-            "instagramName": "@buloneracamba",
-            "facebook": "https://www.facebook.com/buloneracamba",
-            "facebookName": "@buloneracamba"
-        }
+    },
+    "bulonera-camba": {
+      "titulo": "www.buloneracamba.com.ar",
+      "telefono": "",
+      "logo": "../imagenes/anunciantes/bcamba.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/235/files/mobile/67.jpg",
+        "tapa2": "../emagazine/234/files/mobile/61.jpg",
+        "tapa3": "../emagazine/233/files/mobile/53.jpg"
+      },
+      "social": {
+        "email": "ventas@buloneracamba.com.ar",
+        "mailto": "mailto:ventas@buloneracamba.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.buloneracamba.com.ar/",
+        "webtxt": "Web Bulonera Camba",
+        "instagram": "https://www.instagram.com/buloneracamba",
+        "instagramName": "@buloneracamba",
+        "facebook": "https://www.facebook.com/buloneracamba",
+        "facebookName": "@buloneracamba"
+      }
     },
     "argenrap": {
-        "titulo": "Argenrap",
-        "telefono": "(011) 4652-5898",
-        "logo": "../imagenes/anunciantes/argenrap.gif",
-        "parrafo": "",
-        "catalogo": "",
-        "revista": {
-            "tapa1": "../emagazine/240/files/page/69.jpg",
-            "tapa2": "../emagazine/237/files/page/76.jpg",
-            "tapa3": "../emagazine/234/files/mobile/71.jpg"
-        },
-        "social": {
-            "email": "info@argenrap.com?subject=Contacto Magazine Bulonero\" email me>info@argenrap.com</a></p>",
-            "mailto": "mailto:info@argenrap.com?subject=Contacto Magazine Bulonero\" email me>info@argenrap.com</a></p>",
-            "web": "https://www.facebook.com/argenrap.arg",
-            "webtxt": "Argenrap.arg",
-            "instagram": "https://www.instagram.com/argenrap.remaches/",
-            "instagramName": "Argenrap.remaches",
-            "facebook": "https://www.facebook.com/argenrap.arg",
-            "facebookName": "Argenrap.arg"
-        }
+      "titulo": "Argenrap",
+      "telefono": "(011) 4652-5898",
+      "logo": "../imagenes/anunciantes/argenrap.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/240/files/page/69.jpg",
+        "tapa2": "../emagazine/237/files/page/76.jpg",
+        "tapa3": "../emagazine/234/files/mobile/71.jpg"
+      },
+      "social": {
+        "email": "info@argenrap.com",
+        "mailto": "mailto:info@argenrap.com?subject=Contacto Magazine Bulonero",
+        "web": "https://www.argenrap.com.ar/",
+        "webtxt": "www.argenrap.com.ar",
+        "instagram": "https://www.instagram.com/argenrap.remaches/",
+        "instagramName": "Argenrap.remaches",
+        "facebook": "https://www.facebook.com/argenrap.arg",
+        "facebookName": "Argenrap.arg"
+      }
     },
     "cat-powertools": {
-        "titulo": "www.kalydon.com.ar",
-        "telefono": "(011) 4256-6243",
-        "logo": "../imagenes/anunciantes/cat.jpg",
-        "parrafo": "",
-        "catalogo": "",
-        "revista": {
-            "tapa1": "../emagazine/250/files/page/14.jpg",
-            "tapa2": "../emagazine/246/files/page/15.jpg",
-            "tapa3": "../emagazine/243/files/page/51.jpg",
-            "tapa4": "../emagazine/242/files/page/13.jpg",
-            "tapa5": "../emagazine/240/files/page/19.jpg",
-            "tapa6": "../emagazine/238/files/page/57.jpg",
-            "tapa7": "../emagazine/236/files/mobile/17.jpg",
-            "tapa8": "../emagazine/234/files/mobile/13.jpg",
-            "tapa9": "../emagazine/233/files/mobile/1.jpg"
-        },
-        "social": {
-            "email": "kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero\" email me>kalydontools@yahoo.com.ar<</a></h3>",
-            "mailto": "mailto:kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero\" email me>kalydontools@yahoo.com.ar<</a></h3>",
-            "web": "https://www.kalydon.com.ar/marca/cat/",
-            "webtxt": "www.kalydon.com.ar",
-            "instagram": "https://www.instagram.com/catpowertools.arg/",
-            "instagramName": "@catpowertools.arg",
-            "facebook": "https://www.facebook.com/catpowertools.arg",
-            "facebookName": "@catpowertools.arg"
-        }
+      "titulo": "Cat- Power Tools ",
+      "telefono": "(011) 4256-6243",
+      "logo": "../imagenes/anunciantes/cat.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/250/files/page/14.jpg",
+        "tapa2": "../emagazine/246/files/page/15.jpg",
+        "tapa3": "../emagazine/243/files/page/51.jpg",
+        "tapa4": "../emagazine/242/files/page/13.jpg",
+        "tapa5": "../emagazine/240/files/page/19.jpg",
+        "tapa6": "../emagazine/238/files/page/57.jpg",
+        "tapa7": "../emagazine/236/files/mobile/17.jpg",
+        "tapa8": "../emagazine/234/files/mobile/13.jpg",
+        "tapa9": "../emagazine/233/files/mobile/1.jpg"
+      },
+      "social": {
+        "email": "kalydontools@yahoo.com.ar",
+        "mailto": "mailto:kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.kalydon.com.ar/marca/cat/",
+        "webtxt": "www.kalydon.com.ar",
+        "instagram": "https://www.instagram.com/catpowertools.arg/",
+        "instagramName": "@catpowertools.arg",
+        "facebook": "https://www.facebook.com/catpowertools.arg",
+        "facebookName": "@catpowertools.arg"
+      }
     },
     "raptor-tornillos": {
-        "titulo": "Raptor",
-        "telefono": "(011) 4652-5898",
-        "logo": "../imagenes/anunciantes/raptor.jpg",
-        "parrafo": "",
-        "catalogo": "",
-        "revista": {
-            "tapa1": "../emagazine/237/files/page/76.jpg",
-            "tapa2": "../emagazine/236/files/mobile/61.jpg",
-            "tapa3": "../emagazine/234/files/mobile/73.jpg"
-        },
-        "social": {
-            "email": "info@selflex.com.ar?subject=Contacto Magazine Bulonero\" title=\"Contacto Raptor\" email me>info@selflex.com.ar</a> </p>",
-            "mailto": "mailto:info@selflex.com.ar?subject=Contacto Magazine Bulonero\" title=\"Contacto Raptor\" email me>info@selflex.com.ar</a> </p>",
-            "web": "",
-            "webtxt": "",
-            "instagram": "",
-            "instagramName": "",
-            "facebook": "",
-            "facebookName": ""
-        }
+      "titulo": "Raptor",
+      "telefono": "(011) 4652-5898",
+      "logo": "../imagenes/anunciantes/raptor.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/237/files/page/76.jpg",
+        "tapa2": "../emagazine/236/files/mobile/61.jpg",
+        "tapa3": "../emagazine/234/files/mobile/73.jpg"
+      },
+      "social": {
+        "email": "info@selflex.com.ar",
+        "mailto": "mailto:info@selflex.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "",
+        "webtxt": "",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
     },
     "rubi": {
-      "titulo": "www.kalydon.com.ar",
+      "titulo": "Rubi",
       "telefono": "(011) 4600-5124",
       "logo": "../imagenes/anunciantes/rubi.jpg",
       "parrafo": "",
       "catalogo": "",
       "revista": {
-          "tapa1": "../emagazine/250/files/page/45.jpg",
-          "tapa2": "../emagazine/240/files/page/45.jpg",
-          "tapa3": "../emagazine/237/files/page/15.jpg",
-          "tapa4": "../emagazine/234/files/mobile/21.jpg"
+        "tapa1": "../emagazine/250/files/page/45.jpg",
+        "tapa2": "../emagazine/240/files/page/45.jpg",
+        "tapa3": "../emagazine/237/files/page/15.jpg",
+        "tapa4": "../emagazine/234/files/mobile/21.jpg"
       },
       "social": {
-          "email": "kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero\" email me>kalydontools@yahoo.com.ar</a></h3>",
-          "mailto": "mailto:kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero\" email me>kalydontools@yahoo.com.ar</a></h3>",
-          "web": "https://www.kalydon.com.ar/marca/rubi-2/",
-          "webtxt": "www.kalydon.com.ar",
-          "instagram": "https://www.instagram.com/rubidemo.arg/",
-          "instagramName": "@rubidemo.arg",
-          "facebook": "https://www.facebook.com/TelAutoperforantes",
-          "facebookName": "@rubidemo.arg"
+        "email": "kalydontools@yahoo.com.ar",
+        "mailto": "mailto:kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.kalydon.com.ar/marca/rubi-2/",
+        "webtxt": "www.kalydon.com.ar",
+        "instagram": "https://www.instagram.com/rubidemo.arg/",
+        "instagramName": "@rubidemo.arg",
+        "facebook": "https://www.facebook.com/TelAutoperforantes",
+        "facebookName": "@rubidemo.arg"
       }
-  },
-  "bulmetal": {
-        "titulo": "www.bmbulmetal.com.ar",
-        "telefono": "(011) 4641-6499",
-        "logo": "../imagenes/anunciantes/bulmetal.jpg",
-        "parrafo": "",
-        "catalogo": "",
-        "revista": {
-            "tapa1": "../emagazine/240/files/page/38.jpg",
-            "tapa2": "../emagazine/240/files/page/39.jpg",
-            "tapa3": "../emagazine/238/files/page/28.jpg",
-            "tapa4": "../emagazine/238/files/page/29.jpg",
-            "tapa5": "../emagazine/233/files/mobile/29.jpg",
-            "tapa6": "../emagazine/232/files/mobile/36.jpg",
-            "tapa7": "../emagazine/232/files/mobile/37.jpg"
-        },
-        "social": {
-            "email": "info@bmbulmetal.com.ar?subject=Contacto Magazine Bulonero\" email me>info@bmbulmetal.com.ar</a></h3>",
-            "mailto": "mailto:info@bmbulmetal.com.ar?subject=Contacto Magazine Bulonero\" email me>info@bmbulmetal.com.ar</a></h3>",
-            "web": "https://www.bmbulmetal.com.ar/",
-            "webtxt": "www.bmbulmetal.com.ar",
-            "instagram": "https://www.instagram.com/bmbulmetal/",
-            "instagramName": "@bm bulmetal",
-            "facebook": "https://www.facebook.com/bmbulmetal",
-            "facebookName": "@bm bulmetal"
-        }
+    },
+    "bulmetal": {
+      "titulo": "Bulmetal",
+      "telefono": "(011) 4641-6499",
+      "logo": "../imagenes/anunciantes/bulmetal.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/240/files/page/38.jpg",
+        "tapa2": "../emagazine/240/files/page/39.jpg",
+        "tapa3": "../emagazine/238/files/page/28.jpg",
+        "tapa4": "../emagazine/238/files/page/29.jpg",
+        "tapa5": "../emagazine/233/files/mobile/29.jpg",
+        "tapa6": "../emagazine/232/files/mobile/36.jpg",
+        "tapa7": "../emagazine/232/files/mobile/37.jpg"
+      },
+      "social": {
+        "email": "info@bmbulmetal.com.ar",
+        "mailto": "mailto:info@bmbulmetal.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.bmbulmetal.com.ar/",
+        "webtxt": "www.bmbulmetal.com.ar",
+        "instagram": "https://www.instagram.com/bmbulmetal/",
+        "instagramName": "@bm bulmetal",
+        "facebook": "https://www.facebook.com/bmbulmetal",
+        "facebookName": "@bm bulmetal"
+      }
     },
     "ekron": {
-        "titulo": "www.ekron.com.ar",
-        "telefono": "(011) 4641-6499",
-        "logo": "../imagenes/anunciantes/ekron.jpg",
-        "parrafo": "",
-        "catalogo": "",
-        "revista": {
-            "tapa1": "../emagazine/240/files/page/43.jpg",
-            "tapa2": "../emagazine/235/files/mobile/17.jpg"
-        },
-        "social": {
-            "email": "ventas2@joldensa.com?subject=Contacto Magazine Bulonero\" email me>ventas2@joldensa.com</a></h3>",
-            "mailto": "mailto:ventas2@joldensa.com?subject=Contacto Magazine Bulonero\" email me>ventas2@joldensa.com</a></h3>",
-            "web": "",
-            "webtxt": "",
-            "instagram": "",
-            "instagramName": "",
-            "facebook": "",
-            "facebookName": ""
-        }
+      "titulo": "www.ekron.com.ar",
+      "telefono": "(011) 4641-6499",
+      "logo": "../imagenes/anunciantes/ekron.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/240/files/page/43.jpg",
+        "tapa2": "../emagazine/235/files/mobile/17.jpg"
+      },
+      "social": {
+        "email": "ventas2@joldensa.com",
+        "mailto": "mailto:ventas2@joldensa.com?subject=Contacto Magazine Bulonero",
+        "web": "https://ekron.joldensa.com.ar/",
+        "webtxt": "Web Ekron",
+        "whatsapp": "https://wa.me/5491151083022/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1151083022",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
     },
     "lacatus": {
-        "titulo": "Lacatus",
-        "telefono": "",
-        "logo": "../imagenes/anunciantes/lacatus.jpg",
-        "parrafo": "",
-        "catalogo": "",
-        "revista": {
-            "tapa1": "../emagazine/242/files/page/32.jpg"
-        },
-        "social": {
-            "email": "ventas2@joldensa.com?subject=Contacto Magazine Bulonero\" class=\"small\" href=\"\" email me>ventas2@joldensa.com</a></p>",
-            "mailto": "mailto:ventas2@joldensa.com?subject=Contacto Magazine Bulonero\" class=\"small\" href=\"\" email me>ventas2@joldensa.com</a></p>",
-            "web": "",
-            "webtxt": "",
-            "instagram": "",
-            "instagramName": "",
-            "facebook": "",
-            "facebookName": ""
-        }
+      "titulo": "Lacatus",
+      "telefono": "",
+      "logo": "../imagenes/anunciantes/lacatus.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/242/files/page/32.jpg"
+      },
+      "social": {
+        "email": "ventas2@joldensa.com",
+        "mailto": "mailto:ventas2@joldensa.com?subject=Contacto Magazine Bulonero",
+        "web": "https://lacatus.joldensa.com.ar/",
+        "webtxt": "lacatus.joldensa.com.ar",
+        "whatsapp": "https://wa.me/5491151083022/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1151083022",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
     },
     "aceros_borroni": {
       "titulo": "Aceros Borroni",
@@ -387,58 +391,58 @@
       "catalogo": "",
       "revista": {},
       "social": {
-          "email": "info@acerosborroni.com",
-          "mailto": "mailto:info@acerosborroni.com?subject=Contacto Magazine Bulonero",
-          "web": "",
-          "webtxt": "",
-          "instagram": "",
-          "instagramName": "",
-          "facebook": "",
-          "facebookName": ""
+        "email": "info@acerosborroni.com",
+        "mailto": "mailto:info@acerosborroni.com?subject=Contacto Magazine Bulonero",
+        "web": "http://www.acerosborroni.com/",
+        "webtxt": "www.acerosborroni.com",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
       }
-  },
-  "aliafor": {
-        "titulo": "Aliafor",
-        "telefono": "(011) 2152-0500",
-        "logo": "../imagenes/anunciantes/aliafor.jpg",
-        "parrafo": "",
-        "catalogo": "",
-        "revista": {
-            "tapa1": "../emagazine/241/files/page/14.jpg",
-            "tapa2": "../emagazine/237/files/page/43.jpg",
-            "tapa3": "../emagazine/236/files/mobile/45.jpg"
-        },
-        "social": {
-            "email": "info@aliafor.com?subject=Contacto Magazine Bulonero\" email me>info@aliafor.com</a></p>",
-            "mailto": "mailto:info@aliafor.com?subject=Contacto Magazine Bulonero\" email me>info@aliafor.com</a></p>",
-            "web": "https://www.aliaforweb.com.ar",
-            "webtxt": "www.aliafor.com.ar",
-            "instagram": "https://www.instagram.com/aliafor.online/",
-            "instagramName": "aliafor.online",
-            "facebook": "https://www.facebook.com/aliafors.a/",
-            "facebookName": "aliafors.a"
-        }
+    },
+    "aliafor": {
+      "titulo": "Aliafor",
+      "telefono": "(011) 2152-0500",
+      "logo": "../imagenes/anunciantes/aliafor.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/241/files/page/14.jpg",
+        "tapa2": "../emagazine/237/files/page/43.jpg",
+        "tapa3": "../emagazine/236/files/mobile/45.jpg"
+      },
+      "social": {
+        "email": "info@aliafor.com",
+        "mailto": "mailto:info@aliafor.com?subject=Contacto Magazine Bulonero",
+        "web": "https://www.aliaforweb.com.ar",
+        "webtxt": "www.aliafor.com.ar",
+        "instagram": "https://www.instagram.com/aliafor.online/",
+        "instagramName": "aliafor.online",
+        "facebook": "https://www.facebook.com/aliafors.a/",
+        "facebookName": "aliafors.a"
+      }
     },
     "bym_arandelas": {
-        "titulo": "bymarandelas.com.ar",
-        "telefono": "",
-        "logo": "../imagenes/anunciantes/bym-arandelas.jpg",
-        "parrafo": "",
-        "catalogo": "",
-        "revista": {
-            "tapa1": "../emagazine/250/files/page/37.jpg",
-            "tapa2": "../emagazine/245/files/page/34.jpg"
-        },
-        "social": {
-            "email": "veloarandelas@gmail.com?subject=Contacto Magazine Bulonero\" email me>veloarandelas@gmail.com</a></h3>",
-            "mailto": "mailto:veloarandelas@gmail.com?subject=Contacto Magazine Bulonero\" email me>veloarandelas@gmail.com</a></h3>",
-            "web": "https://www.tornilloalvear.com",
-            "webtxt": "bymarandelas.com.ar",
-            "instagram": "https://www.instagram.com/bymarandelas/",
-            "instagramName": "@bymarandelas",
-            "facebook": "https://www.facebook.com/bymarandelas",
-            "facebookName": "@bymarandelas"
-        }
+      "titulo": "bymarandelas.com.ar",
+      "telefono": "(0351) 900-8665",
+      "logo": "../imagenes/anunciantes/bym-arandelas.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/250/files/page/37.jpg",
+        "tapa2": "../emagazine/245/files/page/34.jpg"
+      },
+      "social": {
+        "email": "veloarandelas@gmail.com",
+        "mailto": "mailto:veloarandelas@gmail.com?subject=Contacto Magazine Bulonero",
+        "web": "https://bymarandelas.com.ar/",
+        "webtxt": "bymarandelas.com.ar",
+        "instagram": "https://www.instagram.com/bymarandelas/",
+        "instagramName": "@bymarandelas",
+        "facebook": "https://www.facebook.com/bymarandelas",
+        "facebookName": "@bymarandelas"
+      }
     },
     "bollhoff": {
       "titulo": "Bollhöff S.A",
@@ -447,157 +451,733 @@
       "parrafo": "",
       "catalogo": "",
       "revista": {
-          "tapa1": "../emagazine/240/files/page/57.jpg",
-          "tapa2": "../emagazine/231/files/mobile/51.jpg",
-          "tapa3": "../emagazine/235/files/mobile/51.jpg",
-          "tapa4": "../emagazine/234/files/mobile/20.jpg",
-          "tapa5": "../emagazine/233/files/mobile/45.jpg",
-          "tapa6": "../emagazine/230/files/mobile/67.jpg"
+        "tapa1": "../emagazine/240/files/page/57.jpg",
+        "tapa2": "../emagazine/231/files/mobile/51.jpg",
+        "tapa3": "../emagazine/235/files/mobile/51.jpg",
+        "tapa4": "../emagazine/234/files/mobile/20.jpg",
+        "tapa5": "../emagazine/233/files/mobile/45.jpg",
+        "tapa6": "../emagazine/230/files/mobile/67.jpg"
       },
       "social": {
-          "email": "ventas@boellhoff.com?subject=Contacto Magazine Bulonero\" email me>ventas@boellhoff.com</a></p>",
-          "mailto": "mailto:ventas@boellhoff.com?subject=Contacto Magazine Bulonero\" email me>ventas@boellhoff.com</a></p>",
-          "web": "https://www.boellhoff.com/ar-es/index.php",
-          "webtxt": "www.boellhoff.com",
-          "instagram": "",
-          "instagramName": "",
-          "facebook": "",
-          "facebookName": ""
+        "email": "ventas@boellhoff.com",
+        "mailto": "mailto:ventas@boellhoff.com?subject=Contacto Magazine Bulonero",
+        "web": "https://www.boellhoff.com/ar-es/index.php",
+        "webtxt": "www.boellhoff.com",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
       }
-  },
-  "casermeiro": {
-        "titulo": "Casermeiro",
-        "telefono": "",
-        "logo": "../imagenes/anunciantes/caserm.gif",
-        "parrafo": "",
-        "catalogo": "",
-        "revista": {
-            "tapa1": "../emagazine/248/files/page/46.jpg"
-        },
-        "social": {
-            "email": "consultas@e-casermeiro.net?subject=Contacto Magazine Bulonero\" title=\"Contacto Casermeiro\" email me>consultas@e-casermeiro.net</a></p>",
-            "mailto": "mailto:consultas@e-casermeiro.net?subject=Contacto Magazine Bulonero\" title=\"Contacto Casermeiro\" email me>consultas@e-casermeiro.net</a></p>",
-            "web": "https://www.facebook.com/tornilloscaser",
-            "webtxt": "tornilloscaser",
-            "instagram": "https://www.instagram.com/tornillos_caser/",
-            "instagramName": "tornillos_caser",
-            "facebook": "https://www.facebook.com/tornilloscaser",
-            "facebookName": "tornilloscaser"
-        }
+    },
+    "casermeiro": {
+      "titulo": "Casermeiro",
+      "telefono": "",
+      "logo": "../imagenes/anunciantes/caserm.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/248/files/page/46.jpg"
+      },
+      "social": {
+        "email": "consultas@e-casermeiro.net",
+        "mailto": "mailto:consultas@e-casermeiro.net?subject=Contacto Magazine Bulonero",
+        "web": "http://www.e-casermeiro.net/sitio",
+        "webtxt": "www.e-casermeiro.net",
+        "instagram": "https://www.instagram.com/tornillos_caser/",
+        "instagramName": "tornillos_caser",
+        "facebook": "https://www.facebook.com/tornilloscaser",
+        "facebookName": "tornilloscaser"
+      }
     },
     "cat-tor": {
-        "titulo": "Cat-Tor",
-        "telefono": "(011) 4734-7971",
-        "logo": "../imagenes/anunciantes/cattor-logo.jpg",
-        "parrafo": "",
-        "catalogo": "",
-        "revista": {
-            "tapa1": "../emagazine/247/files/page/27.jpg"
-        },
-        "social": {
-            "email": "cattorarg@hotmail.com?subject=Contacto Magazine Bulonero\" email me>cattorarg@hotmail.com</a></p>",
-            "mailto": "mailto:cattorarg@hotmail.com?subject=Contacto Magazine Bulonero\" email me>cattorarg@hotmail.com</a></p>",
-            "web": "",
-            "webtxt": "",
-            "instagram": "",
-            "instagramName": "",
-            "facebook": "",
-            "facebookName": ""
-        }
+      "titulo": "Cat-Tor",
+      "telefono": "(011) 4734-7971",
+      "logo": "../imagenes/anunciantes/cattor-logo.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/247/files/page/27.jpg"
+      },
+      "social": {
+        "email": "cattorarg@hotmail.com",
+        "mailto": "mailto:cattorarg@hotmail.com?subject=Contacto Magazine Bulonero",
+        "web": "",
+        "webtxt": "",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
     },
-      "vialro_tornillos": {
-        "titulo": "Vialro",
-        "telefono": "(011) 4208-8603 / 4228-6506",
-        "logo": "../imagenes/anunciantes/vialro.gif",
-        "parrafo":"<p>Nace en el año 1961 en la localidad de Valentin Alsina, Partido de Lanús como 'Vicente Laurutis e Hijos', dedicada a la fabricación de máquinas para la industria de la tornilleria y la bulonería. En la década del 80, el país se abre al ingreso de productos del exterior, y nuestra empresa importa las primeras roscadoras para dedicarse a la fabricación de tornillos para madera, avalados por la experiencia de muchos años en el sector. Con el tiempo se incrementó el plantel de maquinaria, ahora de fabricación nacional. En los últimos años, la tendencia fue incorporar los nuevos productos de fijación que demanda el mercado. Así, a la tradicional línea de tornillos Bis , se le incorporaron la linea Dry para madera y construccion en seco.</p>",
-        "catalogo":"https://www.vialro.com.ar/img/catalogo.pdf",
-        "revista":{
-          "tapa1":"../emagazine/253/files/page/25.jpg",
-          "tapa2":"../emagazine/252/files/page/35.jpg",
-          "tapa3":"../emagazine/251/files/page/23.jpg",
-          "tapa4":"../emagazine/250/files/page/25.jpg",
-          "tapa5":"../emagazine/249/files/page/23.jpg",
-          "tapa6":"../emagazine/248/files/page/22.jpg",
-          "tapa7":"../emagazine/248/files/page/23.jpg",
-          "tapa8":"../emagazine/247/files/page/20.jpg",
-          "tapa9":"../emagazine/247/files/page/21.jpg",
-          "tapa10":"../emagazine/246/files/page/18.jpg",
-          "tapa11":"../emagazine/246/files/page/19.jpg"
-        },
-        "social": {
-          "email": "info@vialro.com.ar",
-          "mailto": "mailto:info@vialro.com.ar?subject=Contacto Magazine Bulonero",
-          "web": "https://www.vialro.com.ar",
-          "webtxt": "www.vialro.com.ar",
-          "instagram": "https://www.instagram.com/vialro_tornillos/",
-          "instagramName": "vialro_tornillos",
-          "facebook": "https://www.facebook.com/VialroTornillos",
-          "facebookName": "VialroTornillos",
-          "whatsapp": "https://wa.me/5491131941442/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-          "whatsappName": "+5491131941442"
-        }
+    "cormet-abrasivos": {
+      "titulo": "Abrasivos Cormet",
+      "telefono": "",
+      "logo": "../imagenes/anunciantes/abrasivos-cormet-logo.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/247/files/page/39.jpg",
+        "tapa2": "../emagazine/240/files/page/67.jpg",
+        "tapa3": "../emagazine/235/files/mobile/75.jpg"
       },
-      "eslabones": {
-        "titulo": "Eslabones SA",
-        "telefono": "+54 9 223 423 7947",
-        "logo": "../imagenes/anunciantes/eslabones.gif",
-        "parrafo":"<p><strong>Eslabones</strong> es un <strong>mayorista de ferreterías</strong> dedicado a ofrecer una amplia gama de productos de <strong>alta calidad</strong> a precios competitivos. Nos especializamos en la <strong>distribución</strong> de herramientas, herrajes, y artículos de ferretería, asegurando un <strong>abastecimiento constante</strong> y confiable para nuestros clientes. Con un enfoque en el <strong>servicio al cliente</strong> y el <strong>apoyo comercial</strong>, <strong>Eslabones</strong> es el socio ideal para las ferreterías que buscan productos duraderos y soluciones efectivas.</p>",
-        "catalogo":"",
-        "revista":{
-        },
-        "social": {
-          "email": "info@eslabones.com.ar",
-          "mailto": "mailto:info@eslabones.com.ar?subject=Contacto Magazine Bulonero",
-          "web": "https://eslabones.com.ar/",
-          "webtxt": "eslabones.com.ar",
-          "instagram": "",
-          "instagramName": "",
-          "whatsapp": "https://wa.me/5492236833458/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-          "whatsappName": "+5492236833458"
-        }
+      "social": {
+        "email": "cormet@funescoop.com.ar",
+        "mailto": "mailto:cormet@funescoop.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.cormetabrasivos.com/",
+        "webtxt": "www.cormetabrasivos.com",
+        "instagram": "https://www.instagram.com/abrasivoscormet/",
+        "instagramName": "abrasivoscormet",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "dellavalle": {
+      "titulo": "Della Valle & CIA",
+      "telefono": "",
+      "logo": "../imagenes/anunciantes/dellavalle.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/247/files/page/36.jpg",
+        "tapa2": "../emagazine/246/files/page/59.jpg",
+        "tapa3": "../emagazine/245/files/page/37.jpg"
       },
-      "trusoni": {
-        "titulo": "Trusoni",
-        "telefono": "(011) 4757-9555",
-        "logo": "../imagenes/anunciantes/trusoni.gif",
-        "parrafo":"<p><strong>Luistrusoni SRL</strong> es una empresa líder en la <strong>venta de tornillos</strong>, ofreciendo una amplia variedad de productos de alta calidad para satisfacer las necesidades de sus clientes. Nos especializamos en proporcionar soluciones precisas y duraderas para <strong>industria</strong>, <strong>construcción</strong> y otros sectores. En <strong>Luistrusoni SRL</strong>, nos comprometemos a ofrecer un servicio excepcional y asesoramiento experto para ayudarle a encontrar el tornillo adecuado para su proyecto.</p>",
-        "catalogo":"",
-        "revista":{
-        },
-        "social": {
-          "email": "info@trusoni.com.ar",
-          "mailto": "mailto:info@trusoni.com.ar?subject=Contacto Magazine Bulonero",
-          "web": "",
-          "webtxt": "",
-          "instagram": "https://www.instagram.com/luistrusonisrl/",
-          "instagramName": "@luistrusonisrl",
-          "whatsapp": "https://wa.me/5491161307136/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-          "whatsappName": "+5491161307136"
-        }
+      "social": {
+        "email": "administracion@dellavalleycia.com.ar",
+        "mailto": "mailto:administracion@dellavalleycia.com?subject=Contacto Magazine Bulonero",
+        "web": "https://www.dellavalleycia.com.ar/",
+        "webtxt": "www.dellavalleycia.com.ar",
+        "instagram": "https://www.instagram.com/dellavalle.ferreteria/",
+        "instagramName": "Dellavalle.ferreteria",
+        "facebook": "https://www.facebook.com/DellaValleyCia",
+        "facebookName": "Della Valle y Cia."
+      }
+    },
+    "difelbroc": {
+      "titulo": "Difelbroc",
+      "telefono": "(011) 4502-2898",
+      "logo": "../imagenes/anunciantes/difelbroc.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/246/files/page/27.jpg",
+        "tapa2": "../emagazine/240/files/page/41.jpg",
+        "tapa3": "../emagazine/238/files/page/35.jpg",
+        "tapa4": "../emagazine/234/files/mobile/38.jpg"
       },
-      "wacker_herramientas": {
-        "titulo": "Wacker Herramientas",
-        "telefono": "(011) 4757-9555",
-        "logo": "../imagenes/anunciantes/wacker.jpg",
-        "parrafo":"<p>Es una empresa fundada en el año 2002. Dedicada desde sus comienzos a la distribución de herramientas manuales y eléctricas, abrasivos, artículos de seguridad industrial, izajes y tornillería de varios tipos en todo el territorio Argentino.<br> Contamos con una amplia variedad de productos de las marcas más reconocidas tanto a nivel nacional e internacional que nos permite satisfacer las necesidades de nuestros clientes.<br> Para asegurar un mejor servicio y atención contamos con 9 vendedores en Capital Federal, GBA y Mesopotamia además de 3 vehículos para garantizar las entregas con la mayor rapidez posible. <br> Somos un equipo enfocado en mejorar desde cada área la experiencia de nuestros clientes. Nuestra cultura está orientada a obtener logros en corto tiempo y afianzarlos a largo plazo pensando en el usuario con cada decisión que tomamos. Creemos que la relación con nuestros clientes es nuestro mayor activo.<br> <ul>Los 3 pilares que nos definen son: <li>Transparencia: buscamos ser justos y transparentes, entre nosotros y con nuestros clientes.</li> <li>Energía: nos gusta lo que hacemos y lo expresamos constantemente.</li> <li>Excelencia: buscamos superarnos siempre.</li></ul></p>",
-        "catalogo":"",
-        "revista":{
-          "tapa1":"../emagazine/249/files/page/76.jpg",
-          "tapa2":"../emagazine/248/files/page/89.jpg",
-          "tapa3":"../emagazine/245/files/page/56.jpg",
-          "tapa4":"../emagazine/237/files/page/68.jpg"
-        },
-        "social": {
-          "email": "ventas@wackerherramientas.com.ar",
-          "mailto": "mailto:ventas@wackerherramientas.com.ar?subject=Contacto Magazine Bulonero",
-          "web": "",
-          "webtxt": "www.wackerherramientas.com.ar",
-          "instagram": "https://www.instagram.com/wackerherramientas/",
-          "instagramName": "wackerherramientas",
-          "whatsapp": "https://wa.me/5491124747441/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-          "whatsappName": "+5491124747441"
-        }
+      "social": {
+        "email": "info@difelbroc.com.ar",
+        "mailto": "mailto:info@difelbroc.com?subject=Contacto Magazine Bulonero",
+        "web": "https://www.difelbroc.com.ar/site/es/",
+        "webtxt": "www.difelbroc.com.ar",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "ddo": {
+      "titulo": "Distribuidora Del Oeste",
+      "telefono": "",
+      "logo": "../imagenes/anunciantes/ddo.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/247/files/page/72.jpg",
+        "tapa2": "../emagazine/246/files/page/78.jpg",
+        "tapa3": "../emagazine/245/files/page/78.jpg",
+        "tapa4": "../emagazine/242/files/page/56.jpg",
+        "tapa5": "../emagazine/241/files/page/66.jpg",
+        "tapa6": "../emagazine/240/files/page/61.jpg",
+        "tapa7": "../emagazine/236/files/mobile/42.jpg",
+        "tapa8": "../emagazine/236/files/mobile/43.jpg",
+        "tapa9": "../emagazine/235/files/mobile/68.jpg",
+        "tapa10": "../emagazine/235/files/mobile/69.jpg",
+        "tapa11": "../emagazine/234/files/mobile/50.jpg"
+      },
+      "social": {
+        "email": "contactoaddo@gmail.com",
+        "mailto": "mailto:contactoaddo@gmail.com?subject=Contacto Magazine Bulonero",
+        "web": "https://www.distribuidoradeloeste.com.ar/",
+        "webtxt": "www.distribuidoradeloeste.com.ar",
+        "instagram": "https://www.instagram.com/ddoeste/",
+        "instagramName": "ddoeste",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "eefe_fijaciones": {
+      "titulo": "EEFE Fijaciones",
+      "telefono": "(011) 4761-7871",
+      "logo": "../imagenes/anunciantes/eefe.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/247/files/page/40.jpg"
+      },
+      "social": {
+        "email": "info@eefefijaciones.com.ar",
+        "mailto": "mailto:info@eefefijaciones.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "",
+        "webtxt": "",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "el-taladro": {
+      "titulo": "El taladro",
+      "telefono": "",
+      "logo": "../imagenes/anunciantes/elTaladro.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/250/files/page/14.jpg",
+        "tapa2": "../emagazine/245/files/page/41.jpg",
+        "tapa3": "../emagazine/243/files/page/35.jpg",
+        "tapa4": "../emagazine/242/files/page/35.jpg",
+        "tapa5": "../emagazine/241/files/page/25.jpg",
+        "tapa6": "../emagazine/240/files/page/21.jpg",
+        "tapa7": "../emagazine/236/files/mobile/26.jpg",
+        "tapa8": "../emagazine/235/files/mobile/26.jpg",
+        "tapa9": "../emagazine/231/files/mobile/21.jpg"
+      },
+      "social": {
+        "email": "pedidos@el-taladro.com.ar",
+        "mailto": "mailto:pedidos@el-taladro.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.el-taladro.com/",
+        "webtxt": "www.el-taladro.com",
+        "instagram": "https://www.instagram.com/eltaladro.distribuidora/",
+        "instagramName": "@eltaladro.distribuidora",
+        "facebook": "https://www.facebook.com/profile.php?id=100063577896658",
+        "facebookName": "Distribuidora el Taladro Oficial"
+      }
+    },
+    "evel": {
+      "titulo": "Evel",
+      "telefono": "(011) 5263-2203",
+      "logo": "../imagenes/anunciantes/evel.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/250/files/page/51.jpg",
+        "tapa2": "../emagazine/236/files/mobile/47.jpg",
+        "tapa3": "../emagazine/235/files/mobile/49.jpg"
+      },
+      "social": {
+        "email": "info@evel.com.ar",
+        "mailto": "mailto:info@evel.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://evel.com.ar/",
+        "webtxt": "evel.com.ar",
+        "instagram": "https://www.instagram.com/evel_argentina/",
+        "instagramName": "@evel_argentina",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "fabio-hnos": {
+      "titulo": "Fabio Hnos",
+      "telefono": "",
+      "logo": "../imagenes/anunciantes/fabio.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/247/files/page/62.jpg",
+        "tapa2": "../emagazine/246/files/page/61.jpg",
+        "tapa3": "../emagazine/243/files/page/31.jpg",
+        "tapa4": "../emagazine/242/files/page/69.jpg",
+        "tapa5": "../emagazine/240/files/page/85.jpg"
+      },
+      "social": {
+        "email": "ventas@fabiohnos.com",
+        "mailto": "mailto:ventas@fabiohnos.com?subject=Contacto Magazine Bulonero",
+        "web": "http://www.fabiohnos.com/",
+        "webtxt": "www.fabiohnos.com",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "fastener": {
+      "titulo": "Fastener SRL",
+      "telefono": "(011) 4204-6989",
+      "logo": "../imagenes/anunciantes/fastener.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/240/files/page/13.jpg",
+        "tapa2": "../emagazine/236/files/mobile/15.jpg",
+        "tapa3": "../emagazine/235/files/mobile/13.jpg",
+        "tapa4": "../emagazine/234/files/mobile/11.jpg",
+        "tapa5": "../emagazine/233/files/mobile/11.jpg",
+        "tapa6": "../emagazine/229/files/mobile/11.jpg"
+      },
+      "social": {
+        "email": "ventas@fastener.com.ar",
+        "mailto": "mailto:ventas@fastener.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.fastener.com.ar/",
+        "webtxt": "www.fastener.com,ar",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "fatan": {
+      "titulo": "Fatan SA",
+      "telefono": "(011) 4750-7546",
+      "logo": "../imagenes/anunciantes/fatan.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/250/files/page/29.jpg",
+        "tapa2": "../emagazine/240/files/page/34.jpg",
+        "tapa3": "../emagazine/239/files/page/25.jpg",
+        "tapa4": "../emagazine/238/files/page/27.jpg",
+        "tapa5": "../emagazine/237/files/page/39.jpg",
+        "tapa6": "../emagazine/235/files/mobile/25.jpg"
+      },
+      "social": {
+        "email": "info@fatansa.com.ar",
+        "mailto": "mailto:info@fatansa.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "http://www.fatansa.com.ar/",
+        "webtxt": "www.fatansa.com.ar",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "hunter": {
+      "titulo": "HUNTER",
+      "telefono": "(011) 4750-7546",
+      "logo": "../imagenes/anunciantes/lijas hunter.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/250/files/page/73.jpg",
+        "tapa2": "../emagazine/241/files/page/47.jpg",
+        "tapa3": "../emagazine/239/files/page/32.jpg",
+        "tapa4": "../emagazine/237/files/page/59.jpg",
+        "tapa5": "../emagazine/235/files/mobile/82.jpg"
+      },
+      "social": {
+        "email": "info@lijashunter.com.ar",
+        "mailto": "mailto:info@lijashunter.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "http://www.lijashunter.com.ar/",
+        "webtxt": "www.lijashunter.com.ar",
+        "instagram": "https://www.instagram.com/lijashunter/",
+        "instagramName": "lijashunter",
+        "facebook": "https://www.facebook.com/lijashunterok/",
+        "facebookName": "lijashunterok"
+      }
+    },
+    "jucap": {
+      "titulo": "Jucap",
+      "telefono": "(011) 4218-3062",
+      "logo": "../imagenes/anunciantes/jucap.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/240/files/page/83.jpg",
+        "tapa2": "../emagazine/237/files/page/74.jpg",
+        "tapa3": "../emagazine/230/files/page/71.jpg"
+      },
+      "social": {
+        "email": "jcpungitore@gmail.com",
+        "mailto": "mailto:jcpungitore@gmail.com?subject=Contacto Magazine Bulonero",
+        "web": "",
+        "webtxt": "",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "kalydon_tools": {
+      "titulo": "Kalydon Tools",
+      "telefono": "(011) 4600-5124",
+      "logo": "../imagenes/anunciantes/kalydon.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/245/files/page/1.jpg",
+        "tapa2": "../emagazine/241/files/page/1.jpg",
+        "tapa3": "../emagazine/240/files/page/19.jpg",
+        "tapa4": "../emagazine/240/files/page/45.jpg",
+        "tapa5": "../emagazine/239/files/page/19.jpg",
+        "tapa6": "../emagazine/239/files/page/61.jpg",
+        "tapa7": "../emagazine/236/files/mobile/17.jpg",
+        "tapa8": "../emagazine/234/files/mobile/21.jpg",
+        "tapa9": "../emagazine/234/files/mobile/13.jpg",
+        "tapa10": "../emagazine/233/files/mobile/1.jpg",
+        "tapa11": "../emagazine/232/files/mobile/15.jpg",
+        "tapa12": "../emagazine/230/files/mobile/15.jpg"
+      },
+      "social": {
+        "email": "kalydontools@yahoo.com.ar",
+        "mailto": "mailto:kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.kalydon.com.ar",
+        "webtxt": "www.kalydon.com.ar",
+        "instagram": "https://www.instagram.com/kalydon.arg/",
+        "instagramName": "kalydon.arg",
+        "facebook": "https://www.facebook.com/kalydon.arg",
+        "facebookName": "kalydon.arg"
+      }
+    },
+    "kruger": {
+      "titulo": "Krüger",
+      "telefono": "(011) 4307-4545",
+      "logo": "../imagenes/anunciantes/kruger.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/245/files/page/65.jpg",
+        "tapa2": "../emagazine/239/files/page/21.jpg"
+      },
+      "social": {
+        "email": "kruger@kruger.com.ar",
+        "mailto": "mailto:kruger@kruger.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.flejeskruger.com.ar/",
+        "webtxt": "flejeskruger.com.ar",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "losamasa": {
+      "titulo": "Losama SA",
+      "telefono": "(011) 4450-9381",
+      "logo": "../imagenes/anunciantes/losama_sa.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/250/files/page/34.jpg",
+        "tapa2": "../emagazine/241/files/page/49.jpg"
+      },
+      "social": {
+        "email": "gabriela_losama@hotmail.com",
+        "mailto": "mailto:gabriela_losama@hotmail.com?subject=Contacto Magazine Bulonero",
+        "web": "",
+        "webtxt": "",
+        "instagram": "https://www.instagram.com/metalurgicalosama/",
+        "instagramName": "@metalurgicalosama",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "narval": {
+      "titulo": "Met. Narval SRL",
+      "telefono": "(011) 4756-8040",
+      "logo": "../imagenes/anunciantes/met-narval.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/247/files/page/89.jpg",
+        "tapa2": "../emagazine/245/files/page/83.jpg",
+        "tapa3": "../emagazine/230/files/mobile/1.jpg",
+        "tapa4": "../emagazine/231/files/mobile/33.jpg",
+        "tapa5": "../emagazine/232/files/mobile/72.jpg",
+        "tapa6": "../emagazine/232/files/mobile/73.jpg"
+      },
+      "social": {
+        "email": "ribot@mnarval.com.ar",
+        "mailto": "mailto:ribot@mnarval.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.mnarval.com.ar/",
+        "webtxt": "www.mnarval.com.a",
+        "instagram": "https://www.instagram.com/metalurgicanarval/",
+        "instagramName": "Metalurgicanarval",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "persico": {
+      "titulo": "Metalúrgica Persico",
+      "telefono": "(011) 4489-1601",
+      "logo": "../imagenes/anunciantes/persico.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/240/files/page/12.jpg",
+        "tapa2": "../emagazine/238/files/page/14.png",
+        "tapa3": "../emagazine/237/files/page/14.jpg"
+      },
+      "social": {
+        "email": "metalpersico@yahoo.com.ar",
+        "mailto": "mailto:metalpersico@yahoo.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.metalurgicapersico.com.ar",
+        "webtxt": "www.metalurgicapersico.com.ar",
+        "instagram": "https://www.instagram.com/metalpersico/",
+        "instagramName": "Metalpersico",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "metalvars": {
+      "titulo": "Metalvars",
+      "telefono": "(011) 2077-1272",
+      "logo": "../imagenes/anunciantes/metalvars.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/247/files/page/25.jpg",
+        "tapa2": "../emagazine/245/files/page/19.jpg"
+      },
+      "social": {
+        "email": "ventas@metalvars.com",
+        "mailto": "mailto:ventas@metalvars.com?subject=Contacto Magazine Bulonero",
+        "web": "https://metalvars.com/",
+        "webtxt": "metalvars.com",
+        "instagram": "https://www.instagram.com/metalvars/",
+        "instagramName": "metalvars",
+        "facebook": "https://www.facebook.com/profile.php?id=100094482288452",
+        "facebookName": "metalvars"
+      }
+    },
+    "resortecnica": {
+      "titulo": "Resortecnica",
+      "telefono": "(011) 4489-1601",
+      "logo": "../imagenes/anunciantes/resortecnica.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/237/files/page/63.jpg"
+      },
+      "social": {
+        "email": "resortecnica@resortecnica.com.ar",
+        "mailto": "mailto:resortecnica@resortecnica.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.resortecnica.com.ar",
+        "webtxt": "www.resortecnica.com.ar",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "https://www.facebook.com/resortecnicasrl?fref=ts",
+        "facebookName": "resortecnica"
+      }
+    },
+    "rmd-internacional": {
+      "titulo": "RMD Intenacional",
+      "telefono": "",
+      "logo": "../imagenes/anunciantes/RMD.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/237/files/page/67.jpg",
+        "tapa2": "../emagazine/226/files/mobile/19.jpg"
+      },
+      "social": {
+        "email": "info@rmd-internacional.com",
+        "mailto": "mailto:info@rmd-internacional.com?subject=Contacto Magazine Bulonero",
+        "web": "http://www.rmd-internacional.com/",
+        "webtxt": "www.rmd-internacional.com",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "sagredo": {
+      "titulo": "Sagredo SRL",
+      "telefono": "(011) 4552-9427",
+      "logo": "../imagenes/anunciantes/sagredo.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/246/files/page/94.jpg"
+      },
+      "social": {
+        "email": "sagredo@uolsinectis.com.ar",
+        "mailto": "mailto:sagredo@uolsinectis.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "",
+        "webtxt": "sagredosrl.com.ar",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "southwind": {
+      "titulo": "SothWind International",
+      "telefono": "",
+      "logo": "../imagenes/anunciantes/southwind.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/245/files/page/38.jpg",
+        "tapa2": "../emagazine/245/files/page/82.jpg",
+        "tapa3": "../emagazine/240/files/page/62.jpg",
+        "tapa4": "../emagazine/239/files/page/80.jpg"
+      },
+      "social": {
+        "email": "swind@southwind.com.br",
+        "mailto": "mailto:swind@southwind.com.br?subject=Contacto Magazine Bulonero",
+        "web": "https://www.southwind.com.ar",
+        "webtxt": "www.southwind.com.ar",
+        "instagram": "https://www.instagram.com/southwindbrasil/",
+        "instagramName": "SouthWindbrasil",
+        "facebook": "https://www.facebook.com/SouthWindbr",
+        "facebookName": "SouthWindbr"
+      }
+    },
+    "stayer": {
+      "titulo": "Stayer Argentina",
+      "telefono": "(011) 4600-5124",
+      "logo": "../imagenes/anunciantes/stayer.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {},
+      "social": {
+        "email": "info@kalydon.com",
+        "mailto": "mailto:info@kalydon.com?subject=Contacto Magazine Bulonero",
+        "web": "",
+        "webtxt": "",
+        "instagram": "https://www.instagram.com/stayer.arg",
+        "instagramName": "stayer.arg",
+        "facebook": "https://www.facebook.com/stayer.arg",
+        "facebookName": "styer.arg"
+      }
+    },
+    "tornillos-lomas": {
+      "titulo": "Tornillos Lomas",
+      "telefono": "(011) 2144-8493",
+      "logo": "../imagenes/anunciantes/tlomas.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/241/files/page/43.jpg",
+        "tapa2": "../emagazine/240/files/page/55.jpg",
+        "tapa3": "../emagazine/239/files/page/60.jpg",
+        "tapa4": "../emagazine/238/files/page/81.jpg",
+        "tapa5": "../emagazine/237/files/page/69.jpg",
+        "tapa6": "../emagazine/236/files/mobile/59.jpg",
+        "tapa7": "../emagazine/234/files/mobile/65.jpg",
+        "tapa8": "../emagazine/233/files/mobile/49.jpg",
+        "tapa9": "../emagazine/230/files/mobile/26.jpg"
+      },
+      "social": {
+        "email": "torlomventas@gmail.com",
+        "mailto": "mailto:torlomventas@gmail.com?subject=Contacto Magazine Bulonero",
+        "web": "http://www.tornilloslomas.com.ar/",
+        "webtxt": "www.tornilloslomas.com.ar",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "tornillos-toro": {
+      "titulo": "Tornillos Toro",
+      "telefono": "(011) 3526-9897",
+      "logo": "../imagenes/anunciantes/toro.jpg",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/240/files/page/35.jpg",
+        "tapa2": "../emagazine/237/files/page/37.jpg"
+      },
+      "social": {
+        "email": "tornillostoro@gmail.com",
+        "mailto": "mailto:tornillostoro@gmail.com?subject=Contacto Magazine Bulonero",
+        "web": "http://www.tornillostoro.com.ar/",
+        "webtxt": "www.tornillostoro.com.ar",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
+    "vialro_tornillos": {
+      "titulo": "Vialro",
+      "telefono": "(011) 4208-8603 / 4228-6506",
+      "logo": "../imagenes/anunciantes/vialro.gif",
+      "parrafo": "<p>Nace en el año 1961 en la localidad de Valentin Alsina, Partido de Lanús como 'Vicente Laurutis e Hijos', dedicada a la fabricación de máquinas para la industria de la tornilleria y la bulonería. En la década del 80, el país se abre al ingreso de productos del exterior, y nuestra empresa importa las primeras roscadoras para dedicarse a la fabricación de tornillos para madera, avalados por la experiencia de muchos años en el sector. Con el tiempo se incrementó el plantel de maquinaria, ahora de fabricación nacional. En los últimos años, la tendencia fue incorporar los nuevos productos de fijación que demanda el mercado. Así, a la tradicional línea de tornillos Bis , se le incorporaron la linea Dry para madera y construccion en seco.</p>",
+      "catalogo": "https://www.vialro.com.ar/img/catalogo.pdf",
+      "revista": {
+        "tapa1": "../emagazine/253/files/page/25.jpg",
+        "tapa2": "../emagazine/252/files/page/35.jpg",
+        "tapa3": "../emagazine/251/files/page/23.jpg",
+        "tapa4": "../emagazine/250/files/page/25.jpg",
+        "tapa5": "../emagazine/249/files/page/23.jpg",
+        "tapa6": "../emagazine/248/files/page/22.jpg",
+        "tapa7": "../emagazine/248/files/page/23.jpg",
+        "tapa8": "../emagazine/247/files/page/20.jpg",
+        "tapa9": "../emagazine/247/files/page/21.jpg",
+        "tapa10": "../emagazine/246/files/page/18.jpg",
+        "tapa11": "../emagazine/246/files/page/19.jpg"
+      },
+      "social": {
+        "email": "info@vialro.com.ar",
+        "mailto": "mailto:info@vialro.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.vialro.com.ar",
+        "webtxt": "www.vialro.com.ar",
+        "instagram": "https://www.instagram.com/vialro_tornillos/",
+        "instagramName": "vialro_tornillos",
+        "facebook": "https://www.facebook.com/VialroTornillos",
+        "facebookName": "VialroTornillos",
+        "whatsapp": "https://wa.me/5491131941442/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491131941442"
+      }
+    },
+    "eslabones": {
+      "titulo": "Eslabones SA",
+      "telefono": "+54 9 223 423 7947",
+      "logo": "../imagenes/anunciantes/eslabones.gif",
+      "parrafo": "<p><strong>Eslabones</strong> es un <strong>mayorista de ferreterías</strong> dedicado a ofrecer una amplia gama de productos de <strong>alta calidad</strong> a precios competitivos. Nos especializamos en la <strong>distribución</strong> de herramientas, herrajes, y artículos de ferretería, asegurando un <strong>abastecimiento constante</strong> y confiable para nuestros clientes. Con un enfoque en el <strong>servicio al cliente</strong> y el <strong>apoyo comercial</strong>, <strong>Eslabones</strong> es el socio ideal para las ferreterías que buscan productos duraderos y soluciones efectivas.</p>",
+      "catalogo": "",
+      "revista": {},
+      "social": {
+        "email": "info@eslabones.com.ar",
+        "mailto": "mailto:info@eslabones.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://eslabones.com.ar/",
+        "webtxt": "eslabones.com.ar",
+        "instagram": "",
+        "instagramName": "",
+        "whatsapp": "https://wa.me/5492236833458/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5492236833458"
+      }
+    },
+    "trusoni": {
+      "titulo": "Trusoni",
+      "telefono": "(011) 4757-9555",
+      "logo": "../imagenes/anunciantes/trusoni.gif",
+      "parrafo": "<p><strong>Luistrusoni SRL</strong> es una empresa líder en la <strong>venta de tornillos</strong>, ofreciendo una amplia variedad de productos de alta calidad para satisfacer las necesidades de sus clientes. Nos especializamos en proporcionar soluciones precisas y duraderas para <strong>industria</strong>, <strong>construcción</strong> y otros sectores. En <strong>Luistrusoni SRL</strong>, nos comprometemos a ofrecer un servicio excepcional y asesoramiento experto para ayudarle a encontrar el tornillo adecuado para su proyecto.</p>",
+      "catalogo": "",
+      "revista": {},
+      "social": {
+        "email": "info@trusoni.com.ar",
+        "mailto": "mailto:info@trusoni.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "",
+        "webtxt": "",
+        "instagram": "https://www.instagram.com/luistrusonisrl/",
+        "instagramName": "@luistrusonisrl",
+        "whatsapp": "https://wa.me/5491161307136/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491161307136"
+      }
+    },
+    "wacker_herramientas": {
+      "titulo": "Wacker Herramientas",
+      "telefono": "(011) 4757-9555",
+      "logo": "../imagenes/anunciantes/wacker.jpg",
+      "parrafo": "<p>Es una empresa fundada en el año 2002. Dedicada desde sus comienzos a la distribución de herramientas manuales y eléctricas, abrasivos, artículos de seguridad industrial, izajes y tornillería de varios tipos en todo el territorio Argentino.<br> Contamos con una amplia variedad de productos de las marcas más reconocidas tanto a nivel nacional e internacional que nos permite satisfacer las necesidades de nuestros clientes.<br> Para asegurar un mejor servicio y atención contamos con 9 vendedores en Capital Federal, GBA y Mesopotamia además de 3 vehículos para garantizar las entregas con la mayor rapidez posible. <br> Somos un equipo enfocado en mejorar desde cada área la experiencia de nuestros clientes. Nuestra cultura está orientada a obtener logros en corto tiempo y afianzarlos a largo plazo pensando en el usuario con cada decisión que tomamos. Creemos que la relación con nuestros clientes es nuestro mayor activo.<br> <ul>Los 3 pilares que nos definen son: <li>Transparencia: buscamos ser justos y transparentes, entre nosotros y con nuestros clientes.</li> <li>Energía: nos gusta lo que hacemos y lo expresamos constantemente.</li> <li>Excelencia: buscamos superarnos siempre.</li></ul></p>",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/249/files/page/76.jpg",
+        "tapa2": "../emagazine/248/files/page/89.jpg",
+        "tapa3": "../emagazine/245/files/page/56.jpg",
+        "tapa4": "../emagazine/237/files/page/68.jpg"
+      },
+      "social": {
+        "email": "ventas@wackerherramientas.com.ar",
+        "mailto": "mailto:ventas@wackerherramientas.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.wackerherramientas.com.ar/",
+        "webtxt": "www.wackerherramientas.com.ar",
+        "instagram": "https://www.instagram.com/wackerherramientas/",
+        "instagramName": "wackerherramientas",
+        "whatsapp": "https://wa.me/5491124747441/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491124747441"
       }
     }
   }
-  
+}

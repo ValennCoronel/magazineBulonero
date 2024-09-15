@@ -48,7 +48,9 @@
         "web": "https://abrazaderas.net/",
         "webtxt": "abrazaderas.net",
         "instagram": "https://www.instagram.com/abrazaderas.perfecto/",
-        "instagramName": "abrazaderas.perfecto"
+        "instagramName": "abrazaderas.perfecto",
+        "whatsapp": "https://wa.me/5491122569807/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1122569807"
       }
     },
 
@@ -78,7 +80,7 @@
         "instagram": "https://www.instagram.com/bulones.kc/",
         "instagramName": "@bulones.kc",
         "whatsapp": "https://wa.me/5491166312334/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName": "11 6631-2334"
+        "whatsappName": "1166312334"
       }
     },
 
@@ -98,8 +100,8 @@
       "social": {
         "email": "consultas@tornilloalvear.com",
         "mailto": "mailto:consultas@tornilloalvear.com?subject=Contacto Magazine Bulonero",
-        "web": "https://www.tornilloalvear.com",
-        "webtxt": "www.tornilloalvear.com",
+        "imgweb": "img/tornillo_alvear_productos.jpg",
+        "linkweb": "https://www.tornilloalvear.com/productos",
         "instagram": "https://www.instagram.com/tornilloalvear.argentina",
         "instagramName": "@tornilloalvear.argentina",
         "whatsapp": "https://wa.me/5493413361312/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
@@ -140,7 +142,7 @@
       }
     },
     "rerar": {
-      "titulo": "www.rerar.com.ar",
+      "titulo": "RERAR",
       "telefono": "(011) 4759-0979",
       "logo": "../imagenes/anunciantes/rerar.jpg",
       "parrafo": "",
@@ -171,12 +173,14 @@
         "webtxt": "rerar",
         "instagram": "https://www.instagram.com/rerar.argentina/",
         "instagramName": "@rerar",
+        "whatsapp": "https://wa.me/5491155842151/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1155842151",
         "facebook": "",
         "facebookName": ""
       }
     },
     "carlos_filas": {
-      "titulo": "www.carlosfilas.com.ar",
+      "titulo": "Carlos Filas",
       "telefono": "",
       "logo": "../imagenes/anunciantes/cfilas.gif",
       "parrafo": "",
@@ -187,16 +191,18 @@
       "social": {
         "email": "ventas@carlosfilas.com.ar",
         "mailto": "mailto:ventas@carlosfilas.com.ar?subject=Contacto Magazine Bulonero",
-        "web": "https://www.carlosfilas.com.ar",
+        "web": "",
         "webtxt": "www.carlosfilas.com.ar",
         "instagram": "",
         "instagramName": "",
+        "whatsapp": "https://wa.me/5493514510461/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "5493514510461",
         "facebook": "",
         "facebookName": ""
       }
     },
     "bulonera-camba": {
-      "titulo": "www.buloneracamba.com.ar",
+      "titulo": "Bulonera Camba",
       "telefono": "",
       "logo": "../imagenes/anunciantes/bcamba.gif",
       "parrafo": "",
@@ -213,6 +219,8 @@
         "webtxt": "Web Bulonera Camba",
         "instagram": "https://www.instagram.com/buloneracamba",
         "instagramName": "@buloneracamba",
+        "whatsapp": "https://wa.me/5493535082701/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "5493535082701",
         "facebook": "https://www.facebook.com/buloneracamba",
         "facebookName": "@buloneracamba"
       }
@@ -235,6 +243,8 @@
         "webtxt": "www.argenrap.com.ar",
         "instagram": "https://www.instagram.com/argenrap.remaches/",
         "instagramName": "Argenrap.remaches",
+        "whatsapp": "https://wa.me/5491157746753/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1157746753",
         "facebook": "https://www.facebook.com/argenrap.arg",
         "facebookName": "Argenrap.arg"
       }
@@ -263,6 +273,8 @@
         "webtxt": "www.kalydon.com.ar",
         "instagram": "https://www.instagram.com/catpowertools.arg/",
         "instagramName": "@catpowertools.arg",
+        "whatsapp": "https://wa.me/5491131532223/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1131532223",
         "facebook": "https://www.facebook.com/catpowertools.arg",
         "facebookName": "@catpowertools.arg"
       }
@@ -285,6 +297,8 @@
         "webtxt": "",
         "instagram": "",
         "instagramName": "",
+        "whatsapp": "https://wa.me/5491157746753/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1157746753",
         "facebook": "",
         "facebookName": ""
       }
@@ -308,6 +322,8 @@
         "webtxt": "www.kalydon.com.ar",
         "instagram": "https://www.instagram.com/rubidemo.arg/",
         "instagramName": "@rubidemo.arg",
+        "whatsapp": "https://wa.me/5491122413236/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1122413236",
         "facebook": "https://www.facebook.com/TelAutoperforantes",
         "facebookName": "@rubidemo.arg"
       }
@@ -339,7 +355,7 @@
       }
     },
     "ekron": {
-      "titulo": "www.ekron.com.ar",
+      "titulo": "ekron",
       "telefono": "(011) 4641-6499",
       "logo": "../imagenes/anunciantes/ekron.jpg",
       "parrafo": "",

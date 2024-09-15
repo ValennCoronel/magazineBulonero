@@ -55,6 +55,14 @@ document.addEventListener("DOMContentLoaded", () => {
           document.querySelector(".frameweb").style.display = 'none';
           }
 
+          //Imagen Web (si no hay iframe)
+          if(anunciante.social.imgweb != null && anunciante.social.imgweb.trim() !== ""){
+            document.querySelector(".img-web a").href = anunciante.social.linkweb;
+            document.querySelector(".img-web img").src = anunciante.social.imgweb;
+            }else{
+            document.querySelector(".img-web").style.display = 'none';
+            }
+  
           //Celular
           if(anunciante.telefono != null && anunciante.telefono.trim() !== ""){
             document.querySelector(".datos-cel a").textContent = anunciante.telefono;

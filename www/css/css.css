@@ -1013,7 +1013,12 @@ nav a.active {
 		width: 45%; 
 		float: left;
 		margin: 0.4rem;}
-        }
+
+	.col-md-2 >.banmov {
+		width: 30%; 
+		margin: 0.6rem 0.4rem;}
+            }
+
 
 
 /* LARGE SIZE */

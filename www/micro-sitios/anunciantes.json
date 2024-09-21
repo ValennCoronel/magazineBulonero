@@ -83,6 +83,26 @@
         "whatsappName": "1166312334"
       }
     },
+    "buldynamics": {
+      "titulo": "Bul Dynamics",
+      "telefono": "291 4559330",
+      "logo": "../imagenes/anunciantes/buldynamics.jpg",
+      "parrafo": "<p> </p>",
+      "catalogo": "https://buldynamics.com.ar/wp-content/uploads/2024/08/CATALOGO-BUL-01-2024.pdf",
+      "revista": {
+        "tapa1": "../emagazine/250/files/page/1.jpg"
+      },
+      "social": {
+        "email": "info@buldynamics.com.ar",
+        "mailto": "mailto:info@buldynamics.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.buldynamics.com.ar",
+        "webtxt": "www.buldynamics.com.ar",
+        "instagram": "https://www.instagram.com/buldynamics/",
+        "instagramName": "@buldynamics",
+        "whatsapp": "https://wa.me/5492915005974/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "2915005974"
+      }
+    },
 
     "tornillo_alvear": {
       "titulo": "Tornillo   Alvear",

@@ -86,11 +86,11 @@
     "buldynamics": {
       "titulo": "Bul Dynamics",
       "telefono": "291 4559330",
-      "logo": "../imagenes/anunciantes/buldynamics.jpg",
-      "parrafo": "<p> </p>",
+      "logo": "../imagenes/anunciantes/buldynamics.png",
+      "parrafo": "<p>Bul Dynamics se constituye día a día como una marca que crece, que busca incrementar el abanico de soluciones para el mercado ferretero. Nuestro propósito ha sido entregar un producto altamente competitivo sin renunciar a estándares internacionales de calidad y diseño.</p>",
       "catalogo": "https://buldynamics.com.ar/wp-content/uploads/2024/08/CATALOGO-BUL-01-2024.pdf",
       "revista": {
-        "tapa1": "../emagazine/250/files/page/1.jpg"
+        
       },
       "social": {
         "email": "info@buldynamics.com.ar",
@@ -101,6 +101,28 @@
         "instagramName": "@buldynamics",
         "whatsapp": "https://wa.me/5492915005974/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
         "whatsappName": "2915005974"
+      }
+    },
+    "brogas": {
+      "titulo": "Brogas",
+      "telefono": "4553-8383",
+      "logo": "../imagenes/anunciantes/brogas.png",
+      "parrafo": "<p>Hace más de seis décadas, <strong>Brogas</strong> comenzó su viaje como una empresa familiar dedicada a proporcionar soluciones para el hogar y la vida al aire libre. Desde entonces, hemos florecido y evolucionado, adaptándonos a las nuevas necesidades, conectados con nuestras raíces: la calidad y la autenticidad.<br><br>Presentamos nuestra nueva identidad como grupo empresarial. <strong>BROGAS desde 1958</strong>.<br><br><em>Cada experiencia será única, diferente, memorable, y dejará una huella en cómo vivimos nuestra vida del día a día</em>. Cada uno de nosotros tiene su historia, sus aﬁciones, sus desafíos y sus metas.<br><br>Para cada uno, para cada momento, para cada solución; existe una marca de <strong>Brogas Group</strong>. Te invitamos a conocerlas.<br><br>Desde el calor acogedor de nuestros calentadores hasta la versatilidad de nuestras cocinas a gas, cada elemento está diseñado para enriquecer tu día a día o acompañarte en tus más osadas aventuras.<br><br>Nuestra división enfocada en la vida al aire libre y estar presente en el día a día. Nos emociona recorrer nuevos caminos, hacer amigos, vivir aventuras y compartir; <strong>Broksol</strong> nos acompaña en cada paso que damos.<br><br>La solución deﬁnitiva para hacer tu vida más simple, cómoda y confortable. Innovación y tecnología a la medida de tus necesidades; desde anafes y cocinas eléctricas hasta electrodomésticos del día a día, <strong>Brolux</strong> mejora tu vida.<br><br>Nuestra línea especializada en herramientas útiles. <strong>Broktools</strong> te acompaña con una solución definitiva para complementar tu vida.<br><br>El verdadero arte de la cocina al fuego. En esta línea Gourmet vas a encontrar todo lo necesario para que tus reuniones sean una experiencia única. Una línea de alta calidad para momentos que requieren de las mejores herramientas culinarias.<br><br>La excelencia en precisión y potencia. Con rifles y pistolas de aire comprimido de primera categoría, así como hondas y balines de alta calidad garantizamos una experiencia y rendimiento excepcional.<br><br><a href='https://web.whatsapp.com/send?phone=5491154724413'>Whatsapp minorista: 1154724413</a><br><a href='https://web.whatsapp.com/send?phone=5491130715056'>Whatsapp mayorista: 1130715056</a></p>",
+      "catalogo": "",
+      "revista": {
+        
+      },
+      "social": {
+        "email": "info@brogas.com",
+        "mailto": "mailto:info@brogas.com?subject=Contacto Magazine Bulonero",
+        "web": "https://www.brogas.com",
+        "webtxt": "www.brogas.com",
+        "instagram": "https://www.instagram.com/brogas.oficial/",
+        "instagramName": "@brogas.oficial",
+        "facebook": "https://www.facebook.com/brogas.broksol",
+        "facebookName":"brogas.broksol",
+        "whatsapp": "https://wa.me/541130715056/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1130715056"
       }
     },
 
@@ -348,6 +370,28 @@
         "facebookName": "@rubidemo.arg"
       }
     },
+    "wadflow": {
+      "titulo": "Wadflow",
+      "telefono": "1131532223",
+      "logo": "../imagenes/anunciantes/Wadflow.png",
+      "parrafo": "<p><strong>Wadflow</strong> es una marca internacional de máquinas y herramientas de calidad, que se destaca por su amplio catálogo, ya está en el país de la mano de <strong>Kalydon Tools</strong>.</p>",
+      "catalogo": "",
+      "revista": {
+      },
+      "social": {
+        "email": "info@kalydon.com.ar",
+        "mailto": "mailto:info@kalydon.com.ar?subject=Contacto Magazine Bulonero",
+        "imgweb": "../micro-sitios/img/wadflowBanner.png",
+        "linkweb": "https://www.kalydon.com.ar/",
+        "instagram": "https://www.instagram.com/wadfowargentina/",
+        "instagramName": "@wadfowargentina",
+        "whatsapp": "https://wa.me/5491131532223/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1131532223",
+        "facebook": "https://www.facebook.com/wadfowargentina",
+        "facebookName": "@wadfowargentina"
+      }
+    },
+
     "bulmetal": {
       "titulo": "Bulmetal",
       "telefono": "(011) 4641-6499",

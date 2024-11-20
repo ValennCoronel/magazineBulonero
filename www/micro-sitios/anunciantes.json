@@ -371,10 +371,10 @@
       }
     },
     "wadflow": {
-      "titulo": "Wadflow",
+      "titulo": "Wadfow",
       "telefono": "1131532223",
-      "logo": "../imagenes/anunciantes/Wadflow.png",
-      "parrafo": "<p><strong>Wadflow</strong> es una marca internacional de máquinas y herramientas de calidad, que se destaca por su amplio catálogo, ya está en el país de la mano de <strong>Kalydon Tools</strong>.</p>",
+      "logo": "../imagenes/anunciantes/Wadfow.png",
+      "parrafo": "<p><strong>Wadfow</strong> es una marca internacional de máquinas y herramientas de calidad, que se destaca por su amplio catálogo, ya está en el país de la mano de <strong>Kalydon Tools</strong>.</p>",
       "catalogo": "",
       "revista": {
       },
@@ -614,7 +614,7 @@
     "dellavalle": {
       "titulo": "Della Valle & CIA",
       "telefono": "",
-      "logo": "../imagenes/anunciantes/dellavalle.gif",
+      "logo": "../imagenes/anunciantes/dellavalle.png",
       "parrafo": "",
       "catalogo": "",
       "revista": {
@@ -931,7 +931,7 @@
     "losamasa": {
       "titulo": "Losama SA",
       "telefono": "(011) 4450-9381",
-      "logo": "../imagenes/anunciantes/losama_sa.jpg",
+      "logo": "../imagenes/anunciantes/losama.png",
       "parrafo": "",
       "catalogo": "",
       "revista": {

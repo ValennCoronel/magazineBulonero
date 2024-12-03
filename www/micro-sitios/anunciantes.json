@@ -194,7 +194,7 @@
       "titulo": "RERAR",
       "telefono": "(011) 4759-0979",
       "logo": "../imagenes/anunciantes/rerar.jpg",
-      "parrafo": "",
+      "parrafo": "<p><strong>Con su marca RERAR</strong> es fundada por <em>Don Luis Jorge Bryant</em> en el año <strong>1976</strong> para la fabricación y distribución de <strong>REMACHES RÁPIDOS</strong>. Desde entonces <strong>Romalus</strong> marcó su posicionamiento en todo el país por continuos <strong>40 años</strong> de abastecer a sus clientes, quienes reconocen su trabajo fundamentado desde los valores, como <strong>compromiso</strong>, <strong>respeto</strong> y <strong>confiabilidad</strong>. La visión de mantenerse con la mejora continua, consolidando permanencia y responsabilidad, ha llevado a <strong>Romalus</strong> a lograr la inserción en el comercio internacional por más de <strong>20 años</strong> en todo <strong>Latinoamérica</strong>, desde <strong>México</strong> hasta <strong>Argentina</strong>, y adquiriendo clientes en <strong>Sudáfrica</strong>. El notable desarrollo que despliega y el esfuerzo realizado hacen merecedora a la empresa metalúrgica productora de la <strong>certificación ISO 9001</strong> en <strong>noviembre del 2013</strong>, para la gestión y comercialización de remaches rápidos. Liderada actualmente por su <strong>segunda generación</strong> y <strong>tercera generación</strong>, mantienen una cultura empresarial de inversión y desarrollo permanente, generando mayor valor agregado a la economía y nuevos puestos de trabajo. La capacidad proactiva y el entusiasmo empujan a <strong>Romalus</strong> a adquirir bienes de capital y ampliar sus instalaciones. Tal es así que desde hace <strong>10 años</strong> crearon una nueva fábrica de <strong>tornillos</strong>, con la misma calidad, el mismo servicio y la misma atención familiar que desde siempre es valorada por todos sus clientes nacionales e internacionales.</p>",
       "catalogo": "",
       "revista": {
         "tapa1": "../emagazine/254/files/page/2.jpg",
@@ -214,7 +214,7 @@
       "social": {
         "email": "ventas@rerar.com.ar",
         "mailto": "mailto:ventas@rerar.com.ar?subject=Contacto Magazine Bulonero",
-        "web": "http://www.rerar.com.ar/",
+        "web": "https://rerar.com.ar/",
         "webtxt": "www.rerar.com.ar",
         "instagram": "https://www.instagram.com/rerar.argentina/",
         "instagramName": "@rerar",
@@ -228,7 +228,7 @@
       "titulo": "Carlos Filas",
       "telefono": "",
       "logo": "../imagenes/anunciantes/cfilas.gif",
-      "parrafo": "",
+      "parrafo": "<p><strong>Somos una empresa metalúrgica</strong> de la ciudad de <strong>Córdoba (Argentina)</strong> con una trayectoria de más de <strong>60 años</strong> en el mercado local y nacional. Nuestra actividad principal es la <strong>trefilación de hierros</strong>, los cuales comercializamos en rollos, enderezados a largo estándar o cortados a medida. El material trefilado lo utilizamos también como materia prima para elaborar nuestras <strong>varillas roscadas</strong>, <strong>ganchos para tejidos</strong> y un amplio espectro de <strong>pernos roscados</strong> de los más variados diámetros y dimensiones. <strong>MATERIA PRIMA:</strong> Para la elaboración de nuestros productos utilizamos exclusivamente <strong>materiales con certificados de calidad</strong>, los cuales son provistos directamente por <strong>Sipar Gerdau</strong> y <strong>Acindar</strong>. Nuestra proyección es tener cada vez más presencia en el mercado argentino, satisfaciendo las demandas de nuestros actuales y potenciales clientes. <strong>STOCK PERMANENTE:</strong> Contamos con stock disponible de todas las medidas de los <strong>productos estandarizados</strong> (varillas roscadas – ganchos para tejidos). Esto nos permite tener una rápida respuesta a los pedidos, los cuales se despachan en el transcurso de las <strong>24 horas</strong> de realizado. Para nuestros clientes esto representa una importante ventaja al poder minimizar sus inventarios y contar con un período conocido de entrega a la hora de efectuar reposiciones de mercadería o de afrontar pedidos que, por su volumen, excedan los niveles de stock normales. <strong>Nuestros Productos:</strong> <a href=\"https://www.carlosfilas.com.ar/ficha-ganchos.htm\">Ganchos Para Tejidos</a>, <a href=\"https://carlosfilas.com.ar/ficha-pernos.htm\">Pernos Roscados</a>, <a href=\"https://www.carlosfilas.com.ar/ficha-varroscodas.htm\">Varillas Roscadas</a>, <a href=\"https://www.carlosfilas.com.ar/prod-tref-descrip.htm\">Hierros Trefilados</a>.</p>",
       "catalogo": "",
       "revista": {
         "tapa1": "../emagazine/233/files/mobile/9.jpg"
@@ -250,7 +250,7 @@
       "titulo": "Bulonera Camba",
       "telefono": "",
       "logo": "../imagenes/anunciantes/bcamba.gif",
-      "parrafo": "",
+      "parrafo": "<p><strong>Fabricante y Distribuidor Mayorista de Bulonería y Ferretería.</strong> Distribuidores de <strong>Fijaciones Fischer</strong>, <strong>Mechas EZETA</strong>, <strong>Abrasivos Tyrolit</strong>, <strong>Remaches RERAR</strong>, <strong>Selladores Nódulo</strong>, <strong>Electrodos y Alambres para soldar GERDAU</strong>, línea completa de <strong>Autoperforantes</strong>, <strong>Machos Uranga y FAM</strong>, <strong>Cable de Acero y Accesorios</strong>, <strong>Varillas Roscadas</strong>, <strong>Bulones</strong>, <strong>Tuercas</strong>, <strong>Arandelas planas</strong>, <strong>Arandelas grower</strong> y toda la línea de <strong>Bulonería Inoxidable</strong>.</p>",
       "catalogo": "",
       "revista": {
         "tapa1": "../emagazine/235/files/mobile/67.jpg",
@@ -261,7 +261,7 @@
         "email": "ventas@buloneracamba.com.ar",
         "mailto": "mailto:ventas@buloneracamba.com.ar?subject=Contacto Magazine Bulonero",
         "web": "https://www.buloneracamba.com.ar/",
-        "webtxt": "Web Bulonera Camba",
+        "webtxt": "www.buloneracamba.com.ar",
         "instagram": "https://www.instagram.com/buloneracamba",
         "instagramName": "@buloneracamba",
         "whatsapp": "https://wa.me/5493535082701/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
@@ -275,11 +275,12 @@
       "telefono": "(011) 4652-5898",
       "logo": "../imagenes/anunciantes/argenrap.gif",
       "parrafo": "",
-      "catalogo": "",
+      "catalogo": "https://bulonero.com/emagazine/cat/remaches_argenrap.pdf",
       "revista": {
-        "tapa1": "../emagazine/240/files/page/69.jpg",
-        "tapa2": "../emagazine/237/files/page/76.jpg",
-        "tapa3": "../emagazine/234/files/mobile/71.jpg"
+        "tapa1": "../emagazine/252/files/page/33.jpg",
+        "tapa2": "../emagazine/240/files/page/69.jpg",
+        "tapa3": "../emagazine/237/files/page/76.jpg",
+        "tapa4": "../emagazine/234/files/mobile/71.jpg"
       },
       "social": {
         "email": "info@argenrap.com",
@@ -298,23 +299,24 @@
       "titulo": "Cat- Power Tools ",
       "telefono": "(011) 4256-6243",
       "logo": "../imagenes/anunciantes/cat.jpg",
-      "parrafo": "",
+      "parrafo": "<p><strong>Es la marca emblemática en la cartera de Caterpillar</strong> y una de las más valiosas del mundo. Las <strong>máquinas y motores CAT</strong> son ampliamente reconocidos como productos excepcionales por su <strong>calidad</strong> y <strong>fiabilidad superiores</strong>. A nivel mundial, el logotipo de CAT se convirtió en un <strong>ícono</strong>, a menudo usado como una insignia que simboliza el <strong>trabajo duro</strong>, el <strong>coraje</strong> y la <strong>determinación</strong> para completar el trabajo. La nueva línea de <strong>CAT Power Tools</strong> cubre una amplia variedad de productos que vas a poder conocer a través de <strong>Kalydon Tools</strong>. <a href=\"https://www.kalydon.com.ar/puntos-de-venta-cat\">PUNTOS DE VENTA</a></p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/250/files/page/14.jpg",
-        "tapa2": "../emagazine/246/files/page/15.jpg",
-        "tapa3": "../emagazine/243/files/page/51.jpg",
-        "tapa4": "../emagazine/242/files/page/13.jpg",
-        "tapa5": "../emagazine/240/files/page/19.jpg",
-        "tapa6": "../emagazine/238/files/page/57.jpg",
-        "tapa7": "../emagazine/236/files/mobile/17.jpg",
-        "tapa8": "../emagazine/234/files/mobile/13.jpg",
-        "tapa9": "../emagazine/233/files/mobile/1.jpg"
+        "tapa1": "../emagazine/255/files/page/33.jpg",
+        "tapa2": "../emagazine/250/files/page/14.jpg",
+        "tapa3": "../emagazine/246/files/page/15.jpg",
+        "tapa4": "../emagazine/243/files/page/51.jpg",
+        "tapa5": "../emagazine/242/files/page/13.jpg",
+        "tapa6": "../emagazine/240/files/page/19.jpg",
+        "tapa7": "../emagazine/238/files/page/57.jpg",
+        "tapa8": "../emagazine/236/files/mobile/17.jpg",
+        "tapa9": "../emagazine/234/files/mobile/13.jpg",
+        "tapa10": "../emagazine/233/files/mobile/1.jpg"
       },
       "social": {
-        "email": "kalydontools@yahoo.com.ar",
-        "mailto": "mailto:kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero",
-        "web": "https://www.kalydon.com.ar/marca/cat/",
+        "email": "info@kalydontools.com.ar",
+        "mailto": "mailto:info@kalydontools.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://catpowertools.com.ar/",
         "webtxt": "www.kalydon.com.ar",
         "instagram": "https://www.instagram.com/catpowertools.arg/",
         "instagramName": "@catpowertools.arg",
@@ -331,17 +333,21 @@
       "parrafo": "",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/237/files/page/76.jpg",
-        "tapa2": "../emagazine/236/files/mobile/61.jpg",
-        "tapa3": "../emagazine/234/files/mobile/73.jpg"
+        "tapa1": "../emagazine/254/files/page/58.jpg",
+        "tapa2": "../emagazine/253/files/page/33.jpg",
+        "tapa3": "../emagazine/252/files/page/73.jpg",
+        "tapa4": "../emagazine/252/files/page/51.jpg",
+        "tapa5": "../emagazine/237/files/page/76.jpg",
+        "tapa6": "../emagazine/236/files/mobile/61.jpg",
+        "tapa7": "../emagazine/234/files/mobile/73.jpg"
       },
       "social": {
         "email": "info@selflex.com.ar",
         "mailto": "mailto:info@selflex.com.ar?subject=Contacto Magazine Bulonero",
         "web": "",
         "webtxt": "",
-        "instagram": "",
-        "instagramName": "",
+        "instagram": "https://www.instagram.com/tornillosraptor/",
+        "instagramName": "@tornillosraptor",
         "whatsapp": "https://wa.me/5491157746753/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
         "whatsappName": "1157746753",
         "facebook": "",
@@ -352,17 +358,18 @@
       "titulo": "Rubi",
       "telefono": "(011) 4600-5124",
       "logo": "../imagenes/anunciantes/rubi.jpg",
-      "parrafo": "",
+      "parrafo": "<p><strong>Building the future together.</strong><br><br>♦ Fundada en <strong>1951 en Cataluña</strong>, Rubí es una <strong>empresa global</strong> que actualmente diseña, fabrica y distribuye <strong>maquinaria y herramientas</strong> para el corte, colocación y mantenimiento de la cerámica.<br><br>♦ Tiene presencia en más de <strong>120 países</strong> y una importante red de <strong>filiales y sucursales</strong> en todo el mundo.<br><br>♦ A través de <strong>Kalydon Tools</strong> vas a poder conocer la gama <strong>RUBI</strong>, en permanente evolución de acuerdo a los cambios en los materiales y sus aplicaciones.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/250/files/page/45.jpg",
-        "tapa2": "../emagazine/240/files/page/45.jpg",
-        "tapa3": "../emagazine/237/files/page/15.jpg",
-        "tapa4": "../emagazine/234/files/mobile/21.jpg"
+        "tapa1": "../emagazine/255/files/page/51.jpg",
+        "tapa2": "../emagazine/250/files/page/45.jpg",
+        "tapa3": "../emagazine/240/files/page/45.jpg",
+        "tapa4": "../emagazine/237/files/page/15.jpg",
+        "tapa5": "../emagazine/234/files/mobile/21.jpg"
       },
       "social": {
-        "email": "kalydontools@yahoo.com.ar",
-        "mailto": "mailto:kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero",
+        "email": "info@kalydontools.com.ar",
+        "mailto": "mailto:info@kalydontools.com.ar?subject=Contacto Magazine Bulonero",
         "web": "https://www.kalydon.com.ar/marca/rubi-2/",
         "webtxt": "www.kalydon.com.ar",
         "instagram": "https://www.instagram.com/rubidemo.arg/",
@@ -373,13 +380,15 @@
         "facebookName": "@rubidemo.arg"
       }
     },
-    "wadflow": {
+    "wadfow": {
       "titulo": "Wadfow",
       "telefono": "1131532223",
       "logo": "../imagenes/anunciantes/Wadfow.png",
       "parrafo": "<p><strong>Wadfow</strong> es una marca internacional de máquinas y herramientas de calidad, que se destaca por su amplio catálogo, ya está en el país de la mano de <strong>Kalydon Tools</strong>.</p>",
       "catalogo": "",
       "revista": {
+        "tapa1": "../emagazine/255/files/page/14.jpg",
+        "tapa2": "../emagazine/254/files/page/14.jpg"
       },
       "social": {
         "email": "info@kalydon.com.ar",
@@ -399,8 +408,8 @@
       "titulo": "Bulmetal",
       "telefono": "(011) 4641-6499",
       "logo": "../imagenes/anunciantes/bulmetal.jpg",
-      "parrafo": "",
-      "catalogo": "",
+      "parrafo": "<p><strong>Comenzó sus actividades industriales a mediados de la década del 60</strong> hasta constituirse hoy en una <strong>empresa líder</strong> en la fabricación de todo tipo de <strong>elementos de unión, fijación y sus accesorios</strong>, ya sean estándar o de formas y dimensiones especiales. La empresa cuenta con <strong>tres plantas industriales</strong> dotadas de maquinaria de avanzada tecnología, un área de matricería y, para asegurar la calidad, un laboratorio con instrumental adecuado. Los elementos de unión que fabrica <strong>BM BULMETAL</strong> responden a todas las <strong>normas internacionales</strong> más usuales de aplicación en la industria y la construcción, abarcando aproximadamente <strong>15,000/17,000 medidas diversas</strong>. Su <strong>personal altamente capacitado</strong> puede dar rápidas respuestas a todo tipo de requerimientos. Estaremos gustosos de satisfacer su demanda, para lo cual no dude en contactarse con nuestra firma.</p>",
+      "catalogo": "https://www.bmbulmetal.com.ar/catalogo/Catalogo_BM.pdf",
       "revista": {
         "tapa1": "../emagazine/240/files/page/38.jpg",
         "tapa2": "../emagazine/240/files/page/39.jpg",
@@ -425,17 +434,19 @@
       "titulo": "ekron",
       "telefono": "(011) 4641-6499",
       "logo": "../imagenes/anunciantes/ekron.jpg",
-      "parrafo": "",
+      "parrafo": "<p><strong>Nuestros Productos:</strong><br> <a href=\"https://ekron.joldensa.com.ar/productos/familia/lista-general\" style=\"color: red; text-decoration: underline;\">Productos General</a><br> <a href=\"https://ekron.joldensa.com.ar/productos/familia/ruedas-neumaticas\" style=\"color: red; text-decoration: underline;\">Ruedas Neumáticas</a><br> <a href=\"https://ekron.joldensa.com.ar/productos/familia/ruedas-macizas\" style=\"color: red; text-decoration: underline;\">Ruedas Macizas</a>.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/240/files/page/43.jpg",
-        "tapa2": "../emagazine/235/files/mobile/17.jpg"
+        "tapa1": "../emagazine/254/files/page/59.jpg",
+        "tapa2": "../emagazine/240/files/page/43.jpg",
+        "tapa3": "../emagazine/235/files/mobile/17.jpg"
       },
       "social": {
         "email": "ventas2@joldensa.com",
         "mailto": "mailto:ventas2@joldensa.com?subject=Contacto Magazine Bulonero",
         "web": "https://ekron.joldensa.com.ar/",
-        "webtxt": "Web Ekron",
+        "imgweb":"img/productos_ekron.jpg",
+        "webtxt": "www.ekron.joldensa.com.ar",
         "whatsapp": "https://wa.me/5491151083022/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
         "whatsappName": "1151083022",
         "instagram": "",
@@ -451,13 +462,16 @@
       "parrafo": "",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/242/files/page/32.jpg"
+        "tapa1": "../emagazine/254/files/page/65.jpg",
+        "tapa2": "../emagazine/253/files/page/22.jpg",
+        "tapa3": "../emagazine/242/files/page/32.jpg"
       },
       "social": {
         "email": "ventas2@joldensa.com",
         "mailto": "mailto:ventas2@joldensa.com?subject=Contacto Magazine Bulonero",
         "web": "https://lacatus.joldensa.com.ar/",
-        "webtxt": "lacatus.joldensa.com.ar",
+        "imgweb": "img/lacatus_productos.jpg",
+        "webtxt": "www.lacatus.joldensa.com.ar",
         "whatsapp": "https://wa.me/5491151083022/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
         "whatsappName": "1151083022",
         "instagram": "",
@@ -470,13 +484,14 @@
       "titulo": "Aceros Borroni",
       "telefono": "(011) 4452-1045",
       "logo": "../imagenes/anunciantes/aborroni.gif",
-      "parrafo": "",
+      "parrafo": "<p><strong>Aceros Borroni</strong> - <strong>Servicio, calidad y trayectoria.</strong> Líderes en el mercado argentino. Una empresa destacada en la <strong>distribución y transformación de aceros</strong> (barras laminadas y trefiladas, alambres, perfiles, etc.) y fijaciones para la industria y agroindustria en el mercado argentino, con una importante participación en mercados regionales. Su estructura está basada en el cliente, con altos niveles de inventario de materia prima y productos terminados, sostenida por el desarrollo de tres pilares fundamentales: <strong>Gestión, Tecnología y Recursos Humanos</strong>. <strong>Fundada en 1976</strong> por Juan Pablo Borroni con capitales 100% argentinos, Aceros Borroni nació con el objetivo de producir, comercializar y distribuir productos siderúrgicos. Su constante liderazgo y crecimiento llevaron a la compañía a iniciar el proceso industrial de trefilación de alambres en 1978. En febrero de 2002, <strong>Aceros Borroni S.A.</strong> inauguró su planta industrial en Mercedes, provincia de Buenos Aires, para maximizar la producción de alambres e incorporar la fabricación de barras trefiladas y varillas roscadas. Este crecimiento impulsó un importante aumento en el número de empleados, alcanzando actualmente una plantilla permanente de <strong>180 empleados</strong>. La planta industrial, montada sobre una superficie cubierta de <strong>35.000 m²</strong> en un terreno de <strong>60.000 m²</strong>, tiene una capacidad instalada de producción de <strong>35.000 toneladas anuales</strong>. En 2016/17, Aceros Borroni S.A. instaló <strong>dos nuevas máquinas</strong> para la fabricación de barras trefiladas con un excelente acabado superficial, cumpliendo con todas las pautas ecológicas gracias a un proceso que no utiliza sustancias químicas. Acompañando a la industria metalúrgica con productos de calidad, Aceros Borroni S.A. sigue consolidando su liderazgo en el mercado, afianzando su presencia regional, satisfaciendo las expectativas de los clientes más exigentes y maximizando la rentabilidad y el crecimiento de la empresa.</p>",
       "catalogo": "",
       "revista": {},
       "social": {
         "email": "info@acerosborroni.com",
         "mailto": "mailto:info@acerosborroni.com?subject=Contacto Magazine Bulonero",
         "web": "http://www.acerosborroni.com/",
+        "imgweb": "img/productos_aceros-borroni.png",
         "webtxt": "www.acerosborroni.com",
         "instagram": "",
         "instagramName": "",

@@ -1076,6 +1076,26 @@
         "facebookName": ""
       }
     },
+    "sangalo-fijaciones":{
+      "titulo": "Sangalo fijaciones",
+      "telefono": "1161972799",
+      "logo": "../imagenes/anunciantes/sangalo.jpg",
+      "parrafo": "<p>Nuestra oferta de más de 6.000 artículos incluyen una completa línea de autoperforantes, bulonería, tornillería, tuercas, varillas roscadas entre herramientas bombas de agua, electrodos, etc. Nuestro objetivo es satisfacer las necesidades de artículos para ferreterías.</p>",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/256/files/page/1.jpg"
+      },
+      "social": {
+        "email": "clientes@sangalofijaciones.com.ar",
+        "mailto": "mailto:clientes@sangalofijaciones.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://www.sangalofijaciones.com.ar/",
+        "webtxt": "www.sangalofijaciones.com.ar",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
     "sagredo": {
       "titulo": "Sagredo SRL",
       "telefono": "(011) 4552-9427",

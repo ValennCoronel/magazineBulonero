@@ -380,6 +380,25 @@
         "facebookName": "@rubidemo.arg"
       }
     },
+    "cordoba-bulones":{
+      "titulo": "Cordoba Bulones",
+      "telefono": "1166624444",
+      "logo": "../imagenes/anunciantes/cordoba bulones.png",
+      "parrafo": "<p>Cordoba Bulones SA es una empresa mayorista de bulonería y ferretería que ofrece una respuesta rapida a los comercios en el abastecimiento de productos lideres con una valiosa propuesta comercial.</p>",
+      "catalogo": "",
+      "revista": {
+      },
+      "social": {
+        "email": "administracion@cordobabulonessa.com.ar",
+        "mailto": "mailto:administracion@cordobabulonessa.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://cordobabulonessa.com.ar/",
+        "webtxt": "www.cordobabulonessa.com.a",
+        "instagram": "",
+        "instagramName": "",
+        "facebook": "",
+        "facebookName": ""
+      }
+    },
     "wadfow": {
       "titulo": "Wadfow",
       "telefono": "1131532223",
@@ -1295,6 +1314,25 @@
         "instagramName": "wackerherramientas",
         "whatsapp": "https://wa.me/5491124747441/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
         "whatsappName": "+5491124747441"
+      }
+    },
+    "zc-herramental":{
+      "titulo": "ZC Herramental",
+      "telefono": "1166624444",
+      "logo": "../imagenes/anunciantes/zc herramental.png",
+      "parrafo": "<p>ZC Herramental es una empresa joven que nace en el año 2015 formada por Daniel Cantamessa y Marcelo Zanotti, partiendo de la riqueza de la experiencia adquirida en una empresa con largos años de trayectoria en el mercado, como es Extrapol. Nos desarrollamos sobre los mismos valores y principios que Extrapol promovió desde sus orígenes con la dirección de Oscar Cantamessa, y luego sostenidos por Daniel Cantamessa. Como empresa ZC está en la constante búsqueda de lograr apoyar a nuestros clientes mediante a 3 pilares fundamentales; Productos de calidad, excelente relación de precio y atención dedicada.</p>",
+      "catalogo": "",
+      "revista": {
+      },
+      "social": {
+        "email": "ventas@zcherramental.com.ar",
+        "mailto": "mailto:ventas@zcherramental.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://zcherramental.com.ar/",
+        "webtxt": "www.zcherramental.com.ar",
+        "instagram": "https://www.instagram.com/zc.herramental/?hl=es-la",
+        "instagramName": "@zc.herramental",
+        "facebook": "",
+        "facebookName": ""
       }
     }
   }

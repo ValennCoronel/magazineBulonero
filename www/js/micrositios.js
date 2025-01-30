@@ -53,11 +53,15 @@ document.addEventListener("DOMContentLoaded", () => {
             document.querySelector(".datos-web a").href = anunciante.social.web;
             document.querySelector(".datos-web a").title =
               anunciante.social.webtxt;
-            if(anunciante.social.webtxt != null && anunciante.social.webtxt.trim() !== ""){
+            if (
+              anunciante.social.webtxt != null &&
+              anunciante.social.webtxt.trim() !== ""
+            ) {
               document.querySelector(".datos-web a").textContent =
-              anunciante.social.webtxt;}
-            else{
-              document.querySelector(".datos-web a").textContent = "web " + anunciante.titulo
+                anunciante.social.webtxt;
+            } else {
+              document.querySelector(".datos-web a").textContent =
+                "web " + anunciante.titulo;
             }
             if (
               anunciante.social.imgweb != null &&
@@ -66,7 +70,8 @@ document.addEventListener("DOMContentLoaded", () => {
               //Frame
               document.querySelector(".frameweb").style.display = "none";
             } else {
-              document.querySelector(".frameweb iframe").src = anunciante.social.web;
+              document.querySelector(".frameweb iframe").src =
+                anunciante.social.web;
             }
           } else {
             document.querySelector(".datos-web").style.display = "none";
@@ -78,10 +83,17 @@ document.addEventListener("DOMContentLoaded", () => {
             anunciante.social.imgweb != null &&
             anunciante.social.imgweb.trim() !== ""
           ) {
-            document.querySelector(".img-web a").href =
-              anunciante.social.linkweb;
             document.querySelector(".img-web img").src =
               anunciante.social.imgweb;
+            if (
+              anunciante.social.linkweb != null &&
+              anunciante.social.linkweb.trim() !== ""
+            ) {
+              document.querySelector(".img-web a").href =
+                anunciante.social.linkweb;
+            } else {
+              document.querySelector(".img-web a").href = anunciante.social.web;
+            }
           } else {
             document.querySelector(".img-web").style.display = "none";
           }

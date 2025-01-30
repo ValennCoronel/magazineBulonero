@@ -1015,11 +1015,9 @@ nav a.active {
 		margin: 0.4rem;}
 
 	.col-md-2 >.banmov {
-		width: 30%; 
-		margin: 0.6rem 0.4rem;}
+		width: 29%; 
+		margin: 0.5rem 0.3rem;}
             }
-
-
 
 /* LARGE SIZE */
 @media(min-width: 700px) {
@@ -1040,16 +1038,62 @@ nav a.active {
     }
 
     #carouselExampleIndicators{
-    margin-bottom: 2rem;
-
+    margin-bottom: 2rem;}
 }
+ .pagrev{
+ 	width: 70%;
+ 	margin:auto;
+ 	float:left;
+ }
 
-
-@media screen and (max-width: 800px) {
+@media screen (max-width: 800px) {
 
 	.pie-pagina .grupo-1 {
 	background-color: #333;
-	width: 100%;
- 	}
+	width: 100%;}
 		}
+
+@media (min-width: 320px) and (max-width: 500px){
+	.container{
+		padding: 0 !important;
 	}
+	.grid-item1, .grid-item2, .grid-item3{
+	width:48% !important; }
+	.titulo_ge{
+		display: none;
+	}
+	.datosanun1{
+		display: none;
+	}
+	.btn7, .btn6{
+		letter-spacing: 0.075rem;
+		padding: 0;
+		margin: 0.3rem 0 ;
+	}
+	.offcanvas-body1{
+		font-size: 0.8rem !important;
+        font-weight: 700;
+	}
+
+	.menu_ge{
+		margin: 1.2rem 0;
+		padding: 0;
+	}
+	#selected-category{
+		margin: 0;
+	}
+
+	.menu_ge1{
+		font-size: 0.8rem !important;
+        padding: 0 0.4rem;
+        letter-spacing: 0.1rem;
+	}
+	.offcanvas-active{
+		font-size: 1.2rem !important;
+	}
+	div>.offcanvas-body1, .offcanvas-body1_active{
+		display: none;
+	}
+	
+	
+}

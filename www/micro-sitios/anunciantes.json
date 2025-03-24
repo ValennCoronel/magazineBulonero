@@ -95,11 +95,10 @@
       "parrafo": "<p>Bul Dynamics se constituye día a día como una marca que crece, que busca incrementar el abanico de soluciones para el mercado ferretero. Nuestro propósito ha sido entregar un producto altamente competitivo sin renunciar a estándares internacionales de calidad y diseño.</p>",
       "catalogo": "https://buldynamics.com.ar/wp-content/uploads/2024/08/CATALOGO-BUL-01-2024.pdf",
       "revista": {
-        "tapa1":"../emagazine/256/files/page/18.jpg",
-        "tapa2":"../emagazine/256/files/page/19.jpg",
-        "tapa3":"../emagazine/255/files/page/18.jpg",
-        "tapa4":"../emagazine/255/files/page/19.jpg"
-        
+        "tapa1": "../emagazine/256/files/page/18.jpg",
+        "tapa2": "../emagazine/256/files/page/19.jpg",
+        "tapa3": "../emagazine/255/files/page/18.jpg",
+        "tapa4": "../emagazine/255/files/page/19.jpg"
       },
       "social": {
         "email": "ventas@buldynamics.com.ar",
@@ -130,7 +129,7 @@
         "instagram": "https://www.instagram.com/brogas.oficial/",
         "instagramName": "@brogas.oficial",
         "facebook": "https://www.facebook.com/brogas.broksol",
-        "facebookName":"brogas.broksol",
+        "facebookName": "brogas.broksol",
         "whatsapp": "https://wa.me/541130715056/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
         "whatsappName": "1130715056"
       }
@@ -238,7 +237,6 @@
         "tapa8": "../emagazine/250/files/page/12.jpg",
         "tapa9": "../emagazine/250/files/page/13.jpg",
         "tapa10": "../emagazine/249/files/page/12.jpg"
-
       },
       "social": {
         "email": "ventas@rerar.com.ar",
@@ -413,7 +411,7 @@
         "facebookName": "@rubidemo.arg"
       }
     },
-    "cordoba-bulones":{
+    "cordoba-bulones": {
       "titulo": "Cordoba Bulones",
       "telefono": "0351 499-4173/4176/4196",
       "logo": "../imagenes/anunciantes/cordoba bulones.png",
@@ -438,7 +436,7 @@
         "facebookName": ""
       }
     },
-    
+
     "industria_segura": {
       "titulo": "Industria Segura",
       "telefono": "(011) 5463-6981",
@@ -459,9 +457,7 @@
       }
     },
 
-
-
-   "maxifer": {
+    "maxifer": {
       "titulo": "Maxifer",
       "telefono": "(011) 5040-8378",
       "logo": "../imagenes/anunciantes/maxifer.gif",
@@ -469,7 +465,10 @@
       "catalogo": "",
       "revista": {
         "tapa1": "../emagazine/257/files/page/76.jpg",
-        "tapa2": "../emagazine/256/files/page/89.jpg"
+        "tapa2": "../emagazine/256/files/page/89.jpg",
+        "tapa3": "../micro-sitios/img/Maxifer-253_media.jpg",
+        "tapa4": "../micro-sitios/img/Maxifer-254.jpg",
+        "tapa5": "../micro-sitios/img/Maxifer-257.jpg"
       },
       "social": {
         "email": "info@fabricamaxifer.com",
@@ -480,6 +479,25 @@
         "whatsappName": "11 5040-8378"
       }
     },
+    "biassoni": {
+      "titulo": "Biassoni",
+      "telefono": "03496 426195",
+      "logo": "../imagenes/anunciantes/biassoni.gif",
+      "parrafo": "<p> Somos la marca líder de herramientas manuales cuyo crecimiento se basa en la innovación.</p>",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "",
+        "tapa2": ""
+      },
+      "social": {
+        "email": "web@biassoni.com.ar",
+        "mailto": "mailto:web@biassoni.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://biassoni.com.ar",
+        "webtxt": "www.biassoni.com.ar",
+        "whatsapp": "https://wa.me/5493496549940/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "3496 549940"
+      }
+    },
     "maximar": {
       "titulo": "Maximar",
       "telefono": "(011) 4190-2277",
@@ -487,7 +505,8 @@
       "parrafo": "<p><b>Líder en la fabricación de tornillos Parker y bulones hexagonales</b><br><br><b>MAXIMAR S.A</b> es una empresa familiar, con más de <b>35 años de experiencia</b>, dedicada a la fabricación de Tornillos Parker cabeza combinada, Fresados, Hexagonales, Roscas Whitworth, Métricos y Bulones Hexagonales tipo americano.<br>Su línea de producción es supervisada continuamente por personal altamente capacitado, aplicando el concepto de <i>mejora continua</i>.<br>Contando con planta propia, maquinaria y herramental necesarios para todo el proceso de producción, garantizando así <b>excelencia en la calidad</b> de los productos.<br>Todos los trabajos realizados responden a un continuo proceso de crecimiento y actualización que los identifica.<br>Los años de experiencia en el rubro les permiten brindar el <b>mejor asesoramiento técnico</b>, recomendando el producto que mejor se adapte a las necesidades del cliente.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": ""
+        "tapa1": "../micro-sitios/img/Maximar-news2024.png",
+        "tapa2": "../micro-sitios/img/maximar-248.jpg"
       },
       "social": {
         "email": "ventas@maximarsa.com.ar",
@@ -505,7 +524,7 @@
       "parrafo": "<p>Fábrica de Bulones y Tuercas para Ruedas Arandelas - Espárragos - Conos - Llaves de rueda - Camiones - Acoplados - Tractores - Coches - Pick-Up - Deportivos para llantas de aleación liviana - Cromados y Cincados</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": ""
+        "tapa1": "../micro-sitios/img/Mguillon-225.jpg"
       },
       "social": {
         "email": "administracion@img-srl.com.ar",
@@ -587,7 +606,7 @@
         "email": "ventas2@joldensa.com",
         "mailto": "mailto:ventas2@joldensa.com?subject=Contacto Magazine Bulonero",
         "web": "https://ekron.joldensa.com.ar/",
-        "imgweb":"img/productos_ekron.jpg",
+        "imgweb": "img/productos_ekron.jpg",
         "webtxt": "www.ekron.joldensa.com.ar",
         "whatsapp": "https://wa.me/5491151083022/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
         "whatsappName": "1151083022",
@@ -614,7 +633,7 @@
         "mailto": "mailto:ventas2@joldensa.com?subject=Contacto Magazine Bulonero",
         "web": "https://lacatus.joldensa.com.ar/",
         "imgweb": "../micro-sitios/img/lacatusBanner.png",
-        "linkweb":"https://lacatus.joldensa.com.ar/",
+        "linkweb": "https://lacatus.joldensa.com.ar/",
         "webtxt": "www.lacatus.joldensa.com.ar",
         "whatsapp": "https://wa.me/5491151083022/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
         "whatsappName": "1151083022",
@@ -683,7 +702,7 @@
         "email": "veloarandelas@gmail.com",
         "mailto": "mailto:veloarandelas@gmail.com?subject=Contacto Magazine Bulonero",
         "web": "https://bymarandelas.com.ar/",
-        "imgweb":"img/bym_arandelas-productos.jpg",
+        "imgweb": "img/bym_arandelas-productos.jpg",
         "webtxt": "bymarandelas.com.ar",
         "instagram": "https://www.instagram.com/bymarandelas/",
         "instagramName": "@bymarandelas",
@@ -917,10 +936,10 @@
         "email": "pedidos@el-taladro.com.ar",
         "mailto": "mailto:pedidos@el-taladro.com.ar?subject=Contacto Magazine Bulonero",
         "web": "https://www.el-taladro.com/",
-        "imgweb":"img/eltaladro_productos.jpg",
+        "imgweb": "img/eltaladro_productos.jpg",
         "webtxt": "www.el-taladro.com",
-        "whatsapp":"https://wa.me/5492234974847/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5492234974847",
+        "whatsapp": "https://wa.me/5492234974847/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5492234974847",
         "instagram": "https://www.instagram.com/eltaladro.distribuidora/",
         "instagramName": "@eltaladro.distribuidora",
         "facebook": "https://www.facebook.com/profile.php?id=100063577896658",
@@ -943,8 +962,8 @@
         "mailto": "mailto:info@evel.com.ar?subject=Contacto Magazine Bulonero",
         "web": "https://evel.com.ar/",
         "webtxt": "evel.com.ar",
-        "whatsapp":"https://wa.me/5491162345177/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5491162345177",
+        "whatsapp": "https://wa.me/5491162345177/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491162345177",
         "instagram": "https://www.instagram.com/evel_argentina/",
         "instagramName": "@evel_argentina",
         "facebook": "",
@@ -1060,7 +1079,8 @@
         "facebook": "https://www.facebook.com/lijashunterok/",
         "facebookName": "lijashunterok"
       }
-    },"jucap": {
+    },
+    "jucap": {
       "titulo": "Jucap",
       "telefono": "(011) 2342-6703",
       "logo": "../imagenes/anunciantes/jucap.gif",
@@ -1073,10 +1093,10 @@
         "email": "jcpungitore@gmail.com",
         "mailto": "mailto:jcpungitore@gmail.com?subject=Contacto Magazine Bulonero",
         "web": "",
-        "imgweb":"img/jucap-productos.png",
+        "imgweb": "img/jucap-productos.png",
         "webtxt": "",
-        "whatsapp":"https://wa.me/5491123426703/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5491123426703",
+        "whatsapp": "https://wa.me/5491123426703/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491123426703",
         "instagram": "",
         "instagramName": "",
         "facebook": "",
@@ -1094,7 +1114,6 @@
         "tapa2": "../emagazine/245/files/page/1.jpg",
         "tapa3": "../emagazine/241/files/page/1.jpg",
         "tapa4": "../emagazine/234/files/mobile/21.jpg"
-        
       },
       "social": {
         "email": "kalydontools@yahoo.com.ar",
@@ -1103,8 +1122,8 @@
         "webtxt": "www.kalydon.com.ar",
         "instagram": "https://www.instagram.com/kalydon.arg/",
         "instagramName": "kalydon.arg",
-        "whatsapp":"https://wa.me/5491131532223/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5491131532223",
+        "whatsapp": "https://wa.me/5491131532223/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491131532223",
         "facebook": "https://www.facebook.com/kalydon.arg",
         "facebookName": "kalydon.arg"
       }
@@ -1124,8 +1143,8 @@
         "mailto": "mailto:kruger@kruger.com.ar?subject=Contacto Magazine Bulonero",
         "web": "https://www.flejeskruger.com.ar/",
         "webtxt": "flejeskruger.com.ar",
-        "whatsapp":"https://wa.me/5491168265017/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5491168265017",
+        "whatsapp": "https://wa.me/5491168265017/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491168265017",
         "instagram": "",
         "instagramName": "",
         "facebook": "",
@@ -1149,8 +1168,8 @@
         "imgweb": "../micro-sitios/img/losama-productos.jpg",
         "instagram": "https://www.instagram.com/metalurgicalosama/",
         "instagramName": "@metalurgicalosama",
-        "whatsapp":"https://wa.me/5491139403045/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5491139403045",
+        "whatsapp": "https://wa.me/5491139403045/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491139403045",
         "facebook": "",
         "facebookName": ""
       }
@@ -1199,8 +1218,8 @@
         "web": "https://www.metalurgicapersico.com.ar",
         "webtxt": "www.metalurgicapersico.com.ar",
         "instagram": "https://www.instagram.com/metalpersico/",
-        "whatsapp":  "https://wa.me/5491136959432/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5491136959432",
+        "whatsapp": "https://wa.me/5491136959432/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491136959432",
         "instagramName": "Metalpersico",
         "facebook": "",
         "facebookName": ""
@@ -1226,8 +1245,8 @@
         "instagramName": "metalvars",
         "facebook": "https://www.facebook.com/profile.php?id=100094482288452",
         "facebookName": "metalvars",
-        "whatsapp":"https://wa.me/5491159517188/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5491159517188"
+        "whatsapp": "https://wa.me/5491159517188/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491159517188"
       }
     },
     "resortecnica": {
@@ -1246,8 +1265,8 @@
         "webtxt": "www.resortecnica.com.ar",
         "instagram": "",
         "instagramName": "",
-        "whatsapp":"https://wa.me/5491124649071/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5491124649071",
+        "whatsapp": "https://wa.me/5491124649071/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491124649071",
         "facebook": "https://www.facebook.com/resortecnicasrl?fref=ts",
         "facebookName": "resortecnica"
       }
@@ -1266,17 +1285,17 @@
         "email": "info@rmd-internacional.com",
         "mailto": "mailto:info@rmd-internacional.com?subject=Contacto Magazine Bulonero",
         "web": "http://www.rmd-internacional.com/",
-        "imgweb":"img/rmd-internacional-productos.jpg",
+        "imgweb": "img/rmd-internacional-productos.jpg",
         "webtxt": "www.rmd-internacional.com",
         "instagram": "",
         "instagramName": "",
-        "whatsapp":"https://wa.me/5493413676728/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5493413676728",
+        "whatsapp": "https://wa.me/5493413676728/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5493413676728",
         "facebook": "",
         "facebookName": ""
       }
     },
-    "sangalo-fijaciones":{
+    "sangalo-fijaciones": {
       "titulo": "Sangalo fijaciones",
       "telefono": "1161972799",
       "logo": "../imagenes/anunciantes/sangalo.jpg",
@@ -1315,7 +1334,7 @@
         "email": "sagredo@uolsinectis.com.ar",
         "mailto": "mailto:sagredo@uolsinectis.com.ar?subject=Contacto Magazine Bulonero",
         "web": "",
-        "imgweb":"img/sagredo-productos.png",
+        "imgweb": "img/sagredo-productos.png",
         "webtxt": "",
         "instagram": "",
         "instagramName": "",
@@ -1344,8 +1363,8 @@
         "webtxt": "www.southwind.com.ar",
         "instagram": "https://www.instagram.com/southwindbrasil/",
         "instagramName": "SouthWindbrasil",
-        "whatsapp":"https://wa.me/5511964210493/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5511964210493",
+        "whatsapp": "https://wa.me/5511964210493/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5511964210493",
         "facebook": "https://www.facebook.com/SouthWindbr",
         "facebookName": "SouthWindbr"
       }
@@ -1390,12 +1409,12 @@
         "email": "tornilloslomas@tornilloslomas.com.ar",
         "mailto": "mailto:tornilloslomas@tornilloslomas.com.ar?subject=Contacto Magazine Bulonero",
         "web": "http://www.tornilloslomas.com.ar/",
-        "imgweb":"img/tornillos_lomas-productos.jpg",
+        "imgweb": "img/tornillos_lomas-productos.jpg",
         "webtxt": "www.tornilloslomas.com.ar",
         "instagram": "",
         "instagramName": "",
-        "whatsapp":"https://wa.me/5491133304111/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5491133304111",
+        "whatsapp": "https://wa.me/5491133304111/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491133304111",
         "facebook": "",
         "facebookName": ""
       }
@@ -1416,12 +1435,12 @@
         "email": "tornillostoro@gmail.com",
         "mailto": "mailto:tornillostoro@gmail.com?subject=Contacto Magazine Bulonero",
         "web": "http://www.tornillostoro.com.ar/",
-        "imgweb":"img/tornillos_toro-productos.png",
+        "imgweb": "img/tornillos_toro-productos.png",
         "webtxt": "www.tornillostoro.com.ar",
         "instagram": "",
         "instagramName": "",
-        "whatsapp":"https://wa.me/5491123225064/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5491123225064",
+        "whatsapp": "https://wa.me/5491123225064/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491123225064",
         "facebook": "",
         "facebookName": ""
       }
@@ -1492,15 +1511,15 @@
       "parrafo": "<p><strong>Luistrusoni SRL</strong> es una empresa líder en la <strong>venta de tornillos</strong>, ofreciendo una amplia variedad de productos de alta calidad para satisfacer las necesidades de sus clientes. Nos especializamos en proporcionar soluciones precisas y duraderas para <strong>industria</strong>, <strong>construcción</strong> y otros sectores. En <strong>Luistrusoni SRL</strong>, nos comprometemos a ofrecer un servicio excepcional y asesoramiento experto para ayudarle a encontrar el tornillo adecuado para su proyecto.</p> <br> <p>Actualmente abastecemos al mercado de buloneras, distribuidoras, mayoristas y ferreterías industriales de todo el país, ofreciendo productos con la misma calidad desde hace años. Nuestros productos son: <br> <ul><li><strong>Tornillos Allen de alta resistencia</strong></li> <ul><li>- Cabeza Cilíndrica</li> <li>- Cabeza Fresada</li> <li>- Cabeza Boton</li> <li>- Sin Cabeza</li></ul> <li><strong>Llaves allen</strong></li> <li><strong>Tornillos Fix para madera</strong><li> <li><strong>Tornillos Drywall para Madera</strong></li> <li><strong>Autoperforantes</strong></li> <ul><li>- Tanque Aguja</li><li>- Tanque Mecha</li><li>- Hexagonal con arandela</li><li>- Hexagonal punta 17 para madera</li> <li>- Pan Framing</li><li>- Tornillo cab. Fresada con alas</li> <li>- Trompeta Mecha para metal</li> <li>- Trompeta Aguja para metal</li></ul></p>",
       "catalogo": "",
       "revista": {
-        "tapa1":"../micro-sitios/img/trusoni_236.jpg",
-        "tapa2":"../micro-sitios/img/trusoni_240.jpg",
-        "tapa3":"../micro-sitios/img/trusoni-245.jpg"
+        "tapa1": "../micro-sitios/img/trusoni_236.jpg",
+        "tapa2": "../micro-sitios/img/trusoni_240.jpg",
+        "tapa3": "../micro-sitios/img/trusoni-245.jpg"
       },
       "social": {
         "email": "info@trusoni.com.ar",
         "mailto": "mailto:info@trusoni.com.ar?subject=Contacto Magazine Bulonero",
         "web": "",
-        "imgweb":"../micro-sitios/img/trusoni-productos.png",
+        "imgweb": "../micro-sitios/img/trusoni-productos.png",
         "webtxt": "",
         "instagram": "https://www.instagram.com/luistrusonisrl/",
         "instagramName": "@luistrusonisrl",
@@ -1532,7 +1551,7 @@
         "whatsappName": "+5491124747441"
       }
     },
-    "zc-herramental":{
+    "zc-herramental": {
       "titulo": "ZC Herramental",
       "telefono": "1166624444",
       "logo": "../imagenes/anunciantes/zc herramental.png",
@@ -1549,13 +1568,13 @@
         "webtxt": "www.zcherramental.com.ar",
         "instagram": "https://www.instagram.com/zc.herramental/?hl=es-la",
         "instagramName": "@zc.herramental",
-        "whatsapp":"https://wa.me/5491166624444/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName":"+5491166624444",
+        "whatsapp": "https://wa.me/5491166624444/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "+5491166624444",
         "facebook": "",
         "facebookName": ""
       }
     },
-    "bules":{
+    "bules": {
       "titulo": "Bules S.R.L",
       "telefono": "",
       "logo": "../imagenes/anunciantes/bules.gif",
@@ -1563,18 +1582,18 @@
       "catalogo": "",
       "revista": {
         "tapa1": "img/bulessrl_246.jpg",
-        "tapa2":"img/bules-news.png"
+        "tapa2": "img/bules-news.png"
       },
       "social": {
         "email": "bulessrl@hotmail.com",
         "mailto": "mailto:ventas@zcherramental.com.ar?subject=Contacto Magazine Bulonero",
         "web": "",
-        "imgweb":"img/bulessrl_productos.png",
+        "imgweb": "img/bulessrl_productos.png",
         "webtxt": "",
         "instagram": "",
         "instagramName": "",
-        "whatsapp":"",
-        "whatsappName":"",
+        "whatsapp": "",
+        "whatsappName": "",
         "facebook": "",
         "facebookName": ""
       }

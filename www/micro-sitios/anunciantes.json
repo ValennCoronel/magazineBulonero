@@ -33,7 +33,6 @@
         "youtubeName": "Autoperforantes Tel"
       }
     },
-
     "perfecto": {
       "titulo": "Abrazaderas Perfecto",
       "telefono": "(011) 4627-9231",
@@ -41,11 +40,12 @@
       "parrafo": "<p>Fundada hace más de cincuenta años, ha dedicado siempre todo su esfuerzo a la fabricación de Abrazaderas. Con la llegada a nuestro país de la Industria Automotriz ha sabido ganarse la confianza de las mismas, continuando nuestros avances en mercados como los de reposición automotriz y ferretera, industria naval, alimenticia y agrícolas. <br> Características que nos permiten ser el más importante especialista de Abrazaderas en el mercado local. <br> Nuestra planta cuenta con maquinarias y herramientas de última tecnología europea, lo cual le otorga al producto un altísimo grado de confiabilidad. Así mismo cada modelo de abrazadera sufre un complejo proceso antes de su salida al mercado, simulando las condiciones de utilización más adversas. En consecuencia nos hemos equipado con los medio técnicos necesarios, que comprenden un importante desarrollo informático, como así también, con bancos de ensayo altamente especializado y con la capacitación de todo nuestro personal en todos los temas relativos a la calidad y mejora continua. Eso nos ha dado él más alto reconocimiento reflejado en las calificaciones de nuestro sistema de calidad, y como consecuencia, hemos obtenido la certificación por décimo año consecutivo de la norma ISO 9001, siendo en su rubro la primera fábrica de abrazaderas en Argentina en alcanzar dichos galardón. <br> En lo que respecta al mercado internacional, nuestro producto se va insertando con gran aceptación y reconocimiento en los diferentes países, nuestros departamentos de Aseguramiento de Calidad y Técnico – Desarrollo está disponible para resolver cualquier inquietud, dificultad o requerimiento en lo que su materia respecta, nuestros departamentos de ventas están en continuo contacto para asesorarlo sobre todos nuestros productos. <br> Sobre la base de las exigencias actuales y la experiencia que los años otorgo a la a la empresa, nos desarrollamos y avanzamos tecnológicamente FABRICANDO UNA ABRAZADERAS PARA CADA NESESIDAD.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/256/files/page/67.jpg",
-        "tapa2": "../emagazine/255/files/page/27.jpg",
-        "tapa3": "../emagazine/253/files/page/1.jpg",
-        "tapa4": "../emagazine/250/files/page/32.jpg",
-        "tapa5": "../emagazine/247/files/page/48.jpg"
+        "tapa1": "../emagazine/258/files/page/79.jpg",
+        "tapa2": "../emagazine/256/files/page/67.jpg",
+        "tapa3": "../emagazine/255/files/page/27.jpg",
+        "tapa4": "../emagazine/253/files/page/1.jpg",
+        "tapa5": "../emagazine/250/files/page/32.jpg",
+        "tapa6": "../emagazine/247/files/page/48.jpg"
       },
       "social": {
         "email": "perfecto@abrazaderas",
@@ -58,6 +58,99 @@
         "whatsappName": "1122569807"
       }
     },
+    "intar": {
+      "titulo": "Intar",
+      "telefono": "4203-1811",
+      "logo": "../imagenes/anunciantes/intar.gif",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {
+        "tapa1":"../micro-sitios/img/intar-258.jpg"
+      },
+      "social": {
+        "email": "info@intartornillos.com",
+        "mailto": "mailto:info@intartornillos.com?subject=Contacto Magazine Bulonero",
+        "imgweb": "../micro-sitios/img/intar_tornillos-productos.jpg",
+        "linkweb": "https://www.intartornillos.com",
+        "webtxt": "www.intartornillos.com",
+        "whatsapp": "https://wa.me/5491158168381/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1158168381"
+      }
+    },
+    "nordin": {
+      "titulo": "Nordin",
+      "telefono": "",
+      "logo": "../imagenes/anunciantes/nordin.gif",
+      "parrafo": "",
+      "catalogo": "http://www.nor-din.com.ar/catalogo/catalogo.pdf",
+      "revista": {
+        "tapa1":"../micro-sitios/img/nordin-246.jpg",
+        "tapa2":"../micro-sitios/img/nordin-245.jpg"
+      },
+      "social": {
+        "email": "correo@nor-din.com.ar",
+        "mailto": "mailto:correo@nor-din.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "http://www.nor-din.com.ar",
+        "webtxt": "www.nor-din.com.ar",
+        "whatsapp": "https://wa.me/5491154986294/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1154986294"
+      }
+    },
+    "bluetools": {
+      "titulo": "Bluetools",
+      "telefono": "(011) 2152-1920",
+      "logo": "../imagenes/anunciantes/bluetools.jpg",
+      "parrafo": "<p><b>Somos importadores directos</b><br><br>Más de <b>5.000 artículos</b> a disposición del mercado ferretero.<br><br><b>ALTOS OBJETIVOS</b><br>Apuntamos alto, con el objetivo de brindar un servicio de excelencia en todo el país. Nuestras representaciones son marcas de calidad, poseen productos diseñados para brindar una solución robusta a costos eficientes para los consumidores y el mercado en general. Herramientas y máquinas que duran, que buscan superar el estándar.<br><br><b>Equipo</b><br>Somos un equipo de profesionales que trabaja dinámicamente para superar las expectativas de nuestro servicio. Siempre a disposición de cada cliente para poder impulsar su negocio con una gestión simple y eficaz.</p>",
+      "catalogo": "",
+      "revista": {
+      },
+      "social": {
+        "email": "ventas@bluetoolssrl.com.ar",
+        "mailto": "mailto:ventas@bluetoolssrl.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://bluetoolssrl.com.ar/marca/homey/",
+        "webtxt": "www.bluetoolssrl.com.ar",
+        "whatsapp": "https://wa.me/5491140914047/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "1140914047",
+        "instagram": "https://www.instagram.com/bluetools_srl/",
+        "instagramName": "@bluetools_srl",
+        "facebook": "https://www.facebook.com/bluetools.srl",
+        "facebookName": "@bluetools.srl"
+      }
+    },
+    "pittor": {
+      "titulo": "Pittor",
+      "telefono": "",
+      "logo": "",
+      "parrafo": "",
+      "catalogo": "",
+      "revista": {},
+      "social": {
+        "email": "tornillospittor@gmail.com",
+        "mailto": "mailto:tornillospittor@gmail.com?subject=Contacto Magazine Bulonero",
+        "web": "https://tornillospittor.com/",
+        "webtxt": "",
+        "whatsapp": "https://wa.me/5491135123838/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": ""
+      }
+    },
+    "corradini": {
+      "titulo": "Corradini",
+      "telefono": "",
+      "logo": "",
+      "parrafo": "<p><b>Corradini Remaches</b> es una empresa fundada en <b>1984</b> dedicada a producir elementos de fijación por conformado en frío.<br><br><b>Servicio y liderazgo</b> en remaches para cintas de freno y discos de embrague.<br><br>Corradini Remaches es <b>líder del mercado argentino</b>, abasteciendo más del <b>70%</b> del mismo.<br><br>Este liderazgo se sostiene mediante una política de empresa que consiste en mantener una excelente calidad en sus productos, stock completo y permanente, entrega inmediata y una constante adaptación a las necesidades del mercado.<br><br>La <b>continuidad y tradición familiar</b> les ha permitido armonizar dos generaciones, la experiencia del adulto y el impulso innovador de la juventud. Contando con máquinas modernas y personal especializado, lo que hace posible brindar a sus clientes un gran marco de productos, con amplio stock en medidas estándar y piezas especiales.</p>",
+      "catalogo": "",
+      "revista": {},
+      "social": {
+        "email": "cr@corradiniremaches.com.ar",
+        "mailto": "mailto:cr@corradiniremaches.com.ar?subject=Contacto Magazine Bulonero",
+        "web": "https://corradiniremaches.com.ar/",
+        "webtxt": "",
+        "whatsapp": "https://wa.me/5491140742160/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "",
+        "instagram": ""
+      }
+    },
+    
 
     "bulones_kc": {
       "titulo": "Bulones KC",
@@ -93,12 +186,15 @@
       "telefono": "291 4559330",
       "logo": "../imagenes/anunciantes/buldynamics.png",
       "parrafo": "<p>Bul Dynamics se constituye día a día como una marca que crece, que busca incrementar el abanico de soluciones para el mercado ferretero. Nuestro propósito ha sido entregar un producto altamente competitivo sin renunciar a estándares internacionales de calidad y diseño.</p>",
-      "catalogo": "https://buldynamics.com.ar/wp-content/uploads/2024/08/CATALOGO-BUL-01-2024.pdf",
+      "catalogo": "http://bulonero.com/emagazine/cat/bul_autoperforantes-catalogo.pdf",
       "revista": {
-        "tapa1": "../emagazine/256/files/page/18.jpg",
-        "tapa2": "../emagazine/256/files/page/19.jpg",
-        "tapa3": "../emagazine/255/files/page/18.jpg",
-        "tapa4": "../emagazine/255/files/page/19.jpg"
+        "tapa1": "../emagazine/258/files/page/18.jpg",
+        "tapa2": "../emagazine/258/files/page/16.jpg",
+        "tapa3": "../emagazine/258/files/page/1.jpg",
+        "tapa4": "../emagazine/256/files/page/18.jpg",
+        "tapa5": "../emagazine/256/files/page/19.jpg",
+        "tapa6": "../emagazine/255/files/page/18.jpg",
+        "tapa7": "../emagazine/255/files/page/19.jpg"
       },
       "social": {
         "email": "ventas@buldynamics.com.ar",
@@ -134,7 +230,6 @@
         "whatsappName": "1130715056"
       }
     },
-
     "tornillo_alvear": {
       "titulo": "Tornillo Alvear",
       "telefono": "341 336-1312",
@@ -227,16 +322,18 @@
       "parrafo": "<p><strong>Con su marca RERAR</strong> es fundada por <em>Don Luis Jorge Bryant</em> en el año <strong>1976</strong> para la fabricación y distribución de <strong>REMACHES RÁPIDOS</strong>. Desde entonces <strong>Romalus</strong> marcó su posicionamiento en todo el país por continuos <strong>40 años</strong> de abastecer a sus clientes, quienes reconocen su trabajo fundamentado desde los valores, como <strong>compromiso</strong>, <strong>respeto</strong> y <strong>confiabilidad</strong>. La visión de mantenerse con la mejora continua, consolidando permanencia y responsabilidad, ha llevado a <strong>Romalus</strong> a lograr la inserción en el comercio internacional por más de <strong>20 años</strong> en todo <strong>Latinoamérica</strong>, desde <strong>México</strong> hasta <strong>Argentina</strong>, y adquiriendo clientes en <strong>Sudáfrica</strong>. El notable desarrollo que despliega y el esfuerzo realizado hacen merecedora a la empresa metalúrgica productora de la <strong>certificación ISO 9001</strong> en <strong>noviembre del 2013</strong>, para la gestión y comercialización de remaches rápidos. Liderada actualmente por su <strong>segunda generación</strong> y <strong>tercera generación</strong>, mantienen una cultura empresarial de inversión y desarrollo permanente, generando mayor valor agregado a la economía y nuevos puestos de trabajo. La capacidad proactiva y el entusiasmo empujan a <strong>Romalus</strong> a adquirir bienes de capital y ampliar sus instalaciones. Tal es así que desde hace <strong>10 años</strong> crearon una nueva fábrica de <strong>tornillos</strong>, con la misma calidad, el mismo servicio y la misma atención familiar que desde siempre es valorada por todos sus clientes nacionales e internacionales.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/257/files/page/12.jpg",
-        "tapa2": "../emagazine/257/files/page/13.jpg",
-        "tapa3": "../emagazine/256/files/page/12.jpg",
-        "tapa4": "../emagazine/256/files/page/13.jpg",
-        "tapa5": "../emagazine/254/files/page/8.jpg",
-        "tapa6": "../emagazine/254/files/page/12.jpg",
-        "tapa7": "../emagazine/254/files/page/13.jpg",
-        "tapa8": "../emagazine/250/files/page/12.jpg",
-        "tapa9": "../emagazine/250/files/page/13.jpg",
-        "tapa10": "../emagazine/249/files/page/12.jpg"
+        "tapa1": "../emagazine/258/files/page/12.jpg",
+        "tapa2": "../emagazine/258/files/page/13.jpg",
+        "tapa3": "../emagazine/257/files/page/12.jpg",
+        "tapa4": "../emagazine/257/files/page/13.jpg",
+        "tapa5": "../emagazine/256/files/page/12.jpg",
+        "tapa6": "../emagazine/256/files/page/13.jpg",
+        "tapa7": "../emagazine/254/files/page/8.jpg",
+        "tapa8": "../emagazine/254/files/page/12.jpg",
+        "tapa9": "../emagazine/254/files/page/13.jpg",
+        "tapa10": "../emagazine/250/files/page/12.jpg",
+        "tapa11": "../emagazine/250/files/page/13.jpg",
+        "tapa12": "../emagazine/249/files/page/12.jpg"
       },
       "social": {
         "email": "ventas@rerar.com.ar",
@@ -418,10 +515,14 @@
       "parrafo": "<p>Cordoba Bulones SA es una empresa mayorista de bulonería y ferretería que ofrece una respuesta rapida a los comercios en el abastecimiento de productos lideres con una valiosa propuesta comercial. </br> Telefonos de contacto disponibles: <a href=\"tel:03514994173\" class=\"link-productos\"> 0351 499-4173 </a> | <a href=\"tel:03514994176\" class=\"link-productos\">0351 499-4176</a> | <a href=\"tel:03514994196\" class=\"link-productos\">0351 499-4196</a></p>",
       "catalogo": "https://cordobabulonessa.com.ar/catalogos/",
       "revista": {
-        "tapa1": "../emagazine/257/files/page/41.jpg",
-        "tapa2": "../emagazine/257/files/page/40.jpg",
-        "tapa3": "../emagazine/256/files/page/42.jpg",
-        "tapa4": "../emagazine/256/files/page/43.jpg"
+        "tapa1": "../emagazine/258/files/page/34.jpg",
+        "tapa2": "../emagazine/258/files/page/35.jpg",
+        "tapa3": "../emagazine/258/files/page/66.jpg",
+        "tapa4": "../emagazine/258/files/page/67.jpg",
+        "tapa5": "../emagazine/257/files/page/41.jpg",
+        "tapa6": "../emagazine/257/files/page/40.jpg",
+        "tapa7": "../emagazine/256/files/page/42.jpg",
+        "tapa8": "../emagazine/256/files/page/43.jpg"
       },
       "social": {
         "email": "administracion@cordobabulonessa.com.ar",
@@ -436,7 +537,6 @@
         "facebookName": ""
       }
     },
-
     "industria_segura": {
       "titulo": "Industria Segura",
       "telefono": "(011) 5463-6981",
@@ -456,7 +556,6 @@
         "whatsappName": "11 5463-6981"
       }
     },
-
     "maxifer": {
       "titulo": "Maxifer",
       "telefono": "(011) 5040-8378",
@@ -483,11 +582,10 @@
       "titulo": "Biassoni",
       "telefono": "03496 426195",
       "logo": "../imagenes/anunciantes/biassoni.gif",
-      "parrafo": "<p> Somos la marca líder de herramientas manuales cuyo crecimiento se basa en la innovación.</p>",
+      "parrafo": "<p><strong>En Biassoni</strong> diseñamos y fabricamos más de <strong>1.300 herramientas de mano</strong> para las industrias de la construcción, agrícola, frutihortícola y mecánica.<br><strong>Contamos con un equipo de 125 personas</strong> distribuidas en 4 plantas fabriles y depósitos, con una superficie cubierta total de <strong>7.800 m²</strong>.<br><strong>Más de 75 años de trabajo ininterrumpido</strong> nos posiciona como referente de la industria nacional Argentina, asentados en el compromiso por la innovación y la calidad.<br></p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "",
-        "tapa2": ""
+        "tapa1": "../emagazine/258/files/page/23.jpg"
       },
       "social": {
         "email": "web@biassoni.com.ar",
@@ -524,7 +622,8 @@
       "parrafo": "<p>Fábrica de Bulones y Tuercas para Ruedas Arandelas - Espárragos - Conos - Llaves de rueda - Camiones - Acoplados - Tractores - Coches - Pick-Up - Deportivos para llantas de aleación liviana - Cromados y Cincados</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../micro-sitios/img/Mguillon-225.jpg"
+        "tapa1": "../emagazine/258/files/page/25.jpg",
+        "tapa2": "../micro-sitios/img/Mguillon-225.jpg"
       },
       "social": {
         "email": "administracion@img-srl.com.ar",
@@ -535,7 +634,6 @@
         "whatsappName": ""
       }
     },
-
     "wadfow": {
       "titulo": "Wadfow",
       "telefono": "1131532223",
@@ -561,7 +659,6 @@
         "facebookName": "@wadfowargentina"
       }
     },
-
     "bulmetal": {
       "titulo": "Bulmetal",
       "telefono": "(011) 4641-6499",
@@ -623,10 +720,11 @@
       "parrafo": "",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/256/files/page/81.jpg",
-        "tapa2": "../emagazine/254/files/page/65.jpg",
-        "tapa3": "../emagazine/253/files/page/22.jpg",
-        "tapa4": "../emagazine/242/files/page/32.jpg"
+        "tapa1": "../emagazine/258/files/page/71.jpg",
+        "tapa2": "../emagazine/256/files/page/81.jpg",
+        "tapa3": "../emagazine/254/files/page/65.jpg",
+        "tapa4": "../emagazine/253/files/page/22.jpg",
+        "tapa5": "../emagazine/242/files/page/32.jpg"
       },
       "social": {
         "email": "ventas2@joldensa.com",
@@ -863,19 +961,19 @@
       "parrafo": "<p>Somos una empresa familiar dedicada a la venta mayorista de artículos para ferreterías, buloneras, corralones, pinturerías y casas de sanitarios. Nuestro servicio se basa en el asesoramiento y atención personalizada con un trato confiable y eficaz. Nos avala una trayectoria desde el año 1984 en el mercado.</p><p>El respeto, la dedicación y la responsabilidad para cumplir con las normas de trabajo son los ejemplos heredados y base motor de nuestro crecimiento.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/257/files/page/78.jpg",
-        "tapa2": "../emagazine/255/files/page/81.jpg",
-        "tapa3": "../emagazine/247/files/page/72.jpg",
-        "tapa4": "../emagazine/246/files/page/78.jpg",
-        "tapa5": "../emagazine/245/files/page/78.jpg",
-        "tapa6": "../emagazine/242/files/page/56.jpg",
-        "tapa7": "../emagazine/241/files/page/66.jpg",
-        "tapa8": "../emagazine/240/files/page/61.jpg",
-        "tapa9": "../emagazine/236/files/mobile/42.jpg",
-        "tapa10": "../emagazine/236/files/mobile/43.jpg",
-        "tapa11": "../emagazine/235/files/mobile/68.jpg",
-        "tapa12": "../emagazine/235/files/mobile/69.jpg",
-        "tapa13": "../emagazine/234/files/mobile/50.jpg"
+        "tapa1": "../emagazine/258/files/page/88.jpg",
+        "tapa2": "../emagazine/257/files/page/78.jpg",
+        "tapa3": "../emagazine/255/files/page/81.jpg",
+        "tapa4": "../emagazine/247/files/page/72.jpg",
+        "tapa5": "../emagazine/246/files/page/78.jpg",
+        "tapa6": "../emagazine/245/files/page/78.jpg",
+        "tapa7": "../emagazine/242/files/page/56.jpg",
+        "tapa8": "../emagazine/241/files/page/66.jpg",
+        "tapa9": "../emagazine/240/files/page/61.jpg",
+        "tapa10": "../emagazine/236/files/mobile/42.jpg",
+        "tapa11": "../emagazine/236/files/mobile/43.jpg",
+        "tapa12": "../emagazine/235/files/mobile/68.jpg",
+        "tapa13": "../emagazine/235/files/mobile/69.jpg"
       },
       "social": {
         "email": "contactoaddo@gmail.com",

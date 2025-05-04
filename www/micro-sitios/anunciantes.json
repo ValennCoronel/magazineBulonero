@@ -120,26 +120,30 @@
     "pittor": {
       "titulo": "Pittor",
       "telefono": "",
-      "logo": "",
-      "parrafo": "",
+      "logo": "../imagenes/anunciantes/pit-tor.gif",
+      "parrafo": "<p>Muchos años de historia con una clara vocación de aportar soluciones y propuestas de valor a la industria en sus diversos campos de especialidades tanto en el suministro de productos y componentes como en los servicios técnicos y logísticos asociados a los mismos.</p>",
       "catalogo": "",
-      "revista": {},
+      "revista": {
+        "tapa1":"../micro-sitios/img/PITTOR-250.jpg"
+      },
       "social": {
         "email": "tornillospittor@gmail.com",
         "mailto": "mailto:tornillospittor@gmail.com?subject=Contacto Magazine Bulonero",
         "web": "https://tornillospittor.com/",
         "webtxt": "",
         "whatsapp": "https://wa.me/5491135123838/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
-        "whatsappName": ""
+        "whatsappName": "1135123838"
       }
     },
     "corradini": {
       "titulo": "Corradini",
       "telefono": "",
-      "logo": "",
+      "logo": "../imagenes/anunciantes/corradini.jpg",
       "parrafo": "<p><b>Corradini Remaches</b> es una empresa fundada en <b>1984</b> dedicada a producir elementos de fijación por conformado en frío.<br><br><b>Servicio y liderazgo</b> en remaches para cintas de freno y discos de embrague.<br><br>Corradini Remaches es <b>líder del mercado argentino</b>, abasteciendo más del <b>70%</b> del mismo.<br><br>Este liderazgo se sostiene mediante una política de empresa que consiste en mantener una excelente calidad en sus productos, stock completo y permanente, entrega inmediata y una constante adaptación a las necesidades del mercado.<br><br>La <b>continuidad y tradición familiar</b> les ha permitido armonizar dos generaciones, la experiencia del adulto y el impulso innovador de la juventud. Contando con máquinas modernas y personal especializado, lo que hace posible brindar a sus clientes un gran marco de productos, con amplio stock en medidas estándar y piezas especiales.</p>",
       "catalogo": "",
-      "revista": {},
+      "revista": {
+        "tapa1":"../micro-sitios/img/corradini-241.jpg"
+      },
       "social": {
         "email": "cr@corradiniremaches.com.ar",
         "mailto": "mailto:cr@corradiniremaches.com.ar?subject=Contacto Magazine Bulonero",
@@ -1178,6 +1182,49 @@
         "facebookName": "lijashunterok"
       }
     },
+    "crimaral": {
+      "titulo": "Crimaral",
+      "telefono": "1126621815",
+      "logo": "../imagenes/anunciantes/crimaral.jpg",
+      "parrafo": "<p><strong>Crimaral</strong> es una empresa familiar nacida en el año <strong>1961</strong> dedicada a la distribución de herramientas y maquinarias de mano en la <strong>República Argentina</strong>.<br>Tiene su local comercial y centro de distribución ubicado en la localidad de <strong>José Ingenieros</strong>, Partido de <strong>Tres de Febrero</strong>, Provincia de <strong>Buenos Aires</strong>, un lugar de fácil y rápido acceso muy cerca tanto de la <strong>Capital Federal</strong> así como de cualquier localidad del <strong>Gran Buenos Aires</strong>.<br>Dispone de un amplio catálogo de productos que incluye más de <strong>7.000 artículos</strong> y las principales marcas del ramo. En general son empresas de primer nivel tanto <strong>internacionales</strong> como <strong>nacionales</strong>, casi todas con calificación <strong>ISO</strong>. Incluye una selección de productos de calidad que permiten atender las necesidades de <strong>usuarios exigentes</strong> a <strong>precios competitivos</strong>.</p>",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../emagazine/249/files/page/57.jpg",
+        "tapa2": "../emagazine/250/files/page/59.jpg",
+        "tapa3": "../emagazine/251/files/page/59.jpg",
+        "tapa4": "../emagazine/252/files/page/79.jpg",
+        "tapa5": "../emagazine/253/files/page/65.jpg",
+        "tapa6": "../emagazine/254/files/page/57.jpg",
+        "tapa7": "../emagazine/255/files/page/57.jpg",
+        "tapa10": "../emagazine/258/files/page/73.jpg"
+      },
+      "social": {
+        "email": "ventas@crimaral.com.ar",
+        "mailto": "mailto:ventas@crimaral.com.ar?subject=Contacto Magazine Bulonero",
+        "whatsapp": "https://wa.me/5491126621815/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "5491126621815",
+        "web": "http://www.crimaral.com/",
+        "webtxt": "www.crimaral.com"
+      }
+    },
+    "rempark": {
+      "titulo": "Rempark",
+      "telefono": "1169631690",
+      "logo": "../imagenes/anunciantes/rempark.gif",
+      "parrafo": "<p>Con más de <strong>40 años de experiencia</strong> Rempark brinda la mejor asistencia técnica, asesoramiento, y la información necesaria para cada nuevo proyecto.<br>Nuestra empresa cuenta con <strong>instrumentos de última generación</strong> al servicio del cliente, para realizar los controles necesarios y asegurar que el producto cumpla con todos los requerimientos que la <strong>industria exige</strong>.<br>En Rempark <strong>fabricamos productos de calidad</strong>.</p>",
+      "catalogo": "",
+      "revista": {
+        "tapa1": "../micro-sitios/img/rempark-257.jpg"
+      },
+      "social": {
+        "email": "info@remparksrl.com.ar",
+        "mailto": "mailto:info@remparksrl.com.ar?subject=Contacto Magazine Bulonero",
+        "whatsapp": "https://wa.me/5491169631690/?text=Contacto%20Desde%20Magazine%20Bulonero%20Digital",
+        "whatsappName": "5491169631690",
+        "web": "https://www.remparksrl.com.ar/",
+        "webtxt": "www.remparksrl.com.ar"
+      }
+    },
     "jucap": {
       "titulo": "Jucap",
       "telefono": "(011) 2342-6703",
@@ -1674,9 +1721,9 @@
     },
     "bules": {
       "titulo": "Bules S.R.L",
-      "telefono": "",
+      "telefono": "4206-2297",
       "logo": "../imagenes/anunciantes/bules.gif",
-      "parrafo": "<p><strong>Bules SRL</strong><br>Calidad basado en la norma ISO 9002<br>Bulones Cabeza Hexagonal<br>Bulones Cabeza Cuadrada<br>Bulones Allen<br>Bulones de Anclaje<br>Espárragos<br>Varilla Roscada<br>Tuercas<br>Aceros Especiales e Inoxidable</p>",
+      "parrafo": "<p><strong>Bules SRL</strong><br>Calidad basado en la norma ISO 9002<br>Bulones Cabeza Hexagonal<br>Bulones Cabeza Cuadrada<br>Bulones Allen<br>Bulones de Anclaje<br>Espárragos<br>Varilla Roscada<br>Tuercas<br>Aceros Especiales e Inoxidable <br> Telefonos de contacto: <a href=\"tel:+541142062297\" >4206-2297 </a> y <a href=\"tel:+541143534236\" >4353-4236 </a> </p>",
       "catalogo": "",
       "revista": {
         "tapa1": "img/bulessrl_246.jpg",

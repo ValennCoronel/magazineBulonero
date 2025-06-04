@@ -40,12 +40,13 @@
       "parrafo": "<p>Fundada hace más de cincuenta años, ha dedicado siempre todo su esfuerzo a la fabricación de Abrazaderas. Con la llegada a nuestro país de la Industria Automotriz ha sabido ganarse la confianza de las mismas, continuando nuestros avances en mercados como los de reposición automotriz y ferretera, industria naval, alimenticia y agrícolas. <br> Características que nos permiten ser el más importante especialista de Abrazaderas en el mercado local. <br> Nuestra planta cuenta con maquinarias y herramientas de última tecnología europea, lo cual le otorga al producto un altísimo grado de confiabilidad. Así mismo cada modelo de abrazadera sufre un complejo proceso antes de su salida al mercado, simulando las condiciones de utilización más adversas. En consecuencia nos hemos equipado con los medio técnicos necesarios, que comprenden un importante desarrollo informático, como así también, con bancos de ensayo altamente especializado y con la capacitación de todo nuestro personal en todos los temas relativos a la calidad y mejora continua. Eso nos ha dado él más alto reconocimiento reflejado en las calificaciones de nuestro sistema de calidad, y como consecuencia, hemos obtenido la certificación por décimo año consecutivo de la norma ISO 9001, siendo en su rubro la primera fábrica de abrazaderas en Argentina en alcanzar dichos galardón. <br> En lo que respecta al mercado internacional, nuestro producto se va insertando con gran aceptación y reconocimiento en los diferentes países, nuestros departamentos de Aseguramiento de Calidad y Técnico – Desarrollo está disponible para resolver cualquier inquietud, dificultad o requerimiento en lo que su materia respecta, nuestros departamentos de ventas están en continuo contacto para asesorarlo sobre todos nuestros productos. <br> Sobre la base de las exigencias actuales y la experiencia que los años otorgo a la a la empresa, nos desarrollamos y avanzamos tecnológicamente FABRICANDO UNA ABRAZADERAS PARA CADA NESESIDAD.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/258/files/page/79.jpg",
-        "tapa2": "../emagazine/256/files/page/67.jpg",
-        "tapa3": "../emagazine/255/files/page/27.jpg",
-        "tapa4": "../emagazine/253/files/page/1.jpg",
-        "tapa5": "../emagazine/250/files/page/32.jpg",
-        "tapa6": "../emagazine/247/files/page/48.jpg"
+        "tapa1": "../emagazine/259/files/page/55.jpg",
+        "tapa2": "../emagazine/258/files/page/79.png",
+        "tapa3": "../emagazine/256/files/page/67.jpg",
+        "tapa4": "../emagazine/255/files/page/27.jpg",
+        "tapa5": "../emagazine/253/files/page/1.jpg",
+        "tapa6": "../emagazine/250/files/page/32.jpg",
+        "tapa7": "../emagazine/247/files/page/48.jpg"
       },
       "social": {
         "email": "perfecto@abrazaderas",
@@ -103,6 +104,8 @@
       "parrafo": "<p><b>Somos importadores directos</b><br><br>Más de <b>5.000 artículos</b> a disposición del mercado ferretero.<br><br><b>ALTOS OBJETIVOS</b><br>Apuntamos alto, con el objetivo de brindar un servicio de excelencia en todo el país. Nuestras representaciones son marcas de calidad, poseen productos diseñados para brindar una solución robusta a costos eficientes para los consumidores y el mercado en general. Herramientas y máquinas que duran, que buscan superar el estándar.<br><br><b>Equipo</b><br>Somos un equipo de profesionales que trabaja dinámicamente para superar las expectativas de nuestro servicio. Siempre a disposición de cada cliente para poder impulsar su negocio con una gestión simple y eficaz.</p>",
       "catalogo": "",
       "revista": {
+        "tapa1": "../emagazine/259/files/page/29.jpg",
+        "tapa2": "../emagazine/258/files/page/47.jpg"
       },
       "social": {
         "email": "ventas@bluetoolssrl.com.ar",
@@ -295,16 +298,18 @@
       "parrafo": "<p>Nace en el año 2002, fundada por el Sr. Darío Godoy y la Señora Isabel Domínguez. De sus nombres se desprende el nombre de la empresa. Una empresa familiar, como marca la historia de la metalúrgica en nuestro país que comienza con el sueño de un hombre, en este caso de una pareja, al que años más tarde se van sumando sus hijos. Se los nota agradecidos de sus clientes y proveedores y orgullos de sus logros, a base de compromiso y trabajo. Y sobre todo, a pesar de las dificultades que siempre acarrea la economía argentina, por ser una empresa de producción nacional que genera trabajo en nuestro querido país.</p> <p>Somos la fábrica de tirafondos más importante de Argentina. Nos destacamos por tener un producto de excelencia. El control de calidad, desde la materia prima Sipar Gerdau, garantía absoluta, pasando por los procesos de fabricación y hasta los tratamientos térmicos, es fundamental para que no se parta la cabeza ni se doblen. Confiar en el producto es algo muy valioso para el usuario. <br> Nuestros productos se comercializan en todo el país. No tenemos vendedores. Es venta directa, ya que nuestros clientes nos conocen desde hace varios años y confían en nuestros productos y nuestro servicio.</p>",
       "catalogo": "../emagazine/cat/buldar-isadar_catalogo.pdf",
       "revista": {
-        "tapa1": "../emagazine/256/files/page/11.jpg",
-        "tapa2": "../emagazine/255/files/page/11.jpg",
-        "tapa3": "../emagazine/254/files/page/10.jpg",
-        "tapa4": "../emagazine/254/files/page/11.jpg",
-        "tapa5": "../emagazine/251/files/page/1.jpg",
-        "tapa6": "../emagazine/251/files/page/10.jpg",
-        "tapa7": "../emagazine/251/files/page/11.jpg",
-        "tapa8": "../emagazine/249/files/page/9.jpg",
-        "tapa9": "../emagazine/249/files/page/10.jpg",
-        "tapa10": "../emagazine/243/files/page/1.jpg"
+        "tapa1": "../emagazine/259/files/page/1.jpg",
+        "tapa2": "../emagazine/259/files/page/10.jpg",
+        "tapa3": "../emagazine/259/files/page/11.jpg",
+        "tapa4": "../emagazine/256/files/page/11.jpg",
+        "tapa5": "../emagazine/255/files/page/11.jpg",
+        "tapa6": "../emagazine/254/files/page/10.jpg",
+        "tapa7": "../emagazine/254/files/page/11.jpg",
+        "tapa8": "../emagazine/251/files/page/1.jpg",
+        "tapa9": "../emagazine/251/files/page/10.jpg",
+        "tapa10": "../emagazine/251/files/page/11.jpg",
+        "tapa11": "../emagazine/249/files/page/9.jpg",
+        "tapa12": "../emagazine/249/files/page/10.jpg"
       },
       "social": {
         "email": "tirafondos_isadar@hotmail.com",
@@ -326,18 +331,20 @@
       "parrafo": "<p><strong>Con su marca RERAR</strong> es fundada por <em>Don Luis Jorge Bryant</em> en el año <strong>1976</strong> para la fabricación y distribución de <strong>REMACHES RÁPIDOS</strong>. Desde entonces <strong>Romalus</strong> marcó su posicionamiento en todo el país por continuos <strong>40 años</strong> de abastecer a sus clientes, quienes reconocen su trabajo fundamentado desde los valores, como <strong>compromiso</strong>, <strong>respeto</strong> y <strong>confiabilidad</strong>. La visión de mantenerse con la mejora continua, consolidando permanencia y responsabilidad, ha llevado a <strong>Romalus</strong> a lograr la inserción en el comercio internacional por más de <strong>20 años</strong> en todo <strong>Latinoamérica</strong>, desde <strong>México</strong> hasta <strong>Argentina</strong>, y adquiriendo clientes en <strong>Sudáfrica</strong>. El notable desarrollo que despliega y el esfuerzo realizado hacen merecedora a la empresa metalúrgica productora de la <strong>certificación ISO 9001</strong> en <strong>noviembre del 2013</strong>, para la gestión y comercialización de remaches rápidos. Liderada actualmente por su <strong>segunda generación</strong> y <strong>tercera generación</strong>, mantienen una cultura empresarial de inversión y desarrollo permanente, generando mayor valor agregado a la economía y nuevos puestos de trabajo. La capacidad proactiva y el entusiasmo empujan a <strong>Romalus</strong> a adquirir bienes de capital y ampliar sus instalaciones. Tal es así que desde hace <strong>10 años</strong> crearon una nueva fábrica de <strong>tornillos</strong>, con la misma calidad, el mismo servicio y la misma atención familiar que desde siempre es valorada por todos sus clientes nacionales e internacionales.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/258/files/page/12.jpg",
-        "tapa2": "../emagazine/258/files/page/13.jpg",
-        "tapa3": "../emagazine/257/files/page/12.jpg",
-        "tapa4": "../emagazine/257/files/page/13.jpg",
-        "tapa5": "../emagazine/256/files/page/12.jpg",
-        "tapa6": "../emagazine/256/files/page/13.jpg",
-        "tapa7": "../emagazine/254/files/page/8.jpg",
-        "tapa8": "../emagazine/254/files/page/12.jpg",
-        "tapa9": "../emagazine/254/files/page/13.jpg",
-        "tapa10": "../emagazine/250/files/page/12.jpg",
-        "tapa11": "../emagazine/250/files/page/13.jpg",
-        "tapa12": "../emagazine/249/files/page/12.jpg"
+        "tapa1": "../emagazine/259/files/page/13.jpg",
+        "tapa2": "../emagazine/259/files/page/12.jpg",
+        "tapa3": "../emagazine/258/files/page/12.jpg",
+        "tapa4": "../emagazine/258/files/page/13.jpg",
+        "tapa5": "../emagazine/257/files/page/12.jpg",
+        "tapa6": "../emagazine/257/files/page/13.jpg",
+        "tapa7": "../emagazine/256/files/page/12.jpg",
+        "tapa8": "../emagazine/256/files/page/13.jpg",
+        "tapa9": "../emagazine/254/files/page/8.jpg",
+        "tapa10": "../emagazine/254/files/page/12.jpg",
+        "tapa11": "../emagazine/254/files/page/13.jpg",
+        "tapa12": "../emagazine/250/files/page/12.jpg",
+        "tapa13": "../emagazine/250/files/page/13.jpg",
+        "tapa14": "../emagazine/249/files/page/12.jpg"
       },
       "social": {
         "email": "ventas@rerar.com.ar",
@@ -431,18 +438,19 @@
       "parrafo": "<p><strong>Es la marca emblemática en la cartera de Caterpillar</strong> y una de las más valiosas del mundo. Las <strong>máquinas y motores CAT</strong> son ampliamente reconocidos como productos excepcionales por su <strong>calidad</strong> y <strong>fiabilidad superiores</strong>. A nivel mundial, el logotipo de CAT se convirtió en un <strong>ícono</strong>, a menudo usado como una insignia que simboliza el <strong>trabajo duro</strong>, el <strong>coraje</strong> y la <strong>determinación</strong> para completar el trabajo. La nueva línea de <strong>CAT Power Tools</strong> cubre una amplia variedad de productos que vas a poder conocer a través de <strong>Kalydon Tools</strong>. <a href=\"https://www.kalydon.com.ar/puntos-de-venta-cat\">PUNTOS DE VENTA</a></p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/257/files/page/65.jpg",
-        "tapa2": "../emagazine/256/files/page/35.jpg",
-        "tapa3": "../emagazine/255/files/page/33.jpg",
-        "tapa4": "../emagazine/250/files/page/14.jpg",
-        "tapa5": "../emagazine/246/files/page/15.jpg",
-        "tapa6": "../emagazine/243/files/page/51.jpg",
-        "tapa7": "../emagazine/242/files/page/13.jpg",
-        "tapa8": "../emagazine/240/files/page/19.jpg",
-        "tapa9": "../emagazine/238/files/page/57.jpg",
-        "tapa10": "../emagazine/236/files/mobile/17.jpg",
-        "tapa11": "../emagazine/234/files/mobile/13.jpg",
-        "tapa12": "../emagazine/233/files/mobile/1.jpg"
+        "tapa1": "../emagazine/259/files/page/14.jpg",
+        "tapa2": "../emagazine/257/files/page/65.jpg",
+        "tapa3": "../emagazine/256/files/page/35.jpg",
+        "tapa4": "../emagazine/255/files/page/33.jpg",
+        "tapa5": "../emagazine/250/files/page/14.jpg",
+        "tapa6": "../emagazine/246/files/page/15.jpg",
+        "tapa7": "../emagazine/243/files/page/51.jpg",
+        "tapa8": "../emagazine/242/files/page/13.jpg",
+        "tapa9": "../emagazine/240/files/page/19.jpg",
+        "tapa10": "../emagazine/238/files/page/57.jpg",
+        "tapa11": "../emagazine/236/files/mobile/17.jpg",
+        "tapa12": "../emagazine/234/files/mobile/13.jpg",
+        "tapa13": "../emagazine/233/files/mobile/1.jpg"
       },
       "social": {
         "email": "gestioncomercial@kalydon.com.ar",
@@ -492,12 +500,13 @@
       "parrafo": "<p><strong>Building the future together.</strong><br><br>♦ Fundada en <strong>1951 en Cataluña</strong>, Rubí es una <strong>empresa global</strong> que actualmente diseña, fabrica y distribuye <strong>maquinaria y herramientas</strong> para el corte, colocación y mantenimiento de la cerámica.<br><br>♦ Tiene presencia en más de <strong>120 países</strong> y una importante red de <strong>filiales y sucursales</strong> en todo el mundo.<br><br>♦ A través de <strong>Kalydon Tools</strong> vas a poder conocer la gama <strong>RUBI</strong>, en permanente evolución de acuerdo a los cambios en los materiales y sus aplicaciones.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/257/files/page/14.jpg",
-        "tapa2": "../emagazine/255/files/page/51.jpg",
-        "tapa3": "../emagazine/250/files/page/45.jpg",
-        "tapa4": "../emagazine/240/files/page/45.jpg",
-        "tapa5": "../emagazine/237/files/page/15.jpg",
-        "tapa6": "../emagazine/234/files/mobile/21.jpg"
+        "tapa1": "../emagazine/259/files/page/39.jpg",
+        "tapa2": "../emagazine/257/files/page/14.jpg",
+        "tapa3": "../emagazine/255/files/page/51.jpg",
+        "tapa4": "../emagazine/250/files/page/45.jpg",
+        "tapa5": "../emagazine/240/files/page/45.jpg",
+        "tapa6": "../emagazine/237/files/page/15.jpg",
+        "tapa7": "../emagazine/234/files/mobile/21.jpg"
       },
       "social": {
         "email": "info@kalydontools.com.ar",
@@ -519,14 +528,16 @@
       "parrafo": "<p>Cordoba Bulones SA es una empresa mayorista de bulonería y ferretería que ofrece una respuesta rapida a los comercios en el abastecimiento de productos lideres con una valiosa propuesta comercial. </br> Telefonos de contacto disponibles: <a href=\"tel:03514994173\" class=\"link-productos\"> 0351 499-4173 </a> | <a href=\"tel:03514994176\" class=\"link-productos\">0351 499-4176</a> | <a href=\"tel:03514994196\" class=\"link-productos\">0351 499-4196</a></p>",
       "catalogo": "https://cordobabulonessa.com.ar/catalogos/",
       "revista": {
-        "tapa1": "../emagazine/258/files/page/34.jpg",
-        "tapa2": "../emagazine/258/files/page/35.jpg",
-        "tapa3": "../emagazine/258/files/page/66.jpg",
-        "tapa4": "../emagazine/258/files/page/67.jpg",
-        "tapa5": "../emagazine/257/files/page/41.jpg",
-        "tapa6": "../emagazine/257/files/page/40.jpg",
-        "tapa7": "../emagazine/256/files/page/42.jpg",
-        "tapa8": "../emagazine/256/files/page/43.jpg"
+        "tapa1": "../emagazine/259/files/page/34.jpg",
+        "tapa2": "../emagazine/259/files/page/35.jpg",
+        "tapa3": "../emagazine/258/files/page/34.jpg",
+        "tapa4": "../emagazine/258/files/page/35.jpg",
+        "tapa5": "../emagazine/258/files/page/66.jpg",
+        "tapa6": "../emagazine/258/files/page/67.jpg",
+        "tapa7": "../emagazine/257/files/page/41.jpg",
+        "tapa8": "../emagazine/257/files/page/40.jpg",
+        "tapa9": "../emagazine/256/files/page/42.jpg",
+        "tapa10": "../emagazine/256/files/page/43.jpg"
       },
       "social": {
         "email": "administracion@cordobabulonessa.com.ar",
@@ -675,8 +686,7 @@
         "tapa3": "../emagazine/238/files/page/28.jpg",
         "tapa4": "../emagazine/238/files/page/29.jpg",
         "tapa5": "../emagazine/233/files/mobile/29.jpg",
-        "tapa6": "../emagazine/232/files/mobile/36.jpg",
-        "tapa7": "../emagazine/232/files/mobile/37.jpg"
+        "tapa6": "../emagazine/232/files/mobile/36.jpg"
       },
       "social": {
         "email": "info@bmbulmetal.com.ar",
@@ -773,9 +783,10 @@
       "parrafo": "<p>En el año 1988, como resultado de una alianza estratégica con los principales fabricantes de herramientas diamantadas del mundo -con sede en Japón, Corea y Estados Unidos- se radica en Argentina <strong>Aliafor S.A.</strong></p><p>La cultura de la calidad y el respeto por el consumidor, combinados con un modelo comunicacional vanguardista, lograron en poco tiempo que la primera línea lanzada al mercado de la construcción – Herramientas Diamantadas Aliafor – sea un producto al alcance de todos los usuarios de la construcción en momentos en que su comercialización estaba limitada, casi exclusivamente, al segmento profesional del procesamiento de piedras y otros minerales.</p><p>La clave del éxito, de esta empresa que nunca detuvo su crecimiento, fue y seguirá siendo el estricto respeto de cada uno de los integrantes de la cadena de comercialización: Proveedores-Aliafor-Comerciantes-Consumidores; y el doble control de calidad realizado a cada uno de los productos que se ponen a disposición del consumidor. Tanto en los centros de producción como en la sede en Argentina.</p><p>La fidelidad, en su estrategia de incorporar constantemente nuevas tecnologías, dieron origen también a otras líneas de productos de gran presencia en el mercado de la construcción como <strong>Patroll</strong>, <strong>Bravo</strong>, <strong>Pampa</strong>, <strong>Venturo</strong> y <strong>Pegaso</strong>.</p><p>El liderazgo de la empresa se manifiesta constantemente con el lanzamiento de nuevos productos alimentando año a año su reconocido slogan \"MARCANDO EL CAMINO\".</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/241/files/page/14.jpg",
-        "tapa2": "../emagazine/237/files/page/43.jpg",
-        "tapa3": "../emagazine/236/files/mobile/45.jpg"
+        "tapa1": "../emagazine/259/files/page/23.jpg",
+        "tapa2": "../emagazine/241/files/page/14.jpg",
+        "tapa3": "../emagazine/237/files/page/43.jpg",
+        "tapa4": "../emagazine/236/files/mobile/45.jpg"
       },
       "social": {
         "email": "info@aliafor.com",
@@ -965,19 +976,20 @@
       "parrafo": "<p>Somos una empresa familiar dedicada a la venta mayorista de artículos para ferreterías, buloneras, corralones, pinturerías y casas de sanitarios. Nuestro servicio se basa en el asesoramiento y atención personalizada con un trato confiable y eficaz. Nos avala una trayectoria desde el año 1984 en el mercado.</p><p>El respeto, la dedicación y la responsabilidad para cumplir con las normas de trabajo son los ejemplos heredados y base motor de nuestro crecimiento.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/258/files/page/88.jpg",
-        "tapa2": "../emagazine/257/files/page/78.jpg",
-        "tapa3": "../emagazine/255/files/page/81.jpg",
-        "tapa4": "../emagazine/247/files/page/72.jpg",
-        "tapa5": "../emagazine/246/files/page/78.jpg",
-        "tapa6": "../emagazine/245/files/page/78.jpg",
-        "tapa7": "../emagazine/242/files/page/56.jpg",
-        "tapa8": "../emagazine/241/files/page/66.jpg",
-        "tapa9": "../emagazine/240/files/page/61.jpg",
-        "tapa10": "../emagazine/236/files/mobile/42.jpg",
-        "tapa11": "../emagazine/236/files/mobile/43.jpg",
-        "tapa12": "../emagazine/235/files/mobile/68.jpg",
-        "tapa13": "../emagazine/235/files/mobile/69.jpg"
+        "tapa1": "../emagazine/259/files/page/68.jpg",
+        "tapa2": "../emagazine/258/files/page/88.jpg",
+        "tapa3": "../emagazine/257/files/page/78.jpg",
+        "tapa4": "../emagazine/255/files/page/81.jpg",
+        "tapa5": "../emagazine/247/files/page/72.jpg",
+        "tapa6": "../emagazine/246/files/page/78.jpg",
+        "tapa7": "../emagazine/245/files/page/78.jpg",
+        "tapa8": "../emagazine/242/files/page/56.jpg",
+        "tapa9": "../emagazine/241/files/page/66.jpg",
+        "tapa10": "../emagazine/240/files/page/61.jpg",
+        "tapa11": "../emagazine/236/files/mobile/42.jpg",
+        "tapa12": "../emagazine/236/files/mobile/43.jpg",
+        "tapa13": "../emagazine/235/files/mobile/68.jpg",
+        "tapa14": "../emagazine/235/files/mobile/69.jpg"
       },
       "social": {
         "email": "contactoaddo@gmail.com",
@@ -999,8 +1011,9 @@
       "parrafo": "<p>Un respaldo de mas de 30 años de experiencia en la fabricación de bulones y anclajes de primera calidad para obras de construcción e instalaciones.</br>Broca de Expansion tipo IM, somos importadores, el mejor precio y la mejor calidad. </br>Nuestros Productos </br>Anclas de expansión interna.- Modelo THB (tipo IM).</br>Bulones de expansión - Modelo BECS.</br>Bulones de expansión – Modelo BECC.</br>Bulones de expansión – Modelo BECP (tipo MR).</br>Fijaciones especiales segun proyecto de obra.</br>Cuplas de union de varillas.</br>Varillas roscadas cincadas.</br>Mechas de widia para hormigon.</br>Fijación para muro ventilado (marmol) – Modelo FMV.</br>Precintos plasticos.</br>Grampas.</br>Mechas copa y de acero rapido.</br>Maquinas y herramientas de corte.</br>Tornilleria, buloneria y sus accesorios (standard y de alta resistencia).</br>Tarugos de nylon.</br>Tornillos autoperforantes.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/247/files/page/40.jpg",
-        "tapa2": "../imagenes/oportunidades/eefe_fijaciones-oportunidad.jpg"
+        "tapa1": "../emagazine/259/files/page/33.jpg",
+        "tapa2": "../emagazine/247/files/page/40.jpg",
+        "tapa3": "../imagenes/oportunidades/eefe_fijaciones-oportunidad.jpg"
       },
       "social": {
         "email": "info@eefefijaciones.com.ar",
@@ -1134,9 +1147,10 @@
       "parrafo": "<p><strong>Fatan SA</strong><br>Nuestra Empresa se inicia en 1950 en un galpón con pisos de tierra apisonada en la localidad de Ciudadela, provincia de Buenos Aires. Allí donde don Nestor Alfredo Mazzola comienza con la fabricación de los tornillos con hexágono embutido y va adquiriendo lentamente tornos automáticos y máquinas para aumentar la producción.<br>En el año 1966 se incorpora a la sociedad Carlos Callea, aportando sus ganas e iniciativa para seguir creciendo.<br>Con la llegada de los '70 se inicia la fabricación de varillas roscadas. A partir de la necesidad de fabricar los llamados \"gusanitos\" surge esta novedad dado que los mismos se cortaban manualmente regulando sus medidas con el uso de los tornos automáticos.<br>La primera marca fue TIDAN, así se conocieron nuestros productos; recién en 1972 la firma se consolida como FATAN SA y con posterioridad a ello, se adquiere el predio donde actualmente funciona la fábrica.<br>Llegamos al siglo XXI con las mismas ganas de crecer y brindar a nuestros clientes lo mejor de nosotros para seguir siendo quienes somos. Gracias a nuestra trayectoria y a la calidad de nuestros productos FATAN, no solamente es reconocido en nuestro país, sino que lentamente ingresa como marca en el MERCOSUR, valiéndonos de un nuevo mercado a conocer y explotar con las mismas premisas de calidad y servicio.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/250/files/page/29.jpg",
-        "tapa2": "../emagazine/240/files/page/34.jpg",
-        "tapa3": "../emagazine/239/files/page/25.jpg"
+        "tapa1": "../emagazine/256/files/page/57.jpg",
+        "tapa2": "../emagazine/257/files/page/46.jpg",
+        "tapa3": "../emagazine/258/files/page/57.jpg",
+        "tapa4": "../emagazine/259/files/page/98.jpg"
       },
       "social": {
         "email": "info@fatansa.com.ar",
@@ -1196,7 +1210,7 @@
         "tapa5": "../emagazine/253/files/page/65.jpg",
         "tapa6": "../emagazine/254/files/page/57.jpg",
         "tapa7": "../emagazine/255/files/page/57.jpg",
-        "tapa10": "../emagazine/258/files/page/73.jpg"
+        "tapa8": "../emagazine/258/files/page/73.jpg"
       },
       "social": {
         "email": "ventas@crimaral.com.ar",
@@ -1257,12 +1271,11 @@
       "revista": {
         "tapa1": "../emagazine/257/files/page/1.jpg",
         "tapa2": "../emagazine/245/files/page/1.jpg",
-        "tapa3": "../emagazine/241/files/page/1.jpg",
-        "tapa4": "../emagazine/234/files/mobile/21.jpg"
+        "tapa3": "../emagazine/241/files/page/1.jpg"
       },
       "social": {
-        "email": "kalydontools@yahoo.com.ar",
-        "mailto": "mailto:kalydontools@yahoo.com.ar?subject=Contacto Magazine Bulonero",
+        "email": "info@kalydontools.com.ar",
+        "mailto": "mailto:info@kalydontools.com.ar?subject=Contacto Magazine Bulonero",
         "web": "https://www.kalydon.com.ar",
         "webtxt": "www.kalydon.com.ar",
         "instagram": "https://www.instagram.com/kalydon.arg/",
@@ -1303,8 +1316,11 @@
       "parrafo": "<p><strong>Somos Metalúrgica Losama</strong>, líderes en el mercado con más de 20 años de aval. Estamos muy contentos de ampliar nuestros canales de comunicación con nuestros clientes y proveedores. </br> ▶ Alambrones calidad 1005, 1006, 1008; Bulonero PA03, 1004FW; Recocidos </br>▶ Alambres calidad 1005, 1006, 1008, Buloneros PA03 y recocidos</br> ▶ Alambre de Fardo, recocido del 16</br> ▶ Clavos punta París </br>▶ Varillas. Alambre enderezado y cortado a medida</br> ▶ Barras calidad 1011 </br>📌 Estamos en Roentgen 467 - Villa Tesei, partido de Hurlingham - Buenos Aires.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/250/files/page/34.jpg",
-        "tapa2": "../emagazine/241/files/page/49.jpg"
+        "tapa1": "../emagazine/259/files/page/67.jpg",
+        "tapa2": "../emagazine/253/files/page/35.jpg",
+        "tapa3": "../emagazine/254/files/page/79.jpg",
+        "tapa4": "../emagazine/250/files/page/34.jpg",
+        "tapa5": "../emagazine/241/files/page/49.jpg"
       },
       "social": {
         "email": "gabriela_losama@hotmail.com",
@@ -1353,9 +1369,10 @@
       "parrafo": "<p><strong>Metalúrgica Persico</strong> - Fabricamos y reacondicionamos herramientas como rodillos para roscas cilíndricas, cónicas, trapezoidales, esferas, ranuras y pasos especiales, moletas rectas, cruzadas y helicoidales, peines para roscas UNC, UNF, Whitworth, moleteado, ranura y Parker, fresadores de roscas cilíndricas o cónicas y rodillos para torno. Realizamos rectificado de cualquier tipo de rosca, normalizado o bajo plano. Ofrecemos un servicio <strong>Puerta a Puerta</strong> sin cargo para retiro y entrega de herramientas, además de un <strong>Servicio Urgente de Reafilado</strong>, garantizando soluciones inmediatas con infraestructura y personal capacitado.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/240/files/page/12.jpg",
-        "tapa2": "../emagazine/238/files/page/14.png",
-        "tapa3": "../emagazine/237/files/page/14.jpg"
+        "tapa1": "../emagazine/259/files/page/26.jpg",
+        "tapa2": "../emagazine/240/files/page/12.jpg",
+        "tapa3": "../emagazine/238/files/page/14.png",
+        "tapa4": "../emagazine/237/files/page/14.jpg"
       },
       "social": {
         "email": "metalpersico@yahoo.com.ar",
@@ -1423,8 +1440,7 @@
       "parrafo": "<p><strong>RMD Internacional</strong> - Representante exclusivo en Argentina de CHUM YUAN CO y GREENSLAD & COMPANY.</br> Nuestro respaldo y alto nivel profesional nos permiten ofrecer soluciones integrales para los requerimientos específicos de cada cliente en todas las etapas de sus procesos productivos. </br><strong>¿QUÉ HACEMOS?</strong> </br>Brindamos asesoramiento y provisión en máquinas, herramientas, insumos y productos relacionados, con un servicio completo y de alta calidad pre/post-venta. </br><strong>¿QUÉ BUSCAMOS?</strong> </br>Ser la mejor solución para nuestros clientes, ayudándolos a ser más competitivos mediante la reducción de costos y la optimización de tiempos, ofreciendo todo lo que necesitan en un solo lugar. </br><a href=\"https://www.youtube.com/watch?v=TtiFvJE3uEc\" target=\"_blank\" class=\"link-productos\">Ver video en YouTube</a></p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/237/files/page/67.jpg",
-        "tapa2": "../emagazine/226/files/mobile/19.jpg"
+        "tapa1": "../emagazine/237/files/page/67.jpg"
       },
       "social": {
         "email": "info@rmd-internacional.com",
@@ -1547,8 +1563,7 @@
         "tapa6": "../emagazine/237/files/page/69.jpg",
         "tapa7": "../emagazine/236/files/mobile/59.jpg",
         "tapa8": "../emagazine/234/files/mobile/65.jpg",
-        "tapa9": "../emagazine/233/files/mobile/49.jpg",
-        "tapa10": "../emagazine/230/files/mobile/26.jpg"
+        "tapa9": "../emagazine/233/files/mobile/49.jpg"
       },
       "social": {
         "email": "tornilloslomas@tornilloslomas.com.ar",
@@ -1597,18 +1612,20 @@
       "parrafo": "<p>Nace en el año 1961 en la localidad de Valentin Alsina, Partido de Lanús como 'Vicente Laurutis e Hijos', dedicada a la fabricación de máquinas para la industria de la tornilleria y la bulonería. En la década del 80, el país se abre al ingreso de productos del exterior, y nuestra empresa importa las primeras roscadoras para dedicarse a la fabricación de tornillos para madera, avalados por la experiencia de muchos años en el sector. Con el tiempo se incrementó el plantel de maquinaria, ahora de fabricación nacional. En los últimos años, la tendencia fue incorporar los nuevos productos de fijación que demanda el mercado. Así, a la tradicional línea de tornillos Bis , se le incorporaron la linea Dry para madera y construccion en seco.</p>",
       "catalogo": "https://www.vialro.com.ar/img/catalogo.pdf",
       "revista": {
-        "tapa1": "../emagazine/257/files/page/27.jpg",
-        "tapa2": "../emagazine/256/files/page/25.jpg",
-        "tapa3": "../emagazine/255/files/page/21.jpg",
-        "tapa4": "../emagazine/253/files/page/25.jpg",
-        "tapa5": "../emagazine/252/files/page/35.jpg",
-        "tapa6": "../emagazine/251/files/page/23.jpg",
-        "tapa7": "../emagazine/250/files/page/25.jpg",
-        "tapa8": "../emagazine/249/files/page/23.jpg",
-        "tapa9": "../emagazine/248/files/page/22.jpg",
-        "tapa10": "../emagazine/248/files/page/23.jpg",
-        "tapa11": "../emagazine/247/files/page/20.jpg",
-        "tapa12": "../emagazine/247/files/page/21.jpg"
+        "tapa1": "../emagazine/259/files/page/15.jpg",
+        "tapa2": "../emagazine/258/files/page/25.jpg",
+        "tapa3": "../emagazine/257/files/page/27.jpg",
+        "tapa4": "../emagazine/256/files/page/25.jpg",
+        "tapa5": "../emagazine/255/files/page/21.jpg",
+        "tapa6": "../emagazine/253/files/page/25.jpg",
+        "tapa7": "../emagazine/252/files/page/35.jpg",
+        "tapa8": "../emagazine/251/files/page/23.jpg",
+        "tapa9": "../emagazine/250/files/page/25.jpg",
+        "tapa10": "../emagazine/249/files/page/23.jpg",
+        "tapa11": "../emagazine/248/files/page/22.jpg",
+        "tapa12": "../emagazine/248/files/page/23.jpg",
+        "tapa13": "../emagazine/247/files/page/20.jpg",
+        "tapa14": "../emagazine/247/files/page/21.jpg"
       },
       "social": {
         "email": "info@vialro.com.ar",
@@ -1703,8 +1720,9 @@
       "parrafo": "<p><strong>Nuestra empresa</strong><br>ZC Herramental es una empresa joven que nace en el año 2015 formada por Daniel Cantamessa y Marcelo Zanotti, partiendo de la riqueza de la experiencia adquirida en una empresa con largos años de trayectoria en el mercado, como es Extrapol. Nos desarrollamos sobre los mismos valores y principios que Extrapol promovió desde sus orígenes con la dirección de Oscar Cantamessa, y luego sostenidos por Daniel Cantamessa. Como empresa ZC está en la constante búsqueda de lograr apoyar a nuestros clientes mediante a 3 pilares fundamentales; Productos de calidad, excelente relación de precio y atención dedicada.<br>Forjamos alianzas importantes con proveedores tanto locales como internacionales, para lograr de esta manera que nuestros clientes confíen en brindarnos un lugar en sus comercios. Tenemos la convicción de que el trabajo comprometido y conjunto con nuestros clientes es la garantía de nuestro éxito. La capacidad de entender los cambios del mercado, y adaptarnos a los mismos son parte de nuestra visión para seguir construyendo un futuro en el canal ferretero.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/257/files/page/47.jpg",
-        "tapa2": "../emagazine/256/files/page/53.jpg"
+        "tapa1": "../emagazine/259/files/page/64.jpg",
+        "tapa2": "../emagazine/257/files/page/47.jpg",
+        "tapa3": "../emagazine/256/files/page/53.jpg"
       },
       "social": {
         "email": "ventas@zcherramental.com.ar",

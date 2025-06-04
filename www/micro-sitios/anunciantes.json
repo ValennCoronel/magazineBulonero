@@ -66,7 +66,8 @@
       "parrafo": "",
       "catalogo": "",
       "revista": {
-        "tapa1":"../micro-sitios/img/intar-258.jpg"
+        "tapa1":"../micro-sitios/img/intar-259.jpg",
+        "tapa2":"../micro-sitios/img/intar-258.jpg"
       },
       "social": {
         "email": "info@intartornillos.com",
@@ -104,8 +105,7 @@
       "parrafo": "<p><b>Somos importadores directos</b><br><br>Más de <b>5.000 artículos</b> a disposición del mercado ferretero.<br><br><b>ALTOS OBJETIVOS</b><br>Apuntamos alto, con el objetivo de brindar un servicio de excelencia en todo el país. Nuestras representaciones son marcas de calidad, poseen productos diseñados para brindar una solución robusta a costos eficientes para los consumidores y el mercado en general. Herramientas y máquinas que duran, que buscan superar el estándar.<br><br><b>Equipo</b><br>Somos un equipo de profesionales que trabaja dinámicamente para superar las expectativas de nuestro servicio. Siempre a disposición de cada cliente para poder impulsar su negocio con una gestión simple y eficaz.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/259/files/page/29.jpg",
-        "tapa2": "../emagazine/258/files/page/47.jpg"
+        "tapa1": "../emagazine/259/files/page/29.jpg"
       },
       "social": {
         "email": "ventas@bluetoolssrl.com.ar",
@@ -685,8 +685,7 @@
         "tapa2": "../emagazine/240/files/page/39.jpg",
         "tapa3": "../emagazine/238/files/page/28.jpg",
         "tapa4": "../emagazine/238/files/page/29.jpg",
-        "tapa5": "../emagazine/233/files/mobile/29.jpg",
-        "tapa6": "../emagazine/232/files/mobile/36.jpg"
+        "tapa5": "../emagazine/233/files/mobile/29.jpg"
       },
       "social": {
         "email": "info@bmbulmetal.com.ar",
@@ -1149,8 +1148,7 @@
       "revista": {
         "tapa1": "../emagazine/256/files/page/57.jpg",
         "tapa2": "../emagazine/257/files/page/46.jpg",
-        "tapa3": "../emagazine/258/files/page/57.jpg",
-        "tapa4": "../emagazine/259/files/page/98.jpg"
+        "tapa3": "../emagazine/258/files/page/57.jpg"
       },
       "social": {
         "email": "info@fatansa.com.ar",
@@ -1316,7 +1314,7 @@
       "parrafo": "<p><strong>Somos Metalúrgica Losama</strong>, líderes en el mercado con más de 20 años de aval. Estamos muy contentos de ampliar nuestros canales de comunicación con nuestros clientes y proveedores. </br> ▶ Alambrones calidad 1005, 1006, 1008; Bulonero PA03, 1004FW; Recocidos </br>▶ Alambres calidad 1005, 1006, 1008, Buloneros PA03 y recocidos</br> ▶ Alambre de Fardo, recocido del 16</br> ▶ Clavos punta París </br>▶ Varillas. Alambre enderezado y cortado a medida</br> ▶ Barras calidad 1011 </br>📌 Estamos en Roentgen 467 - Villa Tesei, partido de Hurlingham - Buenos Aires.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/259/files/page/67.jpg",
+        "tapa1": "../emagazine/251/files/page/67.jpg",
         "tapa2": "../emagazine/253/files/page/35.jpg",
         "tapa3": "../emagazine/254/files/page/79.jpg",
         "tapa4": "../emagazine/250/files/page/34.jpg",
@@ -1369,7 +1367,7 @@
       "parrafo": "<p><strong>Metalúrgica Persico</strong> - Fabricamos y reacondicionamos herramientas como rodillos para roscas cilíndricas, cónicas, trapezoidales, esferas, ranuras y pasos especiales, moletas rectas, cruzadas y helicoidales, peines para roscas UNC, UNF, Whitworth, moleteado, ranura y Parker, fresadores de roscas cilíndricas o cónicas y rodillos para torno. Realizamos rectificado de cualquier tipo de rosca, normalizado o bajo plano. Ofrecemos un servicio <strong>Puerta a Puerta</strong> sin cargo para retiro y entrega de herramientas, además de un <strong>Servicio Urgente de Reafilado</strong>, garantizando soluciones inmediatas con infraestructura y personal capacitado.</p>",
       "catalogo": "",
       "revista": {
-        "tapa1": "../emagazine/259/files/page/26.jpg",
+        "tapa1": "../emagazine/259/files/page/26.png",
         "tapa2": "../emagazine/240/files/page/12.jpg",
         "tapa3": "../emagazine/238/files/page/14.png",
         "tapa4": "../emagazine/237/files/page/14.jpg"
